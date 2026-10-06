@@ -8,7 +8,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 12ee914ed944c82694b9373f611e19cf040e2229
 workflow-type: tm+mt
 source-wordcount: '1719'
 ht-degree: 4%
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 Obtenga orientación con la interfaz de Chat del compañero. Esta guía cubre todo, desde el acceso a la aplicación y la navegación por el espacio de trabajo hasta sacar el máximo partido a las conversaciones, administrar el historial y adaptar la configuración.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498570?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Acceso a Coworker Chat
 
@@ -36,7 +36,7 @@ La siguiente tabla muestra cuándo estarán disponibles estas experiencias para 
 | CJA | Disponible ahora | Próximamente |
 | Workfront | Disponible ahora | Próximamente: <br><br>* a principios de septiembre de 2026 en la instancia de vista previa para determinados administradores del sistema de Workfront aptos<br><br>* a mediados de septiembre de 2026 en la instancia de producción para clientes de Workfront de versión rápida aptos<br><br>* a mediados de octubre de 2026 en la instancia de producción para clientes de Workfront de versión trimestral aptos |
 | Target | Disponible ahora | Disponible ahora |
-| AEM | Disponible ahora | Próximamente |
+| AEM | Disponible ahora | Disponible ahora |
 | Marketo Engage | Disponible ahora | Próximamente |
 
 ### Experiencia envolvente {#immersive}
