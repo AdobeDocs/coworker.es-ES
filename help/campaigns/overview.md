@@ -114,7 +114,7 @@ Campañas de compañeros de trabajo es un producto en desarrollo activo. Esto es
 
 ## Vídeo introductorio
 
->[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492810?captions=spa&learn=on){transcript=true}
 
 
 Las nuevas funciones se enviarán durante la versión de prueba. Los comentarios ayudan a determinar lo que viene después. Envíe comentarios a través del icono de comentarios del producto en el encabezado.

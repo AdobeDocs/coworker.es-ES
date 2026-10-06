@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Obtenga un recorrido rápido y una descripción general de las integraciones de Coworker, incluido qué es una integración, por qué utilizaría una y cómo utilizar la interfaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503744/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503748/?captions=spa&learn=on&enablevpops)

@@ -31,7 +31,7 @@ En lugar de crear informes e interpretar métricas manualmente, el analista trab
 
 El resultado es un flujo de trabajo repetible que se puede ejecutar bajo demanda con un indicador simple.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502323/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502335/?captions=spa&learn=on&enablevpops)
 
 ## Convierta el análisis en una aptitud reutilizable
 

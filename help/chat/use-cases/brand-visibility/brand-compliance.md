@@ -28,4 +28,4 @@ Por ejemplo, los compañeros de trabajo pueden revisar el contenido generado aut
 
 El colaborador no solo identifica los problemas, sino que también ofrece sugerencias útiles. Por ejemplo, si un pie de ilustración es demasiado genérico o carece de call to action, proporciona una versión revisada que cumple los estándares de su marca, junto con las etiquetas correspondientes. Este proceso optimiza la creación de contenido y garantiza el cumplimiento de la marca con un esfuerzo mínimo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502705/?captions=spa&learn=on&enablevpops)

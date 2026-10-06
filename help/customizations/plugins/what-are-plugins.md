@@ -17,7 +17,7 @@ ht-degree: 4%
 
 Este vídeo presenta los complementos y explica cómo amplían [!DNL Coworker] con nuevas funciones. Aprenderá qué es un complemento, qué componentes contiene, cómo se relacionan los complementos con las habilidades y los servidores MCP, y cómo instalar, utilizar y eliminar complementos de su espacio de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503656/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503660/?captions=spa&learn=on&enablevpops)
 
 ## ¿Qué es un complemento?
 

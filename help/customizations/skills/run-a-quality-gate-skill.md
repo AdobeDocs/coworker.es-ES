@@ -21,7 +21,7 @@ El desafío es que estas comprobaciones dependen con frecuencia de los conocimie
 
 En este vídeo, verá cómo una habilidad de Coworker personalizada actúa como una puerta de activación, validando automáticamente las audiencias con los estándares de activación de su organización antes de que se desplacen hacia abajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503162/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503168/?captions=spa&learn=on&enablevpops)
 
 ## Aptitud de puerta de calidad de activación de muestra
  

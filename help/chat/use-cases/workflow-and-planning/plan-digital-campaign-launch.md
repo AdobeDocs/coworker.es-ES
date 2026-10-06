@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Planificar un lanzamiento digital de una nueva propiedad suele significar incorporar equipos de análisis, audiencia, creativos y web que pueden tardar semanas. En este vídeo, aprenderá cómo Adobe Enterprise Coworker planea el lanzamiento digital de una nueva propiedad en Miami desde una sola conversación. El compañero entiende el objetivo y el historial del primer mensaje, combina datos de Experience Platform de origen con datos de Market Intelligence de Semrush en directo y, a continuación, crea la audiencia, el recorrido del cliente, el experimento de contenido y la página de aterrizaje, mientras que la gobernanza, el consentimiento y las reglas empresariales permanecen en vigor con la revisión humana donde es necesario.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503873?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503876?captions=spa&learn=on)
 
 ## Priorizar el día y articular un objetivo
 

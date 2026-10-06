@@ -26,4 +26,4 @@ Para comprender por qué cambian las métricas a menudo es necesario navegar por
  
 Con el lenguaje natural, los analistas y los especialistas en marketing pueden hacer preguntas sobre sus datos, recibir resultados visualizados, identificar tendencias significativas y descubrir los factores que impulsan el rendimiento, todo ello dentro de una sola conversación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496855/?captions=spa&learn=on&enablevpops)

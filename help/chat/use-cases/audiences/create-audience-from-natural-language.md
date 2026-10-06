@@ -24,4 +24,4 @@ ht-degree: 0%
 
 La auditoría de cómo se conectan las audiencias, los recorridos, los conjuntos de datos y los destinos suele ser un ejercicio manual y laborioso. En este vídeo, aprenderá cómo los colaboradores pueden obtener una vista operativa completa de su entorno de Adobe Experience Platform (AEP), compararlo con las prácticas recomendadas del sector y utilizar estos resultados para crear una nueva audiencia, todo ello en una sola conversación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496848/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496870/?captions=spa&learn=on&enablevpops)

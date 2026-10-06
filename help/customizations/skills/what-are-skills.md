@@ -22,7 +22,7 @@ Las habilidades son libros de reproducción reutilizables que ayudan a Adobe CX 
  
 En este vídeo, aprenderá cómo funcionan las habilidades, cuándo utilizarlas y cómo ayudan a los equipos a escalar prácticas de experiencia del cliente repetibles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502322/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502326/?captions=spa&learn=on&enablevpops)
 
 Una aptitud proporciona:
 

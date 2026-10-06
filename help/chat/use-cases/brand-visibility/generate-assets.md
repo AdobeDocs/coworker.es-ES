@@ -27,4 +27,4 @@ Por ejemplo, para crear una publicación de café en Instagram, puede proporcion
 
 Los compañeros de trabajo también ofrecen flexibilidad para una mayor personalización. Puede modificar recursos, crear variaciones o adaptar el contenido a distintos formatos, como las historias de Instagram. Este enfoque le permite centrarse en sus objetivos mientras su compañero gestiona los detalles técnicos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502692/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502712/?captions=spa&learn=on&enablevpops)

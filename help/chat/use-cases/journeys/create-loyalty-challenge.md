@@ -25,7 +25,7 @@ En esta demostración, verá cómo se utiliza la función de fidelidad de Adobe 
  
 El vídeo muestra el complemento de fidelidad y su habilidad de administración de desafíos, una capacidad con tecnología de IA que ayuda a los especialistas en marketing a crear, editar y administrar los desafíos de fidelidad mediante un lenguaje natural en lugar de configurar manualmente cada configuración en la interfaz de usuario.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496541/?captions=spa&learn=on&enablevpops)
 
 ## Consulte también
 

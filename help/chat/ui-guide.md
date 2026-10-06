@@ -17,7 +17,7 @@ ht-degree: 4%
 
 Obtenga orientación con la interfaz de Chat del compañero. Esta guía cubre todo, desde el acceso a la aplicación y la navegación por el espacio de trabajo hasta sacar el máximo partido a las conversaciones, administrar el historial y adaptar la configuración.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498570?captions=spa&learn=on)
 
 ## Acceso a Coworker Chat
 
