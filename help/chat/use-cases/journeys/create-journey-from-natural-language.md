@@ -30,5 +30,5 @@ Al automatizar el proceso de configuración inicial, los equipos pueden dedicar 
 
 ## Consulte también
 
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la capacidad de IA subyacente que impulsa la creación de recorridos en el chat de Coworker.
+- [Journey Agent](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la capacidad de IA subyacente que impulsa la creación de recorridos en el chat de Coworker.
 - [Más casos de uso de chat con compañeros](../overview.md#journeys)

@@ -12,7 +12,7 @@ Utilice CX Coworker para comprender el valor de los datos de evento de experienc
 
 ## Antes de empezar {#before-you-begin}
 
-Asegúrese de estar trabajando en el entorno limitado que contiene los conjuntos de datos que desea revisar. También necesita acceder al agente de gestión de datos y a los permisos de Adobe Experience Platform necesarios. Ver [Requisitos previos del agente de administración de datos](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management#prerequisites).
+Asegúrese de estar trabajando en el entorno limitado que contiene los conjuntos de datos que desea revisar. También necesita acceder al agente de gestión de datos y a los permisos de Adobe Experience Platform necesarios. Ver [Requisitos previos del agente de administración de datos](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management#prerequisites).
 
 ## Optimización de datos en la zona protegida {#optimize-data-in-your-sandbox}
 
@@ -26,7 +26,7 @@ Para decidir por dónde empezar, pida a sus compañeros que identifiquen conjunt
 
 Una vez que haya reducido la lista, utilice la habilidad Analizar uso del conjunto de datos para averiguar cómo se utiliza activamente un conjunto de datos específico.
 
-No todos los conjuntos de datos no utilizados o abandonados que aparecen con esta aptitud son buenos candidatos para una política de retención de lago de datos. Si necesita quitar un conjunto de datos completo o administrar datos en otro almacén de Experience Platform, vea [Elegir la capacidad de administración del ciclo de vida de datos correcta](https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/choose-a-capability). Antes de establecer una política de retención de lago de datos, confirme que el conjunto de datos es un conjunto de datos de evento de experiencia.
+No todos los conjuntos de datos no utilizados o abandonados que aparecen con esta aptitud son buenos candidatos para una política de retención de lago de datos. Si necesita quitar un conjunto de datos completo o administrar datos en otro almacén de Experience Platform, vea [Elegir la capacidad de administración del ciclo de vida de datos correcta](https://experienceleague.adobe.com/es/docs/experience-platform/data-lifecycle/choose-a-capability). Antes de establecer una política de retención de lago de datos, confirme que el conjunto de datos es un conjunto de datos de evento de experiencia.
 
 Ejemplos de peticiones de datos:
 
@@ -78,7 +78,7 @@ Una vez que haya decidido un período de retención, utilice la habilidad Admini
 
 ![Compañero de trabajo que muestra la directiva de retención del lago de datos propuesta, su impacto y la confirmación necesaria antes de aplicar el cambio.](../../assets/data-management/retention-impact-preview.png)
 
-Después de confirmar una política de retención, el cambio puede tardar un poco en aparecer en la interfaz de usuario de Adobe Experience Platform. La política de retención no elimina inmediatamente los datos caducados. El trabajo de retención inicial se inicia dentro de las 24 horas siguientes a la aplicación de la directiva. Después de la ejecución inicial, un trabajo programado evalúa y elimina los registros caducados cada 30 días. Consulte la guía de retención de conjuntos de datos (TTL) de [Experience Event](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide) para obtener más información sobre la retención y la depuración.
+Después de confirmar una política de retención, el cambio puede tardar un poco en aparecer en la interfaz de usuario de Adobe Experience Platform. La política de retención no elimina inmediatamente los datos caducados. El trabajo de retención inicial se inicia dentro de las 24 horas siguientes a la aplicación de la directiva. Después de la ejecución inicial, un trabajo programado evalúa y elimina los registros caducados cada 30 días. Consulte la guía de retención de conjuntos de datos (TTL) de [Experience Event](https://experienceleague.adobe.com/es/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide) para obtener más información sobre la retención y la depuración.
 
 Cada cambio de la política de retención se registra en una pista de auditoría, incluso cuando se establece, cambia o elimina una política. La pista de auditoría registra quién realizó cada cambio, cuándo se produjo y qué se modificó. Puede seguir el vínculo proporcionado por el colaborador para revisar estos eventos en la pestaña Registro de auditoría del conjunto de datos en Adobe Experience Platform. Para obtener más información, consulte [Resumen de registros de auditoría](https://experienceleague.adobe.com/es/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview).
 
@@ -99,4 +99,4 @@ Tenga en cuenta las siguientes prácticas al utilizar el agente de gestión de d
 
 ## Próximos pasos {#next-steps}
 
-Para obtener más información sobre las habilidades, el ámbito, el comportamiento y las limitaciones del agente de administración de datos, consulte la [descripción general del agente de administración de datos](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management). Para obtener más información sobre cómo funcionan las políticas de retención del lago de datos en Adobe Experience Platform, consulte la [guía de retención de conjuntos de datos de eventos de experiencia (TTL)](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide).
+Para obtener más información sobre las habilidades, el ámbito, el comportamiento y las limitaciones del agente de administración de datos, consulte la [descripción general del agente de administración de datos](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management). Para obtener más información sobre cómo funcionan las políticas de retención del lago de datos en Adobe Experience Platform, consulte la [guía de retención de conjuntos de datos de eventos de experiencia (TTL)](https://experienceleague.adobe.com/es/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide).
