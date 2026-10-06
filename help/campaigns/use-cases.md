@@ -162,4 +162,4 @@ Mejor para: Cualquier audiencia que haya permanecido en silencio.
 
 ## ¿Listo para compilar?
 
-Elija un caso de uso anterior, visite [Crear una campaña de correo electrónico](./) para ver el paso a paso completo y pruébelo.
+Elija un caso de uso anterior, visite [Crear una campaña de correo electrónico] (./) para ver el paso a paso completo y pruébelo.

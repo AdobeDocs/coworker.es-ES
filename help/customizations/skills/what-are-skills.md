@@ -45,6 +45,7 @@ Muchas organizaciones realizan los mismos tipos de tareas repetidamente, entre e
 
 Las habilidades ayudan a los equipos a capturar y reutilizar estas prácticas recomendadas sin volver a explicar manualmente el proceso cada vez.
  
+
 ## Aptitudes y administración de datos
 
 Las aptitudes no almacenan datos de clientes.
