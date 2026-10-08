@@ -19,7 +19,7 @@ La calidad de los datos es la base de unos informes precisos en Adobe Customer J
 
 En este vídeo, aprenderá a utilizar la habilidad **Validación de datos en Adobe CX Enterprise Coworker** para evaluar rápidamente la calidad de los conjuntos de datos que alimentan la implementación de Customer Journey Analytics, sin necesidad de escribir consultas ni inspeccionar datos manualmente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503522/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503519/?learn=on&enablevpops)
 
 ## Descubra los conjuntos de datos subyacentes a los informes de CJA
 

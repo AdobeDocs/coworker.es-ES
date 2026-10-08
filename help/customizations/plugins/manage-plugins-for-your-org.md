@@ -54,7 +54,7 @@ ht-degree: 0%
 
 Descubra cómo los administradores pueden ampliar Adobe Coworker Chat con complementos aprobados, administrar mercados y regular el acceso a habilidades y herramientas conectadas, manteniendo la alineación con los permisos de Adobe existentes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504185/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504182/?learn=on&enablevpops)
 
 ## Qué va a aprender
  

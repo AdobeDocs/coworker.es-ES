@@ -18,7 +18,7 @@ La información de esta página proporciona información general sobre Adobe CX 
 
 Coworker Chat permite a los equipos automatizar las tareas de productos de Adobe utilizando un lenguaje natural, convirtiendo rápidamente las ideas en acciones con una planificación flexible, habilidades personalizables y ejecución inteligente. Para obtener más información general sobre el Compañero de trabajo, consulte [Información general de CX Enterprise Coworker](/help/home.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3503522/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503519/?learn=on&enablevpops)
 
 ## Funcionamiento del análisis de datos
 
