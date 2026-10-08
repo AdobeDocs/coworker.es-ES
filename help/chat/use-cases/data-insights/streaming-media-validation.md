@@ -2,15 +2,15 @@
 title: Validación de la implementación de Streaming Media con Coworker
 description: Descubra cómo la aptitud de validación de medios de streaming de su compañero comprueba su configuración, sesiones y registros para confirmar que la implementación realiza un seguimiento correcto.
 hold: true
-source-git-commit: 94cf399a48d13ee83c702804b50fdccd4baa9d71
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '1301'
+source-wordcount: '1304'
 ht-degree: 0%
 ---
 
 # Valide la implementación de medios de streaming con su compañero
 
-Sus compañeros de trabajo incluyen una aptitud de validación de medios de streaming que comprueba la implementación de Adobe Streaming Media (Video and Audio Analytics) en Edge Network y alimenta a Customer Journey Analytics o Adobe Analytics. En lugar de hacer referencias cruzadas manuales de Assurance, la configuración de conjuntos de datos, los grupos de campos de esquema XDM, la configuración de vistas de datos de Customer Journey Analytics y los registros de red sin procesar, se obtiene un solo informe de validación.
+Adobe CX Enterprise Coworker incluye una aptitud de validación de medios de streaming que comprueba la implementación de Adobe Streaming Media (Video and Audio Analytics) en Edge Network y alimenta a Customer Journey Analytics o Adobe Analytics. En lugar de hacer referencias cruzadas manuales de Assurance, la configuración de conjuntos de datos, los grupos de campos de esquema XDM, la configuración de vistas de datos de Customer Journey Analytics y los registros de red sin procesar, se obtiene un solo informe de validación.
 
 Si va a implementar o solucionar problemas con el seguimiento de medios de streaming, puede utilizar esta habilidad para confirmar que la implementación esté configurada correctamente, recopilar los datos según lo esperado y capturar lo que pretendía rastrear, todo ello dentro de una sola conversación de chat con compañeros.
 
