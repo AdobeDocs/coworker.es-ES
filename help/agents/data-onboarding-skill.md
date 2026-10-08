@@ -28,7 +28,7 @@ Antes de empezar, asegúrese de que dispone de lo siguiente:
 - Acceso a Adobe CX Enterprise Coworker, con la aptitud de incorporación de datos habilitada para su organización.
 - Permiso para crear esquemas en Adobe Experience Platform.
 
-Para obtener instrucciones sobre la instalación de complementos, consulte la [guía de la interfaz de usuario de Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
+Para obtener instrucciones sobre la instalación de complementos, consulte la [guía de la interfaz de usuario de Coworker](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
 
 ## Uso de la habilidad de incorporación de datos {#use-the-data-onboarding-skill}
 
@@ -48,7 +48,7 @@ Para utilizar la habilidad de incorporación de datos:
 
 1. Continúe la conversación con su compañero a través de la revisión de la calidad de los datos, el enriquecimiento semántico, la asignación de esquemas y la creación de esquemas, confirmando cada paso a medida que avanza.
 
-Para obtener más información sobre el uso de CX Coworker, consulte la [Guía de la interfaz de usuario de Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
+Para obtener más información sobre el uso de CX Coworker, consulte la [Guía de la interfaz de usuario de Coworker](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
 
 ## Casos de uso admitidos {#supported-use-cases}
 
@@ -78,4 +78,4 @@ El compañero completa la incorporación creando el flujo de datos necesario par
 
 Después de leer esta guía, debe comprender cómo iniciar la habilidad de incorporación de datos desde la creación del esquema y lo que le ayuda a lograr en CX Coworker.
 
-Para el procedimiento de la interfaz de usuario de Experience Platform y los escenarios de acceso/elegibilidad, consulte [Incorporar datos con IA](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/ui/resources/schemas#data-onboarding-skill) en la guía de la interfaz de usuario de esquemas.
+Para el procedimiento de la interfaz de usuario de Experience Platform y los escenarios de acceso/elegibilidad, consulte [Incorporar datos con IA](https://experienceleague.adobe.com/es/docs/experience-platform/xdm/ui/resources/schemas#data-onboarding-skill) en la guía de la interfaz de usuario de esquemas.
