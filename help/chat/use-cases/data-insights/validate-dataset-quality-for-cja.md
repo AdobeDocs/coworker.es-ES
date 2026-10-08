@@ -8,18 +8,18 @@ doc-type: Feature Video
 duration: 330
 last-substantial-update: 2026-09-16
 jira: KT-22622
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '625'
+source-wordcount: '628'
 ht-degree: 0%
 ---
 # Validar datos de Customer Journey Analytics con la aptitud de validación de datos en [!DNL Coworker]
 
 La calidad de los datos es la base de unos informes precisos en Adobe Customer Journey Analytics (CJA). Antes de crear métricas, tableros, segmentos o recorridos de clientes, es fundamental saber si se puede confiar en los datos de Adobe Experience Platform (AEP) subyacentes.
 
-En este vídeo, aprenderá a utilizar la habilidad de validación de datos **de Coworker** para evaluar rápidamente la calidad de los conjuntos de datos que alimentan la implementación de Customer Journey Analytics, sin necesidad de escribir consultas ni inspeccionar manualmente los datos.
+En este vídeo, aprenderá a utilizar la habilidad **Validación de datos en Adobe CX Enterprise Coworker** para evaluar rápidamente la calidad de los conjuntos de datos que alimentan la implementación de Customer Journey Analytics, sin necesidad de escribir consultas ni inspeccionar datos manualmente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503522/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503519/?learn=on&enablevpops)
 
 ## Descubra los conjuntos de datos subyacentes a los informes de CJA
 
