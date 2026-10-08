@@ -6,10 +6,10 @@ description: Obtenga información sobre las herramientas de IA en CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 hide: true
-source-git-commit: e35e97f90153da41a9236a9fa761be65d3bd73c1
+source-git-commit: 787ca195c0e779575bd17a67ffac16941dc5135a
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 19%
+source-wordcount: '222'
+ht-degree: 18%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -39,6 +39,7 @@ ht-degree: 19%
       - [Creación de un desafío de lealtad y perspectivas de superficie](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - Optimización {#optimization}
       - [Iniciar actividades de Target](./chat/use-cases/optimization/target.md)
+      - [Acelerar la experimentación](./chat/use-cases/optimization/accelerate-experimentation.md)
     - Herramientas de zona protegida {#sandbox-tooling}
       - [Aptitudes agénticas de herramientas de zona protegida](./chat/use-cases/sandbox-tooling/sandbox-tooling.md)
     - Alertas {#alerts}
