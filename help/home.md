@@ -8,9 +8,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee990126b1447f2eb2634761d27358f9d2e4586d
+source-git-commit: 0bdba61cab438bc8e3ad4f7ca04f1df2cd3711b7
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '800'
 ht-degree: 15%
 ---
 # Información general de CX Enterprise Coworker {#overview}
@@ -21,7 +21,7 @@ Coworker es un compañero con tecnología de IA que reimagina la naturaleza del 
 
 Coworker Chat permite a los equipos automatizar las tareas de productos de Adobe utilizando un lenguaje natural, convirtiendo rápidamente las ideas en acciones con una planificación flexible, habilidades personalizables y ejecución inteligente.
 
-## Coworker Chat Essentials
+## Aspectos básicos del chat con compañeros
 
 Tanto si acaba de empezar como si desea profundizar en su experiencia, estas listas de reproducción proporcionan una introducción guiada al chat de CX Enterprise Coworker. Aprenda a navegar por las funciones clave, cree indicadores efectivos y vea ejemplos prácticos de cómo Coworker ayuda a los equipos a trabajar de forma más eficiente en los productos de Adobe Experience Cloud.
 
@@ -155,9 +155,9 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Equipos de compañeros (anteriormente, Campaigns)
+## Campañas de compañeros
 
-Equipos de compañeros es una función con plantillas para que los equipos pequeños de Agile se pongan de pie y ejecuten campañas.
+Campañas de compañeros es una función con plantillas para que los equipos pequeños de Agile se pongan de pie y ejecuten campañas.
 
 * [Información general](./campaigns/overview.md)
 * [Creación de una campaña de correo electrónico](./campaigns/create-an-email-campaign.md)
