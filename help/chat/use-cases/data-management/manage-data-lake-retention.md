@@ -16,7 +16,7 @@ ht-degree: 1%
 
 Utilice CX Coworker para comprender el valor de los datos de evento de experiencia en su zona protegida e identificar los datos que pueden beneficiarse de la optimización. Puede comenzar con una solicitud amplia, como pedir a su compañero que optimice los datos de su zona protegida o que limpie los conjuntos de datos. El colaborador utiliza el agente de administración de datos para mostrar conjuntos de datos que merecen la pena investigar, analizar cómo se utiliza un conjunto de datos, modelar el impacto de un período de retención y, cuando corresponda, ayudarle a administrar su política de retención del lago de datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504095?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504099?captions=spa&learn=on)
 
 ## Antes de empezar {#before-you-begin}
 
