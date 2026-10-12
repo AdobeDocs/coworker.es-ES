@@ -1,7 +1,13 @@
 ---
 title: Administrar la retención del lago de datos
 description: Aprenda a utilizar CX Coworker para identificar los datos de Experience Event que vale la pena optimizar, analizar el uso de los conjuntos de datos y el impacto en la retención y administrar las políticas de retención del lago de datos.
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+role: Developer
+level: Beginner, Intermediate
+doc-type: Feature Video
+duration: 160
+last-substantial-update: 2026-10-09
+jira: KT-22762
+source-git-commit: 7ae11e6865d847c6a3c316ffa26b2e4303f7e40d
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 1%
@@ -9,6 +15,8 @@ ht-degree: 1%
 # Administrar la retención del lago de datos
 
 Utilice CX Coworker para comprender el valor de los datos de evento de experiencia en su zona protegida e identificar los datos que pueden beneficiarse de la optimización. Puede comenzar con una solicitud amplia, como pedir a su compañero que optimice los datos de su zona protegida o que limpie los conjuntos de datos. El colaborador utiliza el agente de administración de datos para mostrar conjuntos de datos que merecen la pena investigar, analizar cómo se utiliza un conjunto de datos, modelar el impacto de un período de retención y, cuando corresponda, ayudarle a administrar su política de retención del lago de datos.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3504099?captions=spa&learn=on)
 
 ## Antes de empezar {#before-you-begin}
 
