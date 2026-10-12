@@ -20,7 +20,7 @@ Coworker es un compañero con tecnología de IA que reimagina la naturaleza del 
 El compañero de trabajo se entrega a través de tres experiencias:
 
 **[Compañero de trabajo [!UICONTROL Chat]](./chat/overview.md):** La función _[!UICONTROL Chats]_ le permite usar el lenguaje natural para solicitudes complejas, perspectivas, generación de contenido y acciones en aplicaciones de Adobe.
-**[Campañas]](./campaigns/overview.md) de [!UICONTROL Compañero de trabajo:** _[!UICONTROL Campañas]_ está diseñado para llevar a los equipos de marketing Agile desde el objetivo de una campaña hacia la ejecución coordinada de la campaña.
+**[Campañas](./campaigns/overview.md) de Compañero de trabajo:** _[!UICONTROL Campañas]_ está diseñado para llevar a los equipos de marketing Agile desde el objetivo de una campaña hacia la ejecución coordinada de la campaña.
 **Proyectos de [!UICONTROL compañeros] (próximamente):** _[!UICONTROL Los proyectos]_ están diseñados para flujos de trabajo empresariales interfuncionales de más larga duración en los que los equipos definen procesos, aprobaciones y el nivel de autonomía de los compañeros.
 
 ## Elementos esenciales de [!DNL Coworker] [!UICONTROL chats]
