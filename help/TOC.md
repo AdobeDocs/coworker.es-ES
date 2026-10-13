@@ -5,9 +5,9 @@ user-guide-description: Obtenga información sobre Adobe CX Enterprise Coworker,
 description: Obtenga información sobre las herramientas de IA en CX Enterprise. Mejore su conocimiento del producto y obtenga perspectivas operativas mediante la IA en CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 8a3d0d693aebf0a40fcece3fde80558f6d02696c
+source-git-commit: 60669850e4005be01c31d9f7818d1c4ad3ed8f3a
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '227'
 ht-degree: 18%
 ---
 
@@ -21,7 +21,6 @@ ht-degree: 18%
   - Casos de uso {#use-cases}
     - [Casos de uso de chat con compañeros](./chat/use-cases/overview.md)
     - Data Insights {#data-insights}
-      - {hide-from-toc}[Información general](./chat/use-cases/data-insights/analytics-overview-v2.md)
       - {hide-from-toc}[Información general](./chat/use-cases/data-insights/analytics-overview.md)
       - [Introducción](./chat/use-cases/data-insights/analytics-chat.md)
       - [Explorar tendencias y causas básicas](./chat/use-cases/data-insights/root-cause-analysis.md)

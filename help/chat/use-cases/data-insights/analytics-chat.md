@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 60669850e4005be01c31d9f7818d1c4ad3ed8f3a
 workflow-type: tm+mt
 source-wordcount: '2094'
 ht-degree: 4%
 ---
 # Introducción al análisis de datos con Coworker Chat
 
-Configure Adobe CX Enterprise Coworker Chat para analizar las vistas de datos de Customer Journey Analytics o los grupos de informes de Adobe Analytics y, a continuación, siga un ejemplo práctico. Para obtener una descripción general de lo que puede hacer con el chat con compañeros, incluidos casos de uso, habilidades y prácticas recomendadas, consulte [Analizar datos con el chat con compañeros](/help/chat/use-cases/data-insights/analytics-overview-v2.md).
+Configure Adobe CX Enterprise Coworker Chat para analizar las vistas de datos de Customer Journey Analytics o los grupos de informes de Adobe Analytics y, a continuación, siga un ejemplo práctico. Para obtener una descripción general de lo que puede hacer con el chat con compañeros, incluidos casos de uso, habilidades y prácticas recomendadas, consulte [Analizar datos con el chat con compañeros](/help/chat/use-cases/data-insights/analytics-overview.md).
 
 Antes de empezar, conozca la interfaz de chat de Coworker y las opciones de configuración y, a continuación, asegúrese de que Coworker esté conectado a Customer Journey Analytics o Adobe Analytics y a las vistas de datos o grupos de informes relevantes.
 
@@ -331,4 +331,4 @@ Para abrir una visualización en un nuevo proyecto de Analysis Workspace:
 
 ## Próximos pasos
 
-Para ver más casos de uso, las habilidades que usa Chat del compañero para analizar los datos y las prácticas recomendadas para escribir avisos, consulte [Analizar datos con Chat del compañero](/help/chat/use-cases/data-insights/analytics-overview-v2.md).
+Para ver más casos de uso, las habilidades que usa Chat del compañero para analizar los datos y las prácticas recomendadas para escribir avisos, consulte [Analizar datos con Chat del compañero](/help/chat/use-cases/data-insights/analytics-overview.md).
