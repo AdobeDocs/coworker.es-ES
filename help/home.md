@@ -8,7 +8,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 662ac793f7838834f84cddc5d78859dae97930aa
+source-git-commit: c09bea49262950dcc3fc9a3bdf33b18e9c1d7c4d
 workflow-type: tm+mt
 source-wordcount: '834'
 ht-degree: 14%
@@ -19,13 +19,13 @@ Coworker es un compañero con tecnología de IA que reimagina la naturaleza del 
 
 El compañero de trabajo se entrega a través de tres experiencias:
 
-* **[Compañero de trabajo [!UICONTROL Chats]](./chat/overview.md):** Use lenguaje natural para solicitudes complejas, perspectivas, generación de contenido y acciones en aplicaciones de Adobe.
+* **[Colaborador [!UICONTROL Chat]](./chat/overview.md):** Use lenguaje natural para solicitudes complejas, perspectivas, generación de contenido y acciones en aplicaciones de Adobe.
 * **[Campañas de [!UICONTROL trabajo de compañeros]](./campaigns/overview.md):** diseñadas para llevar a los equipos de marketing Agile desde un objetivo de campaña hacia una ejecución de campaña coordinada.
 * **Proyectos de [!UICONTROL compañeros] (próximamente):** diseñados para flujos de trabajo empresariales interfuncionales de más larga duración en los que los equipos definen procesos, aprobaciones y el nivel de autonomía de los compañeros.
 
-## Elementos esenciales de [!DNL Coworker] [!UICONTROL chats]
+## Elementos esenciales para [!DNL Coworker] [!UICONTROL chat]
 
-Tanto si acaba de empezar como si desea profundizar en su experiencia, estas listas de reproducción proporcionan una introducción guiada al uso de la función [!UICONTROL Chats] en [!DNL Coworker]. Aprenda a navegar por las funciones clave, cree indicadores efectivos y vea ejemplos prácticos de cómo Coworker ayuda a los equipos a trabajar de forma más eficiente en los productos de Adobe Experience Cloud.
+Tanto si acaba de empezar como si desea profundizar su experiencia, estas listas de reproducción proporcionan una introducción guiada al uso de la función [!UICONTROL Chat] en [!DNL Coworker]. Aprenda a navegar por las funciones clave, cree indicadores efectivos y vea ejemplos prácticos de cómo Coworker ayuda a los equipos a trabajar de forma más eficiente en los productos de Adobe Experience Cloud.
 
 <!--
 CARDS
