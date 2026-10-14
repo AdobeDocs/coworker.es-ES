@@ -26,7 +26,7 @@ Tradicionalmente, la creación de recorridos de cliente requiere una amplia conf
  
 Al automatizar el proceso de configuración inicial, los equipos pueden dedicar menos tiempo a crear recorridos desde cero y más tiempo a refinar las experiencias de los clientes y los resultados empresariales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496879/?captions=spa&learn=on&enablevpops)
 
 ## Consulte también
 
