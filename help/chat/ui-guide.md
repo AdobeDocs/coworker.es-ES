@@ -17,7 +17,7 @@ ht-degree: 2%
 
 El chat de Coworker le permite trabajar con los datos y las herramientas de Adobe CX Enterprise preguntando lo que necesita en un lenguaje sencillo. Utilice esta página para abrir Chat del compañero, enviar su primer mensaje y configurarlo de la forma en que trabaja.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498570?captions=spa&learn=on)
 
 ## Disponibilidad
 
