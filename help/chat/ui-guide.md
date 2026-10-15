@@ -8,16 +8,16 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 9dbf1eb9bf7b975af633b67ea2af812392932ec3
+source-git-commit: e3d44db4695911c1b72f47fb66bd75e24acfc2e2
 workflow-type: tm+mt
-source-wordcount: '1799'
+source-wordcount: '1809'
 ht-degree: 2%
 ---
 # Introducción al chat con compañeros {#ui-guide}
 
 El chat de Coworker le permite trabajar con los datos y las herramientas de Adobe CX Enterprise preguntando lo que necesita en un lenguaje sencillo. Utilice esta página para abrir Chat del compañero, enviar su primer mensaje y configurarlo de la forma en que trabaja.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498570?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Disponibilidad
 
@@ -46,9 +46,9 @@ También puede hacer clic en **[!UICONTROL Compañero]** en el selector de aplic
 
 ![Colaborador en el selector de aplicaciones de CX Enterprise](./assets/ui-guide-1.png)
 
-## Establezca su contexto
+## Elija su organización
 
-Su organización y zona protegida determinan a qué datos, habilidades y herramientas conectadas puede llegar una conversación. Compruébelo antes de empezar. El contexto actual aparece en la parte inferior del carril de navegación izquierdo, bajo su nombre.
+Su [organización](https://experienceleague.adobe.com/es/docs/core-services/interface/administration/organizations) y zona protegida determinan a qué datos, habilidades y herramientas conectadas puede llegar una conversación. Compruébelo antes de empezar. El contexto actual aparece en la parte inferior del carril de navegación izquierdo, bajo su nombre.
 
 Para cambiar el contexto:
 
@@ -89,7 +89,7 @@ Utilice el carril de navegación para desplazarse entre las partes del producto 
 
 ## Envíe su primer mensaje
 
-La pantalla Inicio muestra un saludo, el cuadro de entrada y las indicaciones sugeridas en función de lo que Coworker Chat puede hacer en su zona protegida. Puede empezar con una sugerencia o escribir su propio mensaje.
+La pantalla Inicio muestra un saludo, el cuadro de entrada ([!UICONTROL Chat]) y las indicaciones sugeridas en función de lo que el Chat del compañero puede hacer en su zona protegida. Puede empezar con una sugerencia o escribir su propio mensaje.
 
 Para enviar un mensaje:
 
