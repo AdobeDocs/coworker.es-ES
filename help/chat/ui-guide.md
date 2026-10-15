@@ -8,7 +8,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 216699c5b1bd34ffea0884083599fb51609762d1
+source-git-commit: 9dbf1eb9bf7b975af633b67ea2af812392932ec3
 workflow-type: tm+mt
 source-wordcount: '1799'
 ht-degree: 2%
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 El chat de Coworker le permite trabajar con los datos y las herramientas de Adobe CX Enterprise preguntando lo que necesita en un lenguaje sencillo. Utilice esta página para abrir Chat del compañero, enviar su primer mensaje y configurarlo de la forma en que trabaja.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498570?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Disponibilidad
 
@@ -132,7 +132,7 @@ Adjunte un archivo u objeto cuando Coworker Chat necesite más información para
 
 ![Menú adjunto](./assets/ui-guide-5.png)
 
-### Revise un plan antes de que Actúe el chat con compañeros de trabajo
+### Revise un plan antes de que Actúe el chat con compañeros de trabajo {#plan-mode}
 
 Utilice el modo de planificación para tareas complejas o tareas que cambien datos. Cuando el modo de planificación está activado, Coworker Chat propone un plan y espera su aprobación antes de que se lleve a cabo. Cuando el modo de planificación está desactivado, Coworker Chat inicia el trabajo de inmediato.
 
