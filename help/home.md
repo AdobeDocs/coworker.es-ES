@@ -24,7 +24,7 @@ El compañero cambia la IA de _asistir_ a _actuar_. En lugar de cambiar entre ap
 
 * **[Colaborador [!UICONTROL Chat]](./chat/overview.md):** Pida información, contenido y acciones en las aplicaciones de Adobe en lenguaje natural.
 * **[Compañero [!UICONTROL para equipos]](./coworker-for-teams/overview.md):** Ayuda a los equipos de marketing Agile a pasar de un objetivo de campaña a una ejecución coordinada.
-* **Proyectos del compañero [!UICONTROL 2} (próximamente):** Para flujos de trabajo empresariales interfuncionales de larga duración en los que los equipos establecen los procesos, las aprobaciones y el nivel de autonomía del compañero.]
+* **Proyectos del compañero [!UICONTROL 2&rbrace; (próximamente):** Para flujos de trabajo empresariales interfuncionales de larga duración en los que los equipos establecen los procesos, las aprobaciones y el nivel de autonomía del compañero.]
 
 ## Cómo habilitar a Coworker
 
