@@ -5,7 +5,7 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: 1406a6258a8f7ad3a7e5268a01c8ab2b449505b6
+source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
 workflow-type: tm+mt
 source-wordcount: '1915'
 ht-degree: 1%
@@ -67,7 +67,7 @@ Los siguientes casos de uso se agrupan por dominio de análisis. Cada grupo enum
 | Ejemplo de uso | Función |
 | --- | --- |
 | [Comparar rendimiento](#skills-and-limitations) | Comparar métricas en varios canales, períodos de tiempo o segmentos en paralelo.<p>**Mensaje de ejemplo:** &quot;Comparar ingresos por canal mes tras mes&quot;</p><p>Para obtener más información, consulte [Habilidades y limitaciones](#skills-and-limitations).</p> |
-| [Analizar tendencias y causas operativas](/help/chat/use-cases/overview.md#data-insights) | Consulte datos de series temporales históricas para audiencias, conjuntos de datos y recorridos, e identifique la causa del cambio.<p>**Mensaje de ejemplo:** &quot;Mostrarme las tendencias de tamaño de audiencia durante los últimos 90 días&quot;</p><p>Para obtener más información, consulte [Información sobre los datos](/help/chat/use-cases/overview.md#data-insights) en Casos de uso de Chat del compañero de trabajo.</p> |
+| [Analizar tendencias y causas operativas](/help/chat/use-cases/workflows.md#data-insights) | Consulte datos de series temporales históricas para audiencias, conjuntos de datos y recorridos, e identifique la causa del cambio.<p>**Mensaje de ejemplo:** &quot;Mostrarme las tendencias de tamaño de audiencia durante los últimos 90 días&quot;</p><p>Para obtener más información, consulte [Información sobre los datos](/help/chat/use-cases/workflows.md#data-insights) en Casos de uso de Chat del compañero de trabajo.</p> |
 
 ### Rendimiento empresarial
 
@@ -86,9 +86,9 @@ Los siguientes casos de uso se agrupan por dominio de análisis. Cada grupo enum
 
 | Ejemplo de uso | Función |
 | --- | --- |
-| [Medir el rendimiento de la campaña](/help/chat/use-cases/overview.md#data-insights) | Consulte el rendimiento de las campañas, los canales y las propiedades web durante un periodo determinado.<p>**Mensaje de ejemplo:** &quot;¿Cómo funcionaron nuestras campañas web de Acrobat el mes pasado?&quot;</p><p>Para obtener más información, consulte [Información sobre los datos](/help/chat/use-cases/overview.md#data-insights) en Casos de uso de Chat del compañero de trabajo.</p> |
+| [Medir el rendimiento de la campaña](/help/chat/use-cases/workflows.md#data-insights) | Consulte el rendimiento de las campañas, los canales y las propiedades web durante un periodo determinado.<p>**Mensaje de ejemplo:** &quot;¿Cómo funcionaron nuestras campañas web de Acrobat el mes pasado?&quot;</p><p>Para obtener más información, consulte [Información sobre los datos](/help/chat/use-cases/workflows.md#data-insights) en Casos de uso de Chat del compañero de trabajo.</p> |
 
-Para obtener más información sobre estos casos de uso, incluidas las habilidades que utilizan y más ejemplos de preguntas, consulte [Casos de uso de perspectivas de datos](/help/chat/use-cases/overview.md#data-insights).
+Para obtener más información sobre estos casos de uso, incluidas las habilidades que utilizan y más ejemplos de preguntas, consulte [Casos de uso de perspectivas de datos](/help/chat/use-cases/workflows.md#data-insights).
 
 ## Aptitudes y limitaciones
 

@@ -13,9 +13,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: bc2c2d0bb2f73ffb9018325f812c9701c90779e1
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 1%
 ---
 
@@ -31,4 +31,4 @@ El vídeo muestra el complemento de fidelidad y su habilidad de administración 
 
 - [Journey Agent](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent), para otras funcionalidades de IA de AJO disponibles a través de Coworker Chat, como la creación de recorridos, análisis y simulación.
 - [Administración de retos de fidelización](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#loyalty-challenge-management){target="_blank"} en la documentación de Adobe Journey Optimizer.
-- [Más casos de uso de chat con compañeros](../overview.md#journeys)
+- [Más flujos de trabajo de Coworker Chat](../workflows.md#journeys)
