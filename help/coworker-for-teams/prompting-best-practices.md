@@ -1,5 +1,5 @@
 ---
-description: 'Conozca las campañas de los compañeros que ofrecen recomendaciones: el marco de trabajo CO-STAR, las acciones y no acciones, el contenido no compatible y una lista de comprobación de calidad para las peticiones de datos.'
+description: 'Conozca las prácticas recomendadas de Coworker para equipos: el marco de trabajo CO-STAR, las acciones y no acciones, el contenido no compatible y una lista de comprobación de calidad para obtener instrucciones.'
 title: Prácticas recomendadas en materia de solicitudes
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,18 +7,18 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '785'
 ht-degree: 1%
 ---
 # Impulso de las prácticas recomendadas {#best-practices}
 
-Para sacar el máximo partido a las campañas de Coworker, comience con la forma en que se le solicita. Conozca las prácticas que producen los mejores resultados: el marco de trabajo CO-STAR para estructurar los indicadores, qué incluir y qué evitar, y ejemplos basados en escenarios que dan a la IA el contexto que necesita para generar contenido relevante en el objetivo.
+Para obtener el máximo rendimiento de Coworker para equipos, comience con la forma en que se le solicita. Conozca las prácticas que producen los mejores resultados: el marco de trabajo CO-STAR para estructurar los indicadores, qué incluir y qué evitar, y ejemplos basados en escenarios que dan a la IA el contexto que necesita para generar contenido relevante en el objetivo.
 
 >[!NOTE]
 >
->Actualmente, solo puede conectarse a integraciones compatibles con Campañas de colaboración. Si ya tiene aplicaciones de Adobe Enterprise, donde almacena audiencias o genera recorridos, le recomendamos que use [CX Enterprise Coworker](/help/chat/use-cases/workflows.md) en su lugar.
+>Actualmente, solo puede conectarse a Coworker para integraciones compatibles con equipos. Si ya tiene aplicaciones de Adobe Enterprise, donde almacena audiencias o genera recorridos, le recomendamos que use [CX Enterprise Coworker](/help/chat/use-cases/workflows.md) en su lugar.
 
 ## Uso del marco CO-STAR
 
@@ -179,4 +179,4 @@ Proporcione siempre el contexto y la propuesta de valor para que la API pueda ge
 
 >[!MORELIKETHIS]
 >
->Examine más [patrones de solicitud](use-cases.md) para Campañas de compañeros de trabajo.
+>Examine más [patrones de solicitud](use-cases.md) de compañeros de trabajo para equipos.

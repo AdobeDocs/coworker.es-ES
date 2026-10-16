@@ -1,19 +1,19 @@
 ---
-description: Descubra cómo Campañas de Coworker adjunta y conserva automáticamente los metadatos de C2PA en las imágenes, desde la generación hasta la entrega por correo electrónico.
-title: Metadatos de C2PA en campañas de compañeros de trabajo
+description: Descubra cómo Coworker para equipos adjunta y conserva automáticamente los metadatos de C2PA en las imágenes, desde la generación hasta la entrega por correo electrónico.
+title: Metadatos de C2PA en Coworker para equipos
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '396'
 ht-degree: 4%
 ---
-# Metadatos de C2PA en campañas de compañeros de trabajo {#overview}
+# Metadatos de C2PA en Coworker para equipos {#overview}
 
 Están surgiendo nuevas leyes en torno a la transparencia generativa de la IA, y Adobe está trabajando para cumplir con los requisitos aplicables en todas las jurisdicciones. [Metadatos de C2PA](https://c2pa.org/) es la herramienta de procedencia que Adobe usa para cumplir con los requisitos de estas leyes.
 
-Los metadatos de C2PA son metadatos duraderos e invisibles que registran cómo se creó o editó un fragmento de contenido. Cuando se genera o edita una imagen con herramientas de IA generativa en Campañas de Coworker, los metadatos de C2PA se adjuntan automáticamente a esa imagen. No se requiere ninguna acción por su parte.
+Los metadatos de C2PA son metadatos duraderos e invisibles que registran cómo se creó o editó un fragmento de contenido. Cuando se genera o edita una imagen con herramientas de IA generativa en Coworker para equipos, los metadatos de C2PA se adjuntan automáticamente a esa imagen. No se requiere ninguna acción por su parte.
 
 ## Metadatos de C2PA en campañas de correo electrónico {#c2pa-metadate-email}
 
@@ -21,7 +21,7 @@ Las imágenes enviadas en sus campañas de correo electrónico mantienen intacto
 
 ## Acciones que adjuntan metadatos de C2PA {#actions}
 
-La siguiente tabla resume cuándo se adjuntan los metadatos de C2PA, en función de la acción de imagen realizada en la generación de imágenes en Campañas de Coworker.
+La siguiente tabla resume cuándo se adjuntan los metadatos de C2PA, en función de la acción de imagen realizada en la generación de imágenes en Coworker para equipos.
 
 | Acción | Descripción | ¿Metadatos de C2PA adjuntos? | Ejemplo de caso de uso |
 | --- | --- | --- | --- |
@@ -29,12 +29,12 @@ La siguiente tabla resume cuándo se adjuntan los metadatos de C2PA, en función
 
 ## Tipos de contenido y su ámbito {#content-types}
 
-* **Imágenes**: Cubiertas. Los metadatos de C2PA se adjuntan cuando las imágenes se generan con IA generativa y se conservan mediante las operaciones de recorte, superposición de texto y superposición de imágenes realizadas por la generación de imágenes en Campañas de colaboración.
-* **Texto**: No aplicable. Las salidas solo de texto en Campañas de Coworker, como la generación de copias, la traducción y las sugerencias de alineación de marca, no requieren metadatos de C2PA.
+* **Imágenes**: Cubiertas. Los metadatos de C2PA se adjuntan cuando las imágenes se generan con IA generativa y se conservan mediante operaciones de recorte, superposición de texto y superposición de imágenes realizadas por la generación de imágenes en Coworker para equipos.
+* **Texto**: No aplicable. Las salidas de solo texto en Coworker para equipos, como la generación de copias, la traducción y las sugerencias de alineación de marca, no requieren metadatos de C2PA.
 
 ## Qué sucede a medida que se mueve el contenido {#content-moves}
 
-Coworker Campaigns conserva los metadatos de C2PA asociados a los recursos de imagen admitidos. Si una imagen contiene metadatos de C2PA cuando se importa en Campañas de compañeros, esas credenciales se retienen cuando el recurso se utiliza en el contenido de campaña generado y en las experiencias de correo electrónico saliente.
+El compañero de trabajo de los equipos conserva los metadatos de C2PA asociados a los recursos de imagen admitidos. Si una imagen contiene metadatos de C2PA cuando se importa a Coworker para equipos, esas credenciales se conservan cuando el recurso se utiliza en el contenido de campaña generado y en las experiencias de correo electrónico saliente.
 
 ## Recursos adicionales {#resources}
 

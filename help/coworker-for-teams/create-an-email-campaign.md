@@ -1,5 +1,5 @@
 ---
-description: Una guía paso a paso para generar una campaña de correo electrónico en Adobe CX Enterprise Coworker Campaigns, desde escribir preguntas hasta revisar y exportar la campaña.
+description: Una guía paso a paso para generar una campaña de correo electrónico en Adobe CX Enterprise Coworker para equipos, desde escribir preguntas hasta revisar y exportar la campaña.
 title: Creación de una campaña de correo electrónico
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '983'
 ht-degree: 0%
 ---
 # Creación de una campaña de correo electrónico {#create-an-email-campaign}
@@ -24,7 +24,7 @@ Obtenga información sobre cómo generar y revisar campañas de correo electrón
 
 Asegúrese de que dispone de:
 
-* Una cuenta activa de Adobe CX Enterprise Coworker Campaigns ([regístrese aquí](https://coworker-campaigns.experience.adobe.com/){target="_blank"} si aún no lo ha hecho).
+* Una cuenta activa de Adobe CX Enterprise Coworker para equipos ([regístrese aquí](https://coworker-campaigns.experience.adobe.com/){target="_blank"} si aún no lo ha hecho).
 
 * Tu marca se agregó en **Tus cosas** > **Marcas**.
 
@@ -46,7 +46,7 @@ _Cuándo se debe usar: cuando se sabe exactamente lo que se desea._
 
 _Cuándo usar: cuando no está seguro de lo que desea._
 
-**Opción tres**: usa una opción &quot;Ayúdame a preguntar&quot; en la lista desplegable de la barra de mensajes para que Campañas de trabajo te guíen a través de la escritura del mensaje.
+**Opción tres**: use la opción &quot;Ayudarme a preguntar&quot; de la lista desplegable de la barra de mensajes para que Coworker para equipos le guíe a través de la escritura del mensaje.
 
 _Cuándo usar: cuando tengas una idea de lo que deseas, pero quieras un poco de ayuda (o, usa &quot;Sorpréndeme&quot; para sorprenderte)._
 
@@ -54,7 +54,7 @@ _Cuándo usar: cuando tengas una idea de lo que deseas, pero quieras un poco de 
 
 ## Paso 2: Crear el mensaje
 
-Un potente mensaje de Campañas de compañeros incluye lo siguiente:
+Un fuerte mensaje de Compañero de trabajo para equipos incluye:
 
 * El objetivo de la campaña (lo que está intentando lograr).
 * La audiencia (para quién es o de dónde provienen los datos de audiencia).
@@ -75,7 +75,7 @@ Ejemplo:
 
 ![Escribiendo en su propia solicitud](./assets/create-an-email-campaign-2.png)
 
-Cuando tenga la solicitud lista, haga clic en **Generar campaña**. Las campañas de compañeros de trabajo:
+Cuando tenga la solicitud lista, haga clic en **Generar campaña**. El compañero de trabajo de los equipos:
 
 * Genere un plan de campaña estructurado.
 * Pregunte por la audiencia de destino, que también se utilizará para la personalización de contenido.
@@ -115,7 +115,7 @@ Existen dos formas de actualizar el contenido.
 
 -o-
 
-* Utilice la interfaz conversacional para realizar cambios hablando directamente con Campañas de compañeros de trabajo. Algunos ejemplos son:
+* Utilice la interfaz conversacional para realizar cambios hablando directamente con el compañero de trabajo de los equipos. Algunos ejemplos son:
 
   * &quot;Haga que la línea de asunto sea más urgente&quot;.
   * &quot;Acorta la copia del cuerpo&quot;.
@@ -149,7 +149,7 @@ La funcionalidad de Launch (envío de la campaña de correo electrónico) estar�
 
 Genera una campaña completa, incluida la estrategia, la audiencia que necesita, el flujo de trabajo, etc. El tiempo promedio de la primera respuesta con el contenido generado suele ser de alrededor de un minuto.
 
-**¿Qué puedo hacer si el resultado de Campañas de compañeros no es correcto?**
+**¿Qué puedo hacer si el resultado de Colaborador para equipos no es correcto?**
 
 Haga clic en el icono de comentarios en el encabezado y háganoslo saber para que podamos mejorar la plataforma.
 

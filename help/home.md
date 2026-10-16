@@ -7,7 +7,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 161506b712f3a5f39cb584d0491795a3db6faa95
+source-git-commit: 53e769c5478f46ec9240c62534994d8c30ce8380
 workflow-type: tm+mt
 source-wordcount: '936'
 ht-degree: 18%
@@ -23,7 +23,7 @@ El compañero cambia la IA de _asistir_ a _actuar_. En lugar de cambiar entre ap
 [!DNL Coworker] se entregó mediante tres experiencias:
 
 * **[Colaborador [!UICONTROL Chat]](./chat/overview.md):** Pida información, contenido y acciones en las aplicaciones de Adobe en lenguaje natural.
-* **[Campañas](./campaigns/overview.md) de Compañero de trabajo:** ayuda a los equipos de marketing Agile a pasar de un objetivo de campaña a una ejecución coordinada.
+* **[Compañero [!UICONTROL para equipos]](./coworker-for-teams/overview.md):** Ayuda a los equipos de marketing Agile a pasar de un objetivo de campaña a una ejecución coordinada.
 * **Proyectos del compañero [!UICONTROL 2&rbrace; (próximamente):** Para flujos de trabajo empresariales interfuncionales de larga duración en los que los equipos establecen los procesos, las aprobaciones y el nivel de autonomía del compañero.]
 
 ## Cómo habilitar a Coworker
@@ -36,7 +36,7 @@ Para habilitar a los compañeros (incluido el chat de compañeros), su organizac
 
 * **Acceso:** Asigne funciones y acceso a las funciones de Compañero de trabajo para sus equipos en Adobe [Admin Console](https://experienceleague.adobe.com/es/docs/core-services/interface/administration/admin-console).
 
-* **Introducción:** Una vez que el compañero esté habilitado, consulta la [guía de la interfaz de usuario](./chat/ui-guide.md) para conocer mejor la interfaz de Chat del compañero, que incluye el cuadro de entrada, las respuestas, el historial de chat y las habilidades, los servidores MCP y la configuración de la memoria.
+* **Introducción:** Una vez que el compañero esté habilitado, consulta [Introducción al chat del compañero](./chat/ui-guide.md) para conocer la interfaz de chat del compañero, que incluye el cuadro de entrada, las respuestas, el historial de chat y las habilidades, los servidores MCP y la configuración de memoria.
 
 ## Vídeos sobre el uso de Coworker Chat
 
@@ -106,20 +106,20 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Campañas de compañeros
-
-Campañas de compañeros es una función con plantillas para que los equipos pequeños de Agile se pongan de pie y ejecuten campañas.
-
-* [Información general](./campaigns/overview.md)
-* [Creación de una campaña de correo electrónico](./campaigns/create-an-email-campaign.md)
-* [Casos de uso](./campaigns/use-cases.md)
-* [Impulso de las prácticas recomendadas](./campaigns/prompting-best-practices.md)
-* [Conectar con Marketo Engage](./campaigns/connectors/marketo.md)
-* [Conectar con Hubspot](./campaigns/connectors/hubspot.md)
-
 ## Proyectos (próximamente)
 
 Proyectos de compañeros es un espacio de trabajo compartido para automatizar los flujos de trabajo de la experiencia del cliente desde la estrategia hasta la entrega. Los equipos lo utilizan para coordinar tareas, aprobaciones y ejecución.
+
+## Compañero de trabajo para equipos
+
+Coworker para equipos es una función con plantillas para que los equipos pequeños de Agile se pongan de pie y ejecuten campañas.
+
+**Artículos populares**
+
+* [Información general](./coworker-for-teams/overview.md)
+* [Creación de una campaña de correo electrónico](./coworker-for-teams/create-an-email-campaign.md)
+* [Casos de uso](./coworker-for-teams/use-cases.md)
+* [Impulso de las prácticas recomendadas](./coworker-for-teams/prompting-best-practices.md)
 
 ## Experience League LIVE: Serie de compañeros de trabajo desbloqueados
 

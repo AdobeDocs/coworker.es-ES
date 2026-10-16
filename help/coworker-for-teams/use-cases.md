@@ -1,24 +1,24 @@
 ---
-description: Explore patrones de mensajes reales para campañas de Adobe CX Enterprise Coworker, organizados por casos de uso, en campañas de adquisición, participación, eventos, conversión y retención.
-title: Casos de uso de campañas de compañeros
+description: Explore patrones de mensajes reales de Adobe CX Enterprise Coworker para equipos, organizados por casos de uso, en campañas de adquisición, participación, eventos, conversión y retención.
+title: Casos de uso de compañeros de trabajo para equipos
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '512'
 ht-degree: 0%
 ---
 # Casos de uso {#use-cases}
 
-A continuación se muestran patrones reales e inmediatos que los especialistas en marketing para el ciclo vital y el crecimiento están utilizando en las campañas de Adobe CX Enterprise Coworker. Cada una está diseñada para ser copiada, intercambiada con su propia audiencia y detalles de marca, y refinada en la conversación.
+A continuación se muestran patrones reales e inmediatos que los especialistas en marketing para el ciclo vital y el crecimiento están utilizando en Adobe CX Enterprise Coworker para equipos. Cada una está diseñada para ser copiada, intercambiada con su propia audiencia y detalles de marca, y refinada en la conversación.
 
 ## Cómo usar
 
-Elija un caso de uso que se ajuste a su objetivo, copie el mensaje de ejemplo y péguelo en Campañas de compañeros, sustituya los marcadores de posición por los específicos y perfeccione la salida a través del chat. Para ver la información paso a paso completa, vaya a Generar y generar campañas.
+Elija un caso de uso que se ajuste a su objetivo, copie el mensaje de ejemplo y péguelo en Compañero de trabajo para equipos, reemplace los marcadores de posición con sus datos específicos y perfeccione el resultado a través del chat. Para ver la información paso a paso completa, vaya a Generar y generar campañas.
 
 ## Adquisición e incorporación
 
@@ -74,7 +74,7 @@ Ideal para: educación de productos, adopción de funciones, reducción del tiem
 
 Ideal para: eventos push estacionales minoristas, caídas de colecciones, momentos de actualización.
 
-`"Build a 2-touch email campaign, 3 days apart, announcing our new seasonal catalog. Highlight what’s new and relevant for buyers in my CSV list. Personalize content to each person’s first name, product interest category, and region."`
+`"Build a 2-touch email campaign, 3 days apart, announcing our new seasonal catalog. Highlight what's new and relevant for buyers in my CSV list. Personalize content to each person's first name, product interest category, and region."`
 
 ## Eventos y por momentos
 

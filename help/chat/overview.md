@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '751'
 ht-degree: 3%
 ---
 # Resumen de chat de Adobe CX Enterprise Coworker {#overview}
@@ -18,13 +18,15 @@ El chat de compañeros es una interfaz conversacional para lograr que la experie
 
 El valor: el trabajo que solía abarcar varias pantallas, equipos y días ahora se realiza en una conversación en minutos. Usted delega el resultado y se mantiene en control a través de la revisión y la aprobación; Coworker Chat hace los pasos, se recupera de los errores en el camino y se vuelve más nítido a medida que aprende cómo funciona su equipo.
 
+Para empezar, consulte [Introducción al chat con compañeros](ui-guide.md).
+
 >[!AVAILABILITY]
 >
 >El chat de compañeros suele estar disponible. Las capacidades y las aplicaciones conectadas siguen ampliándose. Consulte las secciones de habilidades y conectores disponibles para ver lo que se admite hoy.
 
 >[!NOTE]
 >
->El chat de compañeros es un módulo de Adobe CX Enterprise Coworker. Otros dos módulos amplían la misma base: Campañas de compañeros (levántese e inicie una campaña completa desde una conversación) y Proyectos de compañeros (un espacio de trabajo siempre activo para flujos de trabajo de extremo a extremo y de varios equipos). Esta página cubre el Chat del compañero.
+>El chat de compañeros es un módulo de Adobe CX Enterprise Coworker. Otros dos módulos amplían la misma base: Coworker para equipos (póngase de pie e inicie una campaña completa desde una conversación) y Coworker Projects (un espacio de trabajo siempre activo para flujos de trabajo de extremo a extremo y de varios equipos). Esta página cubre el Chat del compañero.
 
 ## Una evolución de AI Assistant
 

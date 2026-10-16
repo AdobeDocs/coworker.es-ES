@@ -1,20 +1,20 @@
 ---
-description: Obtenga información acerca de las mejoras y correcciones de funciones en las notas de la versión de Adobe CX Enterprise Coworker Campaign.
-title: Notas de la versión de CX Enterprise Coworker Campaign
+description: Obtenga información acerca de las mejoras y correcciones de funciones en las notas de la versión de Adobe CX Enterprise Coworker para equipos.
+title: Notas de la versión de CX Enterprise Coworker para equipos
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee66c1cc95ef1dd8c5e45c1fcb699547e63b9c8a
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '3590'
+source-wordcount: '3597'
 ht-degree: 0%
 ---
-# Notas de la versión de Adobe CX Enterprise Coworker Campaign {#release-notes}
+# Notas de la versión de Adobe CX Enterprise Coworker para equipos {#release-notes}
 
-Las versiones de Campañas de compañeros funcionan con un modelo de entrega continua que permite un enfoque más escalable y gradual de la implementación de funcionalidades.
+Las versiones de Coworker para equipos funcionan con un modelo de entrega continua que permite un enfoque más escalable y gradual de la implementación de funcionalidades.
 
 ## Septiembre de 2026 {#sep-2026}
 
@@ -173,7 +173,7 @@ Las versiones de Campañas de compañeros funcionan con un modelo de entrega con
 * Las perspectivas de Campaign muestran qué fuente de datos alimenta cada métrica
 * Los editores de marcas ahora están integrados en la incorporación para una configuración inicial más fluida
 * Previsualice una audiencia de muestra antes de comprometerse con la campaña
-* Campañas de compañero ahora vive dentro del shell de navegación unificado de Experience Cloud
+* El compañero de trabajo para equipos ahora se encuentra dentro del shell de navegación unificado de Experience Cloud
 * Se ha eliminado la barra de sugerencias de comentarios flotante para un tablero de campañas más limpio
 * Varias mejoras de rendimiento y fiabilidad en
 
@@ -276,7 +276,7 @@ Las versiones de Campañas de compañeros funcionan con un modelo de entrega con
 
 **Fecha de la versión: 10 de junio de 2026**
 
-* La aplicación ahora es Campañas de compañeros con un nombre actualizado en
+* La aplicación ahora es colaboradora para equipos con nombres actualizados en
 * Un recorrido de incorporación por primera vez le guiará a través de la creación de una marca de demostración
 * Inicie campañas desde un cuadro de diálogo dedicado cuando su plan esté listo para funcionar
 * Conecte HubSpot con una clave de API del catálogo de integraciones
@@ -370,7 +370,7 @@ Las versiones de Campañas de compañeros funcionan con un modelo de entrega con
 
 * Los tableros y las listas de campañas permanecen alineados con los detalles más recientes mientras trabaja
 * Aparece un claro descargo de responsabilidad de IA generativa en el chat de Campaign y en el generador de agentes
-* Los datos de contacto de la asistencia ahora utilizan la dirección de correo electrónico específica de CX Coworker Campaign
+* Los detalles de contacto de la asistencia ahora utilizan la dirección de correo electrónico específica de CX Coworker para equipos
 * La página de inicio de marketing elimina la sección de lista de espera y muestra el vídeo a pantalla completa con mayor claridad
 * Más pantallas respetan automáticamente el idioma y los formatos de fecha locales
 * Varias mejoras de rendimiento y fiabilidad en

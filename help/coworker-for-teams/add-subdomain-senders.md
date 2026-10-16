@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ebed9c3e740939a7f7520ab3bf1a6bbe5ba84019
+source-git-commit: 8c59f556cc9ea347c8f934507ac0db97fc7cb697
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '383'
 ht-degree: 4%
 ---
 # Adición de un subdominio y remitentes {#subdomain-senders}
@@ -54,19 +54,19 @@ Al hacerlo, ayudará a preservar la reputación de su dominio y otros subdominio
    >
    >Si su proveedor DNS le permite cargar los campos en lotes, puede hacer clic en **Exportar CSV** para exportar todos los campos.
 
-1. Cuando termine de escribir la información en su proveedor de DNS, haga clic en **He agregado estos registros** en Campañas de compañeros para continuar.
+1. Cuando termine de escribir la información en su proveedor de DNS, haga clic en **He agregado estos registros** en Colaborador para que los equipos continúen.
 
    CAPTURA DE PANTALLA
 
    >[!NOTE]
    >
-   >Los cambios de DNS pueden tardar hasta 30 minutos en propagarse. Si ve una X roja en lugar de una verificación verde en cualquiera de las filas, las campañas de compañeros se comprobarán cada dos minutos hasta que se completen.
+   >Los cambios de DNS pueden tardar hasta 30 minutos en propagarse. Si ve una X roja en lugar de una verificación verde en cualquiera de las filas, el colaborador de los equipos comprobará cada dos minutos hasta que se complete.
 
 1. Cuando se validan todos los registros, aparece una tabla _Registro de validación_ en la parte inferior de la ventana. Desplácese hacia abajo, copie todos los valores enumerados y agréguelos a su proveedor DNS.
 
    CAPTURA DE PANTALLA
 
-1. Cuando termine, haga clic en **He agregado este registro** (o **estos registros** si hay varios) en Campañas de compañeros para continuar.
+1. Cuando termine, haga clic en **He agregado este registro** (o **estos registros** si hay varios) en Compañero de trabajo para que los equipos continúen.
 
    CAPTURA DE PANTALLA
 
@@ -85,4 +85,3 @@ Al hacerlo, ayudará a preservar la reputación de su dominio y otros subdominio
 ## Cómo añadir un remitente
 
 Texto
-
