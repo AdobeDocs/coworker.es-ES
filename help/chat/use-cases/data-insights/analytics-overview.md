@@ -5,9 +5,9 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: f914f4a123216985ae9b562413f26e7b8c29eb0f
 workflow-type: tm+mt
-source-wordcount: '1969'
+source-wordcount: '1281'
 ht-degree: 1%
 ---
 
@@ -36,60 +36,16 @@ Puede utilizar el chat de Coworker de dos formas, en función del análisis que 
 
 Empiece describiendo lo que desea saber en un lenguaje sencillo. El chat de compañeros planifica el análisis, consulta las vistas de datos o los grupos de informes y crea visualizaciones y resúmenes.
 
-Los siguientes casos de uso se agrupan por dominio de análisis. Cada grupo enumera las funciones para las que es más adecuado.
+Los siguientes casos de uso se agrupan por dominio de análisis. Cada dominio tiene su propia página con casos de uso, indicadores de muestra, requisitos previos y las habilidades que utiliza.
 
-### Gobernanza y validación de datos
-
-**Óptimo para:** Administrador, Analista
-
-| Ejemplo de uso | Función |
-| --- | --- |
-| [Planifique su implementación](/help/chat/use-cases/data-insights/implementation-guide.md)<p>![Planifique su implementación](../../assets/ui-guide-6.png)</p> | Crea un plan personalizado paso a paso para implementar Customer Journey Analytics, actualizar desde Adobe Analytics o configurar la recopilación de Content Analytics, Marketing Campaign Analytics o medios de streaming en Edge. Los planes incluyen detalles como propietarios, estimaciones de esfuerzo, dependencias y pasos de validación.<p>**Mensaje de ejemplo:** &quot;Ayúdeme a planificar la implementación de Customer Journey Analytics&quot;</p><p>Para obtener más información, consulte [Planificar su implementación con el Compañero de trabajo](/help/chat/use-cases/data-insights/implementation-guide.md).</p> |
-| [Generar una lista de comprobación de implementación](/help/chat/use-cases/data-insights/intelligent-checklist.md)<p>![Generar una lista de comprobación de implementación](../../assets/data-validation-aa-cja/date-detail.png)</p> <p>Experimental</p> | Convierte el plan de implementación de Customer Journey Analytics en una lista de comprobación en Proyectos de compañeros, donde su equipo puede asignar pasos, rastrear el estado y agregar puertas de aprobación.<p>Para obtener más información, consulte [Generar una lista de comprobación de implementación con proyectos de compañeros](/help/chat/use-cases/data-insights/intelligent-checklist.md).</p> |
-| [Validar datos al actualizar de Adobe Analytics a Customer Journey Analytics](/help/chat/use-cases/data-insights/data-validation-aa-cja.md)<p>![Validar datos al actualizar de Adobe Analytics a Customer Journey Analytics](../../assets/data-validation-aa-cja/trend-bar-card.png)</p> | Compara dimensiones, métricas y tendencias entre sus grupos de informes de Adobe Analytics y las vistas de datos de Customer Journey Analytics y, a continuación, recomienda correcciones para admitir la actualización.<p>**Mensaje de ejemplo:** &quot;Comparar mi grupo de informes AA con mi vista de datos de CJA&quot;</p><p>Para obtener más información, vea [Validar datos con el compañero al actualizar de Adobe Analytics a Customer Journey Analytics](/help/chat/use-cases/data-insights/data-validation-aa-cja.md).</p> |
-| [Valide su implementación de medios de streaming](/help/chat/use-cases/data-insights/streaming-media-validation.md)<p>![Valide su implementación de medios de streaming](../../assets/ui-guide-8.png)</p> <p>Experimental</p> | Comprueba la secuencia de datos, el esquema, el conjunto de datos, la vista de datos y los datos de sesión para confirmar que el seguimiento de medios de streaming está configurado y recopila datos correctamente.<p>**Mensaje de ejemplo:** &quot;¿Cuán saludable es mi implementación de medios de transmisión en general?&quot;</p><p>Para obtener más información, consulte [Validar la implementación de medios de streaming con Coworker](/help/chat/use-cases/data-insights/streaming-media-validation.md).</p> |
-| [Validar la calidad del conjunto de datos para Customer Journey Analytics](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)<p>![Validar la calidad del conjunto de datos para Customer Journey Analytics](../../assets/data-validation-aep/dataset-validation.png)</p> <p>Experimental (semana próxima)</p> | Identifica los conjuntos de datos que alimentan los informes de Customer Journey Analytics y, a continuación, comprueba los esquemas, la calidad de la identidad y la calidad del campo para que pueda resolver los problemas antes de crear los paneles.<p>Para obtener más información, consulte [Validar datos de Customer Journey Analytics con la aptitud de validación de datos en el compañero](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md).</p> |
-| [Validar datos después de la ingesta en Experience Platform](/help/chat/use-cases/data-insights/data-validation-aep.md)<p>![Validar datos después de la ingesta en Experience Platform](../../assets/data-validation-aep/null-values.png)</p> | Ejecuta comprobaciones estadísticas y semánticas en conjuntos de datos y campos de Experience Platform para encontrar problemas de calidad de datos, como valores no válidos o problemas de asignación.<p>**Mensaje de ejemplo:** &quot;Validar el conjunto de datos Ejemplo de electrónica 1000&quot;</p><p>Para obtener más información, consulte [Validar los datos de Experience Platform con el colaborador](/help/chat/use-cases/data-insights/data-validation-aep.md).</p> |
-| [Acelerar datos](/help/chat/use-cases/data-insights/accelerate-data-insights.md) | Muestra en un vídeo cómo el colaborador planifica la implementación, ejecuta acciones admitidas y guía los pasos de producto y desarrollo en Adobe Experience Manager, Experience Platform, Web SDK y Customer Journey Analytics hasta que los datos de participación del sitio web estén listos para analizarse.<p>Para obtener más información, consulte [Acelerar la obtención de datos con los colaboradores, AEM y CJA](/help/chat/use-cases/data-insights/accelerate-data-insights.md).</p> |
-
-### análisis de recorrido
-
-**Óptimo para:** Analista, usuario empresarial
-
-| Ejemplo de uso | Función |
-| --- | --- |
-| [Analizar datos de Customer Journey Analytics y Adobe Analytics](/help/chat/use-cases/data-insights/analytics-chat.md)<p>![Analizar datos de Customer Journey Analytics y Adobe Analytics](../../assets/coworker-funnel-response-card.png)</p> | Responde preguntas en lenguaje natural acerca de las vistas de datos o los grupos de informes, crea canales y otras visualizaciones y encuentra dónde abandonan los clientes. Puede abrir cualquier visualización en Analysis Workspace para un análisis más detallado.<p>**Mensaje de ejemplo:** &quot;Mostrarme vistas de página de los últimos 30 días&quot;</p><p>Para obtener más información, consulte [Introducción al análisis de datos con Coworker Chat](/help/chat/use-cases/data-insights/analytics-chat.md).</p> |
-| [Analizar canales](#skills-and-limitations) | Pase por los canales de conversión de varios pasos y vea la lista desplegable en cada fase.<p>**Mensaje de ejemplo:** &quot;Guíame a través del funnel de cierre de compra&quot;</p><p>Para obtener más información, consulte [Habilidades y limitaciones](#skills-and-limitations).</p> |
-
-### Análisis de audiencias y segmentos
-
-**Óptimo para:** Analista, Usuario de empresa, Administrador
-
-| Ejemplo de uso | Función |
-| --- | --- |
-| [Comparar rendimiento](#skills-and-limitations) | Comparar métricas en varios canales, períodos de tiempo o segmentos en paralelo.<p>**Mensaje de ejemplo:** &quot;Comparar ingresos por canal mes tras mes&quot;</p><p>Para obtener más información, consulte [Habilidades y limitaciones](#skills-and-limitations).</p> |
-| [Analizar tendencias y causas operativas](/help/chat/use-cases/workflows.md#data-insights) | Consulte datos de series temporales históricas para audiencias, conjuntos de datos y recorridos, e identifique la causa del cambio.<p>**Mensaje de ejemplo:** &quot;Mostrarme las tendencias de tamaño de audiencia durante los últimos 90 días&quot;</p><p>Para obtener más información, consulte [Información sobre los datos](/help/chat/use-cases/workflows.md#data-insights) en Casos de uso de Chat del compañero de trabajo.</p> |
-
-### Rendimiento empresarial
-
-**Óptimo para:** Analista, usuario empresarial
-
-| Ejemplo de uso | Función |
-| --- | --- |
-| [Explorar tendencias y causas básicas](/help/chat/use-cases/data-insights/root-cause-analysis.md)<p>![Explorar tendencias y causas básicas](../../assets/data-validation-aa-cja/trend-line-card.png)</p> | Identifica las tendencias en los datos de Customer Journey Analytics y Adobe Analytics y los factores que impulsan los cambios en el rendimiento, sin consultas manuales.<p>**Mensaje de ejemplo:** &quot;¿Por qué cayeron las conversiones la semana pasada?&quot;</p><p>Para obtener más información, consulte [Customer Journey Analytics y compañeros](/help/chat/use-cases/data-insights/root-cause-analysis.md).</p> |
-| [Métricas de pronóstico](#skills-and-limitations) | Proyecte valores de métricas futuras a partir de datos históricos de Customer Journey Analytics o Adobe Analytics, como si está en el camino correcto para alcanzar un objetivo de ingresos.<p>**Mensaje de ejemplo:** &quot;Sesiones de previsión para los próximos 30 días&quot;</p><p>Para obtener más información, consulte [Habilidades y limitaciones](#skills-and-limitations).</p> |
-| [Crear resúmenes ejecutivos y resúmenes de KPI](#skills-and-limitations) | Produzca resúmenes de rendimiento, recomendaciones y descripciones de diapositivas preparados para las partes interesadas.<p>**Mensaje de ejemplo:** &quot;Dame un resumen ejecutivo del mes pasado&quot;</p><p>Para obtener más información, consulte [Habilidades y limitaciones](#skills-and-limitations).</p> |
-| [Crear aptitudes de Customer Journey Analytics personalizadas](#skills-and-limitations) | Convierta un análisis que repita en una habilidad reutilizable que persiste entre sesiones.<p>**Mensaje de ejemplo:** &quot;Convierta este análisis de ingresos semanal en una aptitud reutilizable&quot;</p><p>Para obtener más información, consulte [Habilidades y limitaciones](#skills-and-limitations).</p> |
-
-### Medición y atribución de marketing
-
-**Óptimo para:** Analista, usuario empresarial
-
-| Ejemplo de uso | Función |
-| --- | --- |
-| [Medir el rendimiento de la campaña](/help/chat/use-cases/workflows.md#data-insights) | Consulte el rendimiento de las campañas, los canales y las propiedades web durante un periodo determinado.<p>**Mensaje de ejemplo:** &quot;¿Cómo funcionaron nuestras campañas web de Acrobat el mes pasado?&quot;</p><p>Para obtener más información, consulte [Información sobre los datos](/help/chat/use-cases/workflows.md#data-insights) en Casos de uso de Chat del compañero de trabajo.</p> |
-
-Para obtener más información sobre estos casos de uso, incluidas las habilidades que utilizan y más ejemplos de preguntas, consulte [Casos de uso de perspectivas de datos](/help/chat/use-cases/workflows.md#data-insights).
+| Dominio | Lo que puede hacer | Mejor para |
+| --- | --- | --- |
+| [Gobernanza y validación de datos](/help/chat/use-cases/data-insights/data-governance-and-validation.md) | Configure, migre y administre su implementación, y asegúrese de poder confiar en los datos detrás de cada respuesta. | Administración |
+| [análisis de Recorrido](/help/chat/use-cases/data-insights/journey-analysis.md) | Descubra dónde abandonan los clientes el recorrido para convertirse y por qué en distintos canales, dispositivos y segmentos. | Analista, usuario empresarial |
+| [Análisis de audiencias y segmentos](/help/chat/use-cases/data-insights/audience-and-segment-analysis.md) | Comprenda qué grupos de clientes se comportan de forma diferente y cómo, para que pueda centrarse en los que más importan. | Analista, usuario empresarial |
+| [Rendimiento empresarial](/help/chat/use-cases/data-insights/business-performance.md) | Comprenda cómo está funcionando el negocio, por qué se movió una métrica, hacia dónde se dirige y qué hacer a continuación. | Analista, usuario empresarial |
+| [Rendimiento del contenido](/help/chat/use-cases/data-insights/content-performance.md) | Comprenda qué contenido gana y por qué, según los atributos de cada recurso, para que pueda invertir en lo que funciona. | Usuario empresarial |
+| [Medición y atribución de marketing](/help/chat/use-cases/data-insights/marketing-measurement-and-attribution.md) | Comprenda el impacto incremental de cada canal y campaña de marketing para poder asignar el gasto a la optimización del retorno de la inversión. | Analista, usuario empresarial |
 
 ## Aptitudes y limitaciones
 
@@ -139,6 +95,7 @@ Las siguientes habilidades están disponibles para analizar datos de Customer Jo
 
 ## Próximos pasos
 
-Para configurar el chat de compañeros y ver un ejemplo que funcione, consulta [Análisis de datos con el chat de compañeros](/help/chat/use-cases/data-insights/analytics-chat.md).
+* Para configurar el chat de compañeros y ver un ejemplo que funcione, consulta [Análisis de datos con el chat de compañeros](/help/chat/use-cases/data-insights/analytics-chat.md).
+* Para ver todos los flujos de trabajo de chat de compañeros y las habilidades subyacentes, consulte [Flujos de trabajo de chat de compañeros](/help/chat/use-cases/workflows.md).
 
 

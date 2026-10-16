@@ -5,10 +5,10 @@ user-guide-description: Obtenga información sobre Adobe CX Enterprise Coworker,
 description: Obtenga información sobre las herramientas de IA en CX Enterprise. Mejore su conocimiento del producto y obtenga perspectivas operativas mediante la IA en CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: f914f4a123216985ae9b562413f26e7b8c29eb0f
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 16%
+source-wordcount: '268'
+ht-degree: 17%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -24,6 +24,7 @@ ht-degree: 16%
       - [Información general](./chat/use-cases/data-insights/analytics-overview.md)
       - [Introducción](./chat/use-cases/data-insights/analytics-chat.md)
       - Gobernanza y validación de datos {#data-governance-and-validation}
+        - [Información general](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Planifique su implementación](./chat/use-cases/data-insights/implementation-guide.md)
         - [Generación de una lista de comprobación de implementación](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Validar datos de AA a CJA al actualizar](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -31,8 +32,17 @@ ht-degree: 16%
         - [Validar la calidad del conjunto de datos para informes de CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Validación de los datos de Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
         - [Acelerar perspectivas de datos](./chat/use-cases/data-insights/accelerate-data-insights.md)
+      - análisis de recorrido {#journey-analysis}
+        - [Información general](./chat/use-cases/data-insights/journey-analysis.md)
+      - Análisis de audiencias y segmentos {#audience-and-segment-analysis}
+        - [Información general](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - Rendimiento empresarial {#business-performance}
+        - [Información general](./chat/use-cases/data-insights/business-performance.md)
         - [Explorar tendencias y causas básicas](./chat/use-cases/data-insights/root-cause-analysis.md)
+      - Rendimiento de contenido {#content-performance}
+        - [Información general](./chat/use-cases/data-insights/content-performance.md)
+      - Medición y atribución de marketing {#marketing-measurement-and-attribution}
+        - [Información general](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - Incorporación de datos {#data-onboarding}
       - {hide-from-toc}[Incorporar datos con el compañero](./agents/data-onboarding-skill.md)
     - Administración de datos {#data-management}
