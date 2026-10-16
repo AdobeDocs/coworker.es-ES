@@ -5,10 +5,10 @@ user-guide-description: Obtenga información sobre Adobe CX Enterprise Coworker,
 description: Obtenga información sobre las herramientas de IA en CX Enterprise. Mejore su conocimiento del producto y obtenga perspectivas operativas mediante la IA en CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: f914f4a123216985ae9b562413f26e7b8c29eb0f
+source-git-commit: 9d38c1c9bb50ff07d82da24143074090bf49d7aa
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 17%
+source-wordcount: '275'
+ht-degree: 16%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -51,6 +51,7 @@ ht-degree: 17%
       - [Evaluar el estado de la plataforma y crear audiencias](./chat/use-cases/audiences/create-audience-from-natural-language.md)
     - Recorridos {#journeys}
       - [Creación de recorridos con lenguaje natural](./chat/use-cases/journeys/create-journey-from-natural-language.md)
+      - [Creación, simulación y análisis de recorridos entre canales](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
     - Lealtad {#loyalty}
       - [Creación de un desafío de lealtad y perspectivas de superficie](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - Optimización {#optimization}
