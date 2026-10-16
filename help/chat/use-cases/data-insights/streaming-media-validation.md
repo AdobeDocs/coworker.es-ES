@@ -1,8 +1,7 @@
 ---
 title: Validación de la implementación de Streaming Media con Coworker
 description: Descubra cómo la aptitud de validación de medios de streaming de su compañero comprueba su configuración, sesiones y registros para confirmar que la implementación realiza un seguimiento correcto.
-hold: true
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
 source-wordcount: '1304'
 ht-degree: 0%

@@ -5,9 +5,9 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
-source-wordcount: '1915'
+source-wordcount: '1969'
 ht-degree: 1%
 ---
 
@@ -50,6 +50,7 @@ Los siguientes casos de uso se agrupan por dominio de análisis. Cada grupo enum
 | [Valide su implementación de medios de streaming](/help/chat/use-cases/data-insights/streaming-media-validation.md)<p>![Valide su implementación de medios de streaming](../../assets/ui-guide-8.png)</p> <p>Experimental</p> | Comprueba la secuencia de datos, el esquema, el conjunto de datos, la vista de datos y los datos de sesión para confirmar que el seguimiento de medios de streaming está configurado y recopila datos correctamente.<p>**Mensaje de ejemplo:** &quot;¿Cuán saludable es mi implementación de medios de transmisión en general?&quot;</p><p>Para obtener más información, consulte [Validar la implementación de medios de streaming con Coworker](/help/chat/use-cases/data-insights/streaming-media-validation.md).</p> |
 | [Validar la calidad del conjunto de datos para Customer Journey Analytics](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)<p>![Validar la calidad del conjunto de datos para Customer Journey Analytics](../../assets/data-validation-aep/dataset-validation.png)</p> <p>Experimental (semana próxima)</p> | Identifica los conjuntos de datos que alimentan los informes de Customer Journey Analytics y, a continuación, comprueba los esquemas, la calidad de la identidad y la calidad del campo para que pueda resolver los problemas antes de crear los paneles.<p>Para obtener más información, consulte [Validar datos de Customer Journey Analytics con la aptitud de validación de datos en el compañero](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md).</p> |
 | [Validar datos después de la ingesta en Experience Platform](/help/chat/use-cases/data-insights/data-validation-aep.md)<p>![Validar datos después de la ingesta en Experience Platform](../../assets/data-validation-aep/null-values.png)</p> | Ejecuta comprobaciones estadísticas y semánticas en conjuntos de datos y campos de Experience Platform para encontrar problemas de calidad de datos, como valores no válidos o problemas de asignación.<p>**Mensaje de ejemplo:** &quot;Validar el conjunto de datos Ejemplo de electrónica 1000&quot;</p><p>Para obtener más información, consulte [Validar los datos de Experience Platform con el colaborador](/help/chat/use-cases/data-insights/data-validation-aep.md).</p> |
+| [Acelerar datos](/help/chat/use-cases/data-insights/accelerate-data-insights.md) | Muestra en un vídeo cómo el colaborador planifica la implementación, ejecuta acciones admitidas y guía los pasos de producto y desarrollo en Adobe Experience Manager, Experience Platform, Web SDK y Customer Journey Analytics hasta que los datos de participación del sitio web estén listos para analizarse.<p>Para obtener más información, consulte [Acelerar la obtención de datos con los colaboradores, AEM y CJA](/help/chat/use-cases/data-insights/accelerate-data-insights.md).</p> |
 
 ### análisis de recorrido
 

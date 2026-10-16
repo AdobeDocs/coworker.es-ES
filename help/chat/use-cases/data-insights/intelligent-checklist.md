@@ -1,8 +1,7 @@
 ---
 title: Generación de una lista de comprobación de implementación en proyectos de compañeros
 description: Descubra cómo Proyectos de compañeros genera una lista de comprobación de implementación previamente rellenada a partir de su plan de guías de implementación, con pasos que puede asignar y rastrear.
-hold: true
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
