@@ -5,7 +5,7 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: f914f4a123216985ae9b562413f26e7b8c29eb0f
+source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
 workflow-type: tm+mt
 source-wordcount: '1281'
 ht-degree: 1%
@@ -40,7 +40,7 @@ Los siguientes casos de uso se agrupan por dominio de análisis. Cada dominio ti
 
 | Dominio | Lo que puede hacer | Mejor para |
 | --- | --- | --- |
-| [Gobernanza y validación de datos](/help/chat/use-cases/data-insights/data-governance-and-validation.md) | Configure, migre y administre su implementación, y asegúrese de poder confiar en los datos detrás de cada respuesta. | Administración |
+| [Implementación y administración inteligentes](/help/chat/use-cases/data-insights/data-governance-and-validation.md) | Configure, migre y administre su implementación, y asegúrese de poder confiar en los datos detrás de cada respuesta. | Administración |
 | [análisis de Recorrido](/help/chat/use-cases/data-insights/journey-analysis.md) | Descubra dónde abandonan los clientes el recorrido para convertirse y por qué en distintos canales, dispositivos y segmentos. | Analista, usuario empresarial |
 | [Análisis de audiencias y segmentos](/help/chat/use-cases/data-insights/audience-and-segment-analysis.md) | Comprenda qué grupos de clientes se comportan de forma diferente y cómo, para que pueda centrarse en los que más importan. | Analista, usuario empresarial |
 | [Rendimiento empresarial](/help/chat/use-cases/data-insights/business-performance.md) | Comprenda cómo está funcionando el negocio, por qué se movió una métrica, hacia dónde se dirige y qué hacer a continuación. | Analista, usuario empresarial |
