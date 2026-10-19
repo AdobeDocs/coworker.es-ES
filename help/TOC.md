@@ -5,24 +5,24 @@ user-guide-description: Obtenga información sobre Adobe CX Enterprise Coworker,
 description: Obtenga información sobre las herramientas de IA en CX Enterprise. Mejore su conocimiento del producto y obtenga perspectivas operativas mediante la IA en CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
+source-git-commit: be1be18a25c57eafa07b326b1bf5800527cb1c7d
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 16%
+source-wordcount: '281'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
 
 - [Información general de compañeros](home.md)
 - Chat {#chat}
-  - [Información general](./chat/overview.md)
-  - [Introducción al chat](./chat/ui-guide.md)
+  - [Acerca de Coworker Chat](./chat/overview.md)
+  - [Introducción al chat con compañeros](./chat/ui-guide.md)
   - {hide-from-toc}[Chat de compañeros en el patio de recreo](./playground-coworker-chat.md)
-  - Casos de uso {#use-cases}
+  - Flujos de trabajo {#use-cases}
     - [Flujos de trabajo de Coworker Chat](./chat/use-cases/workflows.md)
     - Data Insights {#data-insights}
-      - [Información general](./chat/use-cases/data-insights/analytics-overview.md)
-      - [Introducción](./chat/use-cases/data-insights/analytics-chat.md)
+      - [Acerca del análisis de datos](./chat/use-cases/data-insights/analytics-overview.md)
+      - [Introducción al análisis de datos](./chat/use-cases/data-insights/analytics-chat.md)
       - Implementación y administración inteligentes {#intelligent-implementation-and-administration}
         - [Información general](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Planifique su implementación](./chat/use-cases/data-insights/implementation-guide.md)
