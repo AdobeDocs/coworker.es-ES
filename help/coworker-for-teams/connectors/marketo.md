@@ -4,10 +4,7 @@ title: Conectar con Marketo Engage
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -22,7 +19,7 @@ Adobe Coworker para equipos le permite conectar su cuenta de Marketo Engage para
 >
 >* Una cuenta activa de Marketo Engage
 >* Su **URL de instancia** de Marketo
->* Se ha creado un [servicio personalizado](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/custom-services#custom-services-1) para los equipos de Marketo con su [ID de cliente y secreto de cliente](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token) a mano.
+>* Se ha creado un [servicio personalizado](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/custom-services#custom-services-1) para los equipos de Marketo con su [ID de cliente y secreto de cliente](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token) a mano.
 
 ## Cómo conectar
 
