@@ -7,14 +7,20 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 0ccc8faed069b726a28a39042047d1e66200181e
+source-git-commit: be1be18a25c57eafa07b326b1bf5800527cb1c7d
 workflow-type: tm+mt
-source-wordcount: '7618'
+source-wordcount: '7712'
 ht-degree: 6%
 ---
 # Flujos de trabajo de Coworker Chat {#use-cases}
 
 El chat de compañeros de trabajo le permite consultar, analizar y actuar en los datos de [!DNL Experience Platform] con lenguaje natural en lugar de navegar por varias IU o escribir consultas manualmente. Esta página cataloga los flujos de trabajo en los que más se basan los profesionales, organizados por área de trabajo: perspectivas de datos, audiencias, recorridos, lealtad, elementos fundacionales y herramientas de zona protegida. Cada entrada incluye la aptitud que invoca, las aplicaciones con las que trabaja y los indicadores de ejemplo que puede copiar, adaptar a sus propios datos y refinar a través de la conversación.
+
+## Acerca de las aptitudes y flujos de trabajo
+
+**Habilidades:** Una _habilidad_ es una única capacidad o acción específica que el compañero puede realizar. Algunos ejemplos son la creación de una audiencia, el envío de un correo electrónico, la generación de un informe o el análisis de los resultados de la campaña. Cada aptitud se centra en una función concreta.
+
+**Flujo de trabajo:** Un _flujo de trabajo_ es una secuencia de pasos o acciones (que a menudo implican múltiples habilidades) diseñados para lograr un objetivo empresarial más amplio. Los flujos de trabajo coordinan varias habilidades en un orden lógico para completar procesos complejos de varios pasos, como el inicio de una campaña de marketing, la incorporación de un nuevo segmento de clientes o el diagnóstico de una caída en el rendimiento de la campaña.
 
 ## Experiencia de marca
 

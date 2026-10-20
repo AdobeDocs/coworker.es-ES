@@ -7,10 +7,10 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 53e769c5478f46ec9240c62534994d8c30ce8380
+source-git-commit: ebe0bd0f8e420b007e1b99ec2e15fd3b249305e6
 workflow-type: tm+mt
-source-wordcount: '936'
-ht-degree: 18%
+source-wordcount: '979'
+ht-degree: 17%
 ---
 # Guía de CX Enterprise Coworker {#overview}
 
@@ -22,13 +22,13 @@ El compañero cambia la IA de _asistir_ a _actuar_. En lugar de cambiar entre ap
 
 [!DNL Coworker] se entregó mediante tres experiencias:
 
-* **[Colaborador [!UICONTROL Chat]](./chat/overview.md):** Pida información, contenido y acciones en las aplicaciones de Adobe en lenguaje natural.
-* **[Compañero [!UICONTROL para equipos]](./coworker-for-teams/overview.md):** Ayuda a los equipos de marketing Agile a pasar de un objetivo de campaña a una ejecución coordinada.
+* **[Colaborador [!UICONTROL Chat]](./chat/overview.md):** Pida información, contenido y acciones en las aplicaciones de Adobe en lenguaje natural. El chat tiene licencia y está habilitado a través del equipo de su cuenta.
+* **[Compañero [!UICONTROL para equipos]](./coworker-for-teams/overview.md):** Ayuda a los equipos de marketing Agile a pasar de un objetivo de campaña a una ejecución coordinada. Coworker para equipos es una prueba gratuita de autoservicio en su propia URL, finaliza el 31 de diciembre de 2026 y solo es para Norteamérica.
 * **Proyectos del compañero [!UICONTROL 2&rbrace; (próximamente):** Para flujos de trabajo empresariales interfuncionales de larga duración en los que los equipos establecen los procesos, las aprobaciones y el nivel de autonomía del compañero.]
 
-## Cómo habilitar a Coworker
+## Cómo habilitar el chat de Coworker
 
-Para habilitar a los compañeros (incluido el chat de compañeros), su organización necesita acceder a Adobe CX Enterprise Coworker. La habilitación suele incluir:
+Para habilitar el chat de compañeros, su organización necesita acceder a Adobe CX Enterprise Coworker. La habilitación suele incluir:
 
 * **Licencias:** Póngase en contacto con el representante de su cuenta de Adobe o con el equipo de ventas para confirmar que dispone de las licencias y los derechos correctos.
 
@@ -36,7 +36,9 @@ Para habilitar a los compañeros (incluido el chat de compañeros), su organizac
 
 * **Acceso:** Asigne funciones y acceso a las funciones de Compañero de trabajo para sus equipos en Adobe [Admin Console](https://experienceleague.adobe.com/es/docs/core-services/interface/administration/admin-console).
 
-* **Introducción:** Una vez que el compañero esté habilitado, consulta [Introducción al chat del compañero](./chat/ui-guide.md) para conocer la interfaz de chat del compañero, que incluye el cuadro de entrada, las respuestas, el historial de chat y las habilidades, los servidores MCP y la configuración de memoria.
+* **Introducción:** Una vez que el compañero esté habilitado, consulta [Introducción al chat con el compañero](./chat/ui-guide.md) para conocer la interfaz de chat del compañero, que incluye el cuadro de entrada, las respuestas y el historial de chat.
+
+Para adaptar el chat de compañeros a tu equipo, consulta [Habilidades](./customizations/skills/what-are-skills.md), [Integraciones](./customizations/integrations/understanding-integrations-in-coworker.md), [Complementos](./customizations/plugins/what-are-plugins.md) y [Memoria](./customizations/memory/what-is-memory.md), o empieza con la [descripción general de las personalizaciones](./customizations/overview.md).
 
 ## Vídeos sobre el uso de Coworker Chat
 

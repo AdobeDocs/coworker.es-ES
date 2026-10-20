@@ -8,9 +8,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
+source-git-commit: 80f7bf9003e360b9ca6d0e1868c056447d35b763
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1801'
 ht-degree: 2%
 ---
 # Introducción al chat con compañeros {#ui-guide}
@@ -213,7 +213,7 @@ Para fijar, cambiar el nombre, archivar o eliminar una conversación, haga clic 
 
 ## Personalizar chat con compañeros
 
-Configuraciones es donde puede controlar lo que Coworker Chat puede hacer. Haga clic en **[!UICONTROL Configuraciones]** en el carril de navegación y, a continuación, elija una ficha: **[!UICONTROL Aptitudes]**, **[!UICONTROL Servidores MCP]**, **[!UICONTROL Mercados]**, **[!UICONTROL Complementos]** o **[!UICONTROL Memoria]**.
+[!UICONTROL Personalizaciones] es donde controlas lo que [!UICONTROL Chat del compañero] puede hacer. Haga clic en **[!UICONTROL Personalizaciones]** en el carril de navegación y, a continuación, elija una pestaña: **[!UICONTROL Aptitudes]**, **[!UICONTROL Integraciones]**, **[!UICONTROL Mercados]**, **[!UICONTROL Complementos]** o **[!UICONTROL Memoria]**.
 
 ### Adición y visualización de aptitudes
 
@@ -221,8 +221,9 @@ Las habilidades son capacidades especializadas que Coworker Chat utiliza automá
 
 ![La ficha Aptitudes](./assets/ui-guide-12.png)
 
-1. En la ficha **[!UICONTROL Aptitudes]**, haga clic en **[!UICONTROL Agregar Source]** para instalar aptitudes desde un nuevo origen.
-1. Escriba un nombre en **[!UICONTROL Buscar]** para encontrar una aptitud. Utilice el conmutador de vista para cambiar entre los diseños de cuadrícula y lista.
+1. En la ficha **[!UICONTROL Aptitudes]**, haga clic en **[!UICONTROL Agregar aptitudes]** para instalar aptitudes desde una nueva fuente.
+1. Escriba un nombre en **[!UICONTROL Buscar]** para encontrar una aptitud.
+Utilice el conmutador de vista para cambiar entre los diseños de cuadrícula y lista.
 1. Seleccione una aptitud para ver el complemento al que pertenece, cuándo lo utiliza Chat del compañero y los archivos que incluye.
 
    ![Vista de detalles de aptitudes que muestra archivos auxiliares](./assets/ui-guide-13.png)
