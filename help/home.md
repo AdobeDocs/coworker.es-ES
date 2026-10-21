@@ -4,45 +4,84 @@ description: Obtenga información sobre Adobe CX Enterprise Coworker, un compañ
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: ebe0bd0f8e420b007e1b99ec2e15fd3b249305e6
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '1094'
 ht-degree: 17%
 ---
 # Guía de CX Enterprise Coworker {#overview}
 
-[!DNL Coworker] es el compañero de IA auténtico de Adobe para la experiencia del cliente y el trabajo de marketing. Hace más que responder preguntas o recomendar acciones: ejecuta flujos de trabajo de marketing de varios pasos en Adobe y otros sistemas empresariales, y las aprobaciones y el control le mantienen en control. Más información sobre [Adobe for Business](https://business.adobe.com/es/products/cx-enterprise-coworker.html).
+[!DNL Coworker] es el compañero de IA auténtico de Adobe para la experiencia del cliente y el trabajo de marketing. Hace más que responder preguntas o recomendar acciones. Ejecuta flujos de trabajo de marketing de varios pasos en Adobe y otros sistemas empresariales, y las aprobaciones y el control le mantienen en control. Más información sobre [Adobe for Business](https://business.adobe.com/es/products/cx-enterprise-coworker.html).
 
-## Cómo puede usar [!DNL Coworker]
+## Elegir una experiencia
 
-El compañero cambia la IA de _asistir_ a _actuar_. En lugar de cambiar entre aplicaciones y coordinar cada paso usted mismo, define un objetivo y [!DNL Coworker] funciona y lleva a cabo los pasos. Funciona en distintas audiencias, recorridos, contenido, perspectivas, diagnósticos y operaciones de marketing.
+Usted define un objetivo, y Coworker trabaja y lleva a cabo los pasos. Elija la experiencia que mejor se adapte a su equipo.
 
-[!DNL Coworker] se entregó mediante tres experiencias:
+| Experiencia | Úselo para lo siguiente | Disponibilidad |
+| --- | --- | --- |
+| [Colaborador [!UICONTROL Chatear]](./chat/overview.md) | Pida información, contenido y acciones en todas las aplicaciones de Adobe en lenguaje natural. | Con licencia de su equipo de cuenta de Adobe. Ver [Comprobar disponibilidad](#chat-availability). |
+| [Compañero [!UICONTROL para equipos]](./coworker-for-teams/overview.md) | Pase de un objetivo de campaña a una ejecución coordinada como un equipo de marketing pequeño y ágil. | Prueba gratuita hasta el 31 de diciembre de 2026. Sólo Norteamérica. |
+| Compañero [!UICONTROL Proyectos] | Ejecute flujos de trabajo interfuncionales de larga duración en los que sus equipos establezcan los procesos, las aprobaciones y el nivel de autonomía de sus compañeros. | Muy pronto. |
 
-* **[Colaborador [!UICONTROL Chat]](./chat/overview.md):** Pida información, contenido y acciones en las aplicaciones de Adobe en lenguaje natural. El chat tiene licencia y está habilitado a través del equipo de su cuenta.
-* **[Compañero [!UICONTROL para equipos]](./coworker-for-teams/overview.md):** Ayuda a los equipos de marketing Agile a pasar de un objetivo de campaña a una ejecución coordinada. Coworker para equipos es una prueba gratuita de autoservicio en su propia URL, finaliza el 31 de diciembre de 2026 y solo es para Norteamérica.
-* **Proyectos del compañero [!UICONTROL 2&rbrace; (próximamente):** Para flujos de trabajo empresariales interfuncionales de larga duración en los que los equipos establecen los procesos, las aprobaciones y el nivel de autonomía del compañero.]
+## Chat de compañeros
 
-## Cómo habilitar el chat de Coworker
+El chat de compañeros es una interfaz conversacional para lograr que la experiencia del cliente funcione. Describa lo que necesita en lenguaje simple, y Coworker Chat planifica el trabajo, lo ejecuta en su Adobe y sistemas conectados, y devuelve los resultados para su aprobación. Para obtener más información, consulte la [Descripción general del chat de compañeros](./chat/overview.md).
 
-Para habilitar el chat de compañeros, su organización necesita acceder a Adobe CX Enterprise Coworker. La habilitación suele incluir:
+### Comprobar disponibilidad {#chat-availability}
+
+El chat de Coworker ya está disponible en las siguientes aplicaciones:
+
+* Real-Time CDP
+* Adobe Journey Optimizer
+* Customer Journey Analytics
+* Adobe Target
+* AEM
+* Workfront
+* Marketo Engage
+
+Las ediciones B2B de Real-Time CDP, Adobe Journey Optimizer y Customer Journey Analytics estarán disponibles próximamente.
+
+Para obtener información sobre la disponibilidad de las experiencias envolventes y del producto por aplicación, consulte [Introducción al chat con compañeros de trabajo](./chat/ui-guide.md#availability). Para obtener la lista completa de aplicaciones compatibles, consulte [Aplicaciones CX Enterprise compatibles](./chat/overview.md#compatible-cx-enterprise-applications).
+
+### Activar chat con compañeros
+
+Para habilitar el chat de compañeros, su organización necesita acceder a Adobe CX Enterprise Coworker. La habilitación suele incluir lo siguiente:
 
 * **Licencias:** Póngase en contacto con el representante de su cuenta de Adobe o con el equipo de ventas para confirmar que dispone de las licencias y los derechos correctos.
-
 * **Incorporación:** el equipo de servicios profesionales o de soporte empresarial de Adobe configura al colaborador para su entorno, configura integraciones con las aplicaciones de Adobe y define los flujos de trabajo de control y aprobación.
+* **Acceso:** Asigne funciones y acceso a las funciones de Colaborador para sus equipos en [Admin Console](https://experienceleague.adobe.com/es/docs/core-services/interface/administration/admin-console).
 
-* **Acceso:** Asigne funciones y acceso a las funciones de Compañero de trabajo para sus equipos en Adobe [Admin Console](https://experienceleague.adobe.com/es/docs/core-services/interface/administration/admin-console).
+Una vez habilitado el chat de compañeros, consulta [Introducción al chat de compañeros](./chat/ui-guide.md) para abrir el chat de compañeros, enviar tu primer mensaje y revisar las respuestas.
 
-* **Introducción:** Una vez que el compañero esté habilitado, consulta [Introducción al chat con el compañero](./chat/ui-guide.md) para conocer la interfaz de chat del compañero, que incluye el cuadro de entrada, las respuestas y el historial de chat.
+### Personalizar chat con compañeros
 
-Para adaptar el chat de compañeros a tu equipo, consulta [Habilidades](./customizations/skills/what-are-skills.md), [Integraciones](./customizations/integrations/understanding-integrations-in-coworker.md), [Complementos](./customizations/plugins/what-are-plugins.md) y [Memoria](./customizations/memory/what-is-memory.md), o empieza con la [descripción general de las personalizaciones](./customizations/overview.md).
+Adapte el chat de compañeros a la forma en que trabaja su equipo. Comience con la [descripción general de las personalizaciones](./customizations/overview.md) o vaya directamente a uno de los temas siguientes:
 
-## Vídeos sobre el uso de Coworker Chat
+* [Habilidades](./customizations/skills/what-are-skills.md)
+* [Integraciones](./customizations/integrations/understanding-integrations-in-coworker.md)
+* [Complementos](./customizations/plugins/what-are-plugins.md)
+* [Memoria](./customizations/memory/what-is-memory.md)
 
-Estas listas de reproducción de vídeo tratan sobre las características clave de [!UICONTROL Chat] y cómo escribir mensajes efectivos, con ejemplos prácticos de cómo [!DNL Coworker] ayuda a los equipos a trabajar de forma más eficaz en [!DNL CX Enterprise] productos.
+## Compañero de trabajo para equipos
+
+Coworker para equipos es una aplicación independiente para equipos de marketing pequeños y ágiles que deseen ponerse de pie y ejecutar campañas rápidamente. No forma parte de otra aplicación de CX Enterprise. Está disponible como prueba gratuita hasta el 31 de diciembre de 2026, solo en Norteamérica. Para ver los pasos de acceso, consulta [Cómo obtener acceso](./coworker-for-teams/overview.md#how-to-access).
+
+Los compañeros de trabajo de los equipos incluyen conectores para [Marketo Engage](./coworker-for-teams/connectors/marketo.md) y [HubSpot](./coworker-for-teams/connectors/hubspot.md).
+
+Para empezar, consulte los siguientes artículos:
+
+* [Información general de Compañero para equipos](./coworker-for-teams/overview.md)
+* [Creación de una campaña de correo electrónico](./coworker-for-teams/create-an-email-campaign.md)
+* [Casos de uso](./coworker-for-teams/use-cases.md)
+* [Impulso de las prácticas recomendadas](./coworker-for-teams/prompting-best-practices.md)
+
+## Más información
+
+Vea vídeos y únase a sesiones en directo para desarrollar sus habilidades como colaborador.
+
+### Ver vídeos de chat de compañeros
+
+Vea estas listas de reproducción para conocer los conceptos básicos de Coworker Chat y cómo personalizarlo con habilidades, integraciones, complementos y memoria.
 
 <!--
 CARDS
@@ -108,24 +147,9 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Proyectos (próximamente)
+### Únete a Experience League LIVE
 
-Proyectos de compañeros es un espacio de trabajo compartido para automatizar los flujos de trabajo de la experiencia del cliente desde la estrategia hasta la entrega. Los equipos lo utilizan para coordinar tareas, aprobaciones y ejecución.
-
-## Compañero de trabajo para equipos
-
-Coworker para equipos es una función con plantillas para que los equipos pequeños de Agile se pongan de pie y ejecuten campañas.
-
-**Artículos populares**
-
-* [Información general](./coworker-for-teams/overview.md)
-* [Creación de una campaña de correo electrónico](./coworker-for-teams/create-an-email-campaign.md)
-* [Casos de uso](./coworker-for-teams/use-cases.md)
-* [Impulso de las prácticas recomendadas](./coworker-for-teams/prompting-best-practices.md)
-
-## Experience League LIVE: Serie de compañeros de trabajo desbloqueados
-
-Únase a la serie Desbloqueados de CX Enterprise Coworker para ver cómo las organizaciones utilizan la IA para optimizar el trabajo de la experiencia del cliente. Cada sesión ofrece casos de uso prácticos, demostraciones en directo y directrices de expertos para acelerar los flujos de trabajo, descubrir perspectivas y automatizar tareas en las aplicaciones de Adobe Experience Cloud. Examine los episodios anteriores o regístrese para los próximos eventos.
+Vea los episodios bajo demanda de la serie Coworker Unlocked para ver cómo las organizaciones utilizan Coworker para optimizar el trabajo de experiencia del cliente. Cada sesión incluye casos de uso prácticos, demostraciones en directo y directrices de expertos para acelerar los flujos de trabajo, encontrar perspectivas y automatizar tareas.
 
 <!--
 CARDS

@@ -4,21 +4,14 @@ title: Creación de una campaña de correo electrónico
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '964'
 ht-degree: 0%
 ---
 # Creación de una campaña de correo electrónico {#create-an-email-campaign}
 
 Obtenga información sobre cómo generar y revisar campañas de correo electrónico completas en minutos.
-
->[!IMPORTANT]
->
->En este momento, solo puede generar campañas, pero aún no puede enviarlas (iniciarlas). La funcionalidad de Launch estará disponible próximamente.
 
 ## Antes de comenzar
 
