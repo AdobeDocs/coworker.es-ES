@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b91e8dcdacf57bdbc4fb6cf7d6fe92920e7fbb6e
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1765'
 ht-degree: 2%
 ---
 # Introducción al chat con compañeros {#ui-guide}
@@ -25,7 +25,7 @@ La siguiente tabla muestra dónde está disponible cada experiencia.
 | Real-Time CDP | Disponible ahora | Próximamente |
 | Adobe Journey Optimizer | Disponible ahora | Próximamente |
 | Customer Journey Analytics | Disponible ahora | Próximamente |
-| Workfront | Disponible ahora | Próximamente:<br><br>* a principios de septiembre de 2026 en la instancia de vista previa para administradores de sistemas de Workfront seleccionados<br><br>* a mediados de septiembre de 2026 en la instancia de producción para clientes de Workfront de lanzamiento rápido aptos<br><br>* a mediados de octubre de 2026 en la instancia de producción para clientes de Workfront de lanzamiento trimestral aptos |
+| Workfront | Disponible ahora | Disponible ahora |
 | Target | Disponible ahora | Disponible ahora |
 | AEM | Disponible ahora | Disponible ahora |
 | Marketo Engage | Disponible ahora | Próximamente |
@@ -43,7 +43,7 @@ Para utilizar esta experiencia envolvente, inicie sesión con sus credenciales d
 
 ## Vídeo: Aspectos básicos de la interfaz de chat de [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498570?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Elija su organización
 
