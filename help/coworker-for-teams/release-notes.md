@@ -4,14 +4,130 @@ title: Notas de la versión de CX Enterprise Coworker para equipos
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: d3cfd773137d0fc985cff508025935727dc4566b
 workflow-type: tm+mt
-source-wordcount: '3597'
+source-wordcount: '4474'
 ht-degree: 0%
 ---
 # Notas de la versión de Adobe CX Enterprise Coworker para equipos {#release-notes}
 
 Las versiones de Coworker para equipos funcionan con un modelo de entrega continua que permite un enfoque más escalable y gradual de la implementación de funcionalidades.
+
+## Octubre de 2026 {#oct-2026}
+
+**Fecha de la versión: 21 de octubre de 2026**
+
+* Coloque archivos en mensajes de campaña y conversaciones para adjuntarlos
+* Los archivos adjuntos de gran tamaño se capturan antes de que interrumpan su trabajo
+* Los tamaños de archivo se muestran en su idioma y formato local
+* Las vistas previas de correo electrónico se ajustan a diseños anchos sin cortar el contenido
+* Siga escribiendo al editar correos electrónicos dentro de una conversación
+* Los detalles del remitente se rellenan automáticamente desde su perfil
+* Los cambios de remitente de las previsualizaciones de conversación se transmiten a la campaña
+* Las previsualizaciones de estrategia de campaña abiertas reflejan los cambios guardados más recientes
+* Previsualizar listas de contactos de muestra cuando haya datos de muestra disponibles
+* Las descripciones de los conectores son más fáciles de leer en su idioma
+* Encuentre el conector y los detalles de aptitudes de forma más fiable en Contexto
+* Los filtros de canal de plantilla se ajustan más cómodamente en pantallas más pequeñas
+* Las acciones de perfil siguen siendo accesibles dentro del shell de navegación de Adobe
+* Los errores de creación de informes de Campaign ya no sugieren incorrectamente que la sesión haya caducado
+* Elija filtros de cuenta de prueba que coincidan con los estados disponibles
+* Continuar abriendo y cambiando el nombre de los chats sin una opción de eliminación engañosa
+* Las últimas actualizaciones de productos son más fáciles de descartar
+* La actividad de la campaña se cuenta de forma más coherente en los informes
+
+**Fecha de la versión: 16 de octubre de 2026**
+
+* Aplicar una plantilla de correo electrónico sin volver a escribir su contenido
+* Cambiar plantillas de correo electrónico sin perder las ediciones más recientes
+* Cambiar plantillas, descargar correos electrónicos y enviar pruebas desde un menú
+* Lea las previsualizaciones de correo electrónico con mayor comodidad antes de realizar cambios
+* Reintentar un mensaje cuando el envío falle antes de iniciarse
+* Encuentra las fichas de inicio más fácilmente en teléfonos más pequeños
+* Los cuadros de diálogo de Launch se ajustan más cómodamente en pantallas más pequeñas
+* Las etiquetas de audiencia largas se pueden leer sin superponerse
+* Ver hasta seis campañas recientes en Inicio
+* Inicio ahora se centra en campañas e ideas en lugar de recapitulaciones diarias
+* Iniciar una campaña o examinar ideas desde una página de inicio vacía
+* Los menús de campaña muestran las acciones adaptadas a cada estado de campaña
+* La edición de Adobe Express permanece no disponible cuando una imagen no se puede cargar
+* Los vínculos de Campañas antiguas le llevan a Colaboradores para equipos
+* Lea las respuestas de chat con un tamaño de texto más cómodo
+* Busque las pestañas Información general de campaña e Información centrada en el encabezado
+
+**Fecha de la versión: 15 de octubre de 2026**
+
+* Filtrar Inicio y Campañas según quién las creó
+* Obtenga un resumen diario de campañas, conversaciones y variantes de correo electrónico
+* Consulte estado de la campaña, creador y fecha de creación debajo del título
+* Reproduzca la configuración de la campaña desde las ideas de Campaign siempre que necesite ayuda
+* Cambiar el tamaño de las previsualizaciones de campaña y volver a tableros más suavemente
+* Los vínculos de correo electrónico ahora persisten al guardar el borrador
+* Los borradores de correo electrónico se guardan de forma fiable mientras sigue editando
+* Las imágenes de reemplazo permanecen conectadas a los borradores de correo electrónico
+* Cambiar plantillas de correo electrónico y descargar correos electrónicos directamente desde el editor
+* Exportar registros DNS como archivos de zona con instrucciones de configuración en lenguaje sencillo
+* Identifique los dominios y remitentes proporcionados por el sistema con insignias predeterminadas claras
+* Empiece a escribir para enfocar el compositor de chat activo
+* Examine las actualizaciones de los productos con una navegación más clara y un vínculo directo a las notas de la versión
+
+**Fecha de la versión: 14 de octubre de 2026**
+
+* Cree y cambie espacios de trabajo desde el menú de perfil
+* Buscar campañas y contenido guardado en la navegación actualizada
+* Consulte las campañas recientes y vuelva a intentar cargarlas desde Inicio
+* Ver quién creó las campañas, las plantillas y los kits de marca.
+* Encuentre su estado de prueba y las opciones de actualización más fácilmente
+* Conecta Shopify y actualiza los datos de conexión de tu tienda
+* Adjuntar documentos, hojas de cálculo e imágenes directamente desde el chat de inicio
+* Previsualizar y editar correos electrónicos sin salir de la conversación
+* Cambiar el tamaño de las vistas previas de conversación para adaptarlas a su forma de trabajar
+* Revise los flujos de trabajo, las estrategias y las audiencias junto a la conversación
+* Cambiar plantillas de correo electrónico, exportar correos electrónicos y enviar correos electrónicos de prueba desde vistas previas
+* Siga leyendo conversaciones incluso cuando la vista previa de un correo electrónico no se pueda actualizar
+* Vea las estrategias de campaña junto con sus otras fuentes de conocimiento
+* Ver cambios de estrategia guardados inmediatamente en vistas previas abiertas
+* Lea las estrategias de campaña y los detalles de audiencia directamente en el chat
+* Leer recuentos de público grandes en un formato más corto y claro
+* Seguir las actualizaciones del tablero de campaña con elementos destacados más claros
+* Abrir conversaciones en el último mensaje durante la navegación normal
+* Vuelva a la pantalla anterior con la navegación mejorada
+* Consulte los nombres de las conversaciones en el encabezado de chat del tablero de campaña
+* Utilice tableros de campaña, editores y charlas en pantallas más pequeñas
+* Iniciar un nuevo chat sin tener que continuar con la conversación anterior
+* Encuentre nuevas conversaciones en el historial antes de enviarlas
+* El chat mantiene los saltos de línea y permite hacer clic en las direcciones web
+* Las actualizaciones del flujo de trabajo ya no ocultan la explicación de cierre del asistente
+* Las confirmaciones de prueba por correo electrónico ya no aparecen dos veces en el chat
+* Los refinamientos de correo electrónico actualizan los borradores existentes en lugar de crear duplicados
+* Las tareas de seguimiento ya no sobrescriben la configuración de la campaña ni las audiencias
+* Los tableros de campaña mantienen el flujo de trabajo más reciente una vez eliminados los pasos
+* El estado de la campaña refleja la fase real de la campaña
+* Obtener advertencias más claras sobre programaciones de inicio no válidas o caducadas
+* Ver qué detalles de solicitud faltan antes de crear una campaña
+* Configure el envío de dominios con registros DNS más claros y pasos siguientes
+* El inicio de sesión con cuenta personal sobrevive a las actualizaciones de forma más fiable
+* Pasar de la incorporación a Inicio sin un flash de pantalla de carga
+* La edición de marcas y las acciones predeterminadas personales están disponibles de nuevo
+* Ver la atribución precisa del creador en los kits de marca
+* Comprenda cuándo el cambio de una marca predeterminada afecta al espacio de trabajo
+* La generación de marcas ya no se interrumpe con el banner de restablecimiento
+* Los controles de variación de correo electrónico son más fáciles de distinguir
+* Los mensajes de error de chat utilizan un tratamiento visual más calmado
+
+**Fecha de la versión: 13 de octubre de 2026**
+
+* Las confirmaciones de prueba le recuerdan que compruebe su carpeta de correo no deseado
+
+**Fecha de la versión: 12 de octubre de 2026**
+
+* Añada el sitio web y el uso previsto después de solicitar el acceso de prueba
+* Reinicie el proceso de suscripción con su correo electrónico empresarial cuando sea necesario
+
+**Fecha de la versión: 7 de octubre de 2026**
+
+* Consulte la programación de actualización de los equipos y observe el próximo restablecimiento de datos
+* Siga la guía vinculada para guardar el contenido antes del restablecimiento
 
 ## Septiembre de 2026 {#sep-2026}
 
