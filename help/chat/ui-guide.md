@@ -43,7 +43,7 @@ Para utilizar esta experiencia envolvente, inicie sesión con sus credenciales d
 
 ## Vídeo: Aspectos básicos de la interfaz de chat de [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498570?captions=spa&learn=on)
 
 ## Elija su organización
 
