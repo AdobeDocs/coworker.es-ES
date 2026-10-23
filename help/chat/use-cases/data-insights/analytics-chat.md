@@ -331,7 +331,7 @@ Para abrir una visualización en un nuevo proyecto de Analysis Workspace:
 
 1. (Opcional) Comparta su proyecto de Workspace con quien desee.
 
-   Para obtener más información sobre Analysis Workspace, consulte [Información general de Analysis Workspace](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/home) en la documentación de Customer Journey Analytics o [Información general de Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home) en la documentación de Adobe Analytics.
+   Para obtener más información sobre Analysis Workspace, consulte [Información general de Analysis Workspace](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/home) en la documentación de Customer Journey Analytics o [Información general de Analysis Workspace](https://experienceleague.adobe.com/es/docs/analytics/analyze/analysis-workspace/home) en la documentación de Adobe Analytics.
 
 ## Próximos pasos
 
