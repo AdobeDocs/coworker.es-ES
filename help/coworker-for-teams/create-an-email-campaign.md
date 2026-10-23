@@ -4,9 +4,9 @@ title: Creación de una campaña de correo electrónico
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '933'
 ht-degree: 0%
 ---
 # Creación de una campaña de correo electrónico {#create-an-email-campaign}
@@ -19,9 +19,9 @@ Asegúrese de que dispone de:
 
 * Una cuenta activa de Adobe CX Enterprise Coworker para equipos ([regístrese aquí](https://coworker-campaigns.experience.adobe.com/){target="_blank"} si aún no lo ha hecho).
 
-* Tu marca se agregó en **Tus cosas** > **Marcas**.
+* Su marca se agregó en **Contexto** > **Marcas**.
 
-* (Opcional, pero recomendada) Se ha cargado una plantilla de correo electrónico de HTML en **Sus cosas** > **Plantillas de correo electrónico**.
+* (Opcional, pero recomendada) Una plantilla de correo electrónico de HTML cargada en **Contexto** > **Plantillas de correo electrónico**.
 
 * Un CSV de audiencia listo para cargar.
 
@@ -70,13 +70,13 @@ Ejemplo:
 
 Cuando tenga la solicitud lista, haga clic en **Generar campaña**. El compañero de trabajo de los equipos:
 
-* Genere un plan de campaña estructurado.
+* Genere una estrategia de campaña estructurada.
 * Pregunte por la audiencia de destino, que también se utilizará para la personalización de contenido.
 * Borrador de contenido de correo electrónico personalizado para cada paso.
 * Construye dinámicamente el recorrido a lo largo del camino.
 * Montarlo todo en un solo tablero de campaña.
 
-## Paso 3: Carga de la audiencia
+## Paso 3: Actualización de la audiencia
 
 Las audiencias se cargan mediante CSV. Todas las audiencias son específicas para sus respectivas campañas (no se almacenan en ningún otro lugar del entorno en este momento).
 
@@ -161,10 +161,6 @@ Sí, el límite de tamaño es de 8 MB.
 **¿Qué sucede si el CSV de mi audiencia devuelve errores?**
 
 Asegúrese de que el archivo CSV no contenga caracteres ocultos &quot;enriquecidos&quot;.
-
-**¿Cómo se usan las plantillas de campaña?**
-
-Seleccione la plantilla que desee y haga clic en **Remix**. A continuación, puede actualizar todos los tokens de personalización y hacer clic en el icono **enviar** en la parte inferior derecha.
 
 **¿Cómo comparto un borrador de campaña con un compañero de equipo para que lo revise?**
 
