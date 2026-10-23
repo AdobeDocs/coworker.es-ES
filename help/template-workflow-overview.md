@@ -13,9 +13,9 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7536fb875db4118f150cc1e83135c16ec4ac257c
+source-git-commit: 951c534c04e9d431b4db71e3d999685629821194
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '337'
 ht-degree: 4%
 ---
 <!--
@@ -72,6 +72,8 @@ Use el chat de Adobe CX Enterprise Coworker para [ lo que el lector puede hacer 
 **Mejor para:** [Rol uno, Rol dos]
 
 ## Requisitos previos {#prerequisites}
+
+[Elimine esta sección si no se aplican requisitos previos.]
 
 Para utilizar los casos de uso en este grupo, necesita lo siguiente:
 
