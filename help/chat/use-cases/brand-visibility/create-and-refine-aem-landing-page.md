@@ -19,5 +19,5 @@ ht-degree: 0%
 
 Aprenda a convertir un informe de campaña en un borrador de página de aterrizaje con Adobe CX Enterprise Coworker. Siga el flujo de trabajo para utilizar una página de Adobe Experience Manager existente como plantilla, confirmar el destino, aplicar contenido de la campaña y metadatos de SEO, y refinar las imágenes y las copias en el editor universal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504682/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504685/?captions=spa&learn=on)
 
