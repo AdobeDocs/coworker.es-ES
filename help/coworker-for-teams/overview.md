@@ -4,9 +4,9 @@ title: Información general de Adobe CX Enterprise Coworker
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2c08a164e3f127eb01271b31e1150f1d815e5b27
+source-git-commit: 5bc85387e83672fade431a5e8e801215429fa8c9
 workflow-type: tm+mt
-source-wordcount: '1030'
+source-wordcount: '1027'
 ht-degree: 0%
 ---
 # Información general de Compañero para equipos {#overview}
@@ -97,12 +97,12 @@ La interfaz de Colaborador para equipos está organizada en torno a una navegaci
 
 Coworker para equipos reúne cinco flujos de trabajo que generalmente abarcan cinco herramientas diferentes en una experiencia conversacional:
 
-- **Convierta un informe en un plan de campaña**. Envíe un mensaje o cargue un informe, y Coworker para equipos devolverá un plan estructurado de extremo a extremo.
+- **Convierta un informe en una estrategia de campaña**. Enviar un mensaje o cargar un archivo: Coworker para equipos devuelve una estrategia inicial para organizar la campaña.
 - **Crear y refinar audiencias**. Cargue un CSV o conecte los datos y, a continuación, refine el segmento en la conversación.
 - **Generar contenido sin marca**. El compañero de trabajo de los equipos escribe correos electrónicos que coinciden con la voz, las referencias y las plantillas de la marca.
 - **Diseñar recorridos de varios pasos**. Los compañeros de trabajo para equipos reúnen secuencias de nutrición, no solo envíos únicos.
 - **Enviar correos electrónicos de revisión**. Previsualice todos los mensajes de su bandeja de entrada antes del lanzamiento.
-- **Iniciar y analizar**. _(Próximamente)_ Envíe campañas y obtenga información sobre los mejores pasos siguientes sin dejar a su compañero de trabajo para los equipos.
+- **Iniciar y analizar**. Envíe campañas y obtenga información sobre los mejores pasos siguientes sin dejar a sus compañeros de trabajo por equipos.
 
 ## Cómo funciona la IA
 
@@ -110,7 +110,7 @@ Coworker para equipos sigue un bucle conversacional simple de varias vueltas:
 
 **Entrada**. Proporcione un objetivo de campaña, la audiencia (cargada o conectada) y un contexto de marca opcional.
 
-**Procesando**. El colaborador de los equipos de IA auténtica genera un plan de campaña, crea un recorrido y redacta contenido personalizado. Todo lo cual puede hacer actualizaciones a, conversacionalmente.
+**Procesando**. La inteligencia artificial aplicada a la función Coworker para equipos genera una estrategia de campaña, crea un recorrido y redacta contenido personalizado. Todo lo cual puede hacer actualizaciones a, conversacionalmente.
 
 **Salida**. Aparece un borrador de campaña en el tablero de campaña, listo para su revisión, iteración y posible lanzamiento.
 
@@ -126,7 +126,7 @@ Algunas cosas que los primeros usuarios han encontrado que marcan una diferencia
 
 - **Empiece con un caso de uso real específico**. &quot;Crear una serie de recuperación para clientes que no hayan hecho un pedido en 90 días&quot; es mejor que &quot;hacer una campaña&quot;. Consulte _Casos de uso_ para ver ejemplos específicos.
 - **Limpia tus datos de audiencia**. Los compañeros de trabajo de los equipos solo pueden personalizar, tal como permite su CSV. Excluya a los contactos que no deba enviar por correo electrónico antes de cargar.
-- **Invierte en la configuración de tu marca**. Coworker para equipos extrae detalles de la marca al registrarse. Una rápida revisión de **Tus cosas** > **Marcas** beneficia a todas las campañas que generes.
+- **Invierte en la configuración de tu marca**. Coworker para equipos extrae detalles de la marca al registrarse. Una rápida revisión de **Contexto** > **Marcas** beneficia a todas las campañas que genere.
 - **Enviar un correo electrónico de revisión**. Antes de iniciar, envíe una prueba y revísela en su propia bandeja de entrada.
 - **Iterar, no reiniciar**. Considere la salida Coworker para equipos como punto de partida. El camino más rápido hacia la grandiosidad son unas cuantas rondas de refinamiento, no una nueva petición.
 - **Exporte cuando necesite un rastro de papel**. Exporte correos electrónicos individuales como HTML o la campaña completa como documento de Word o PDF para que los revise el equipo.
@@ -146,7 +146,7 @@ El trabajo en equipo es un producto en desarrollo activo. Esto es lo que hay que
 
 ## Vídeo introductorio
 
->[!VIDEO](https://video.tv.adobe.com/v/3492810?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
 
 
 Las nuevas funciones se enviarán durante la versión de prueba. Los comentarios ayudan a determinar lo que viene después. Envíe comentarios a través del icono de comentarios del producto en el encabezado.
