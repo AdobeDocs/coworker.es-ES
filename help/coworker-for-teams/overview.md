@@ -4,9 +4,9 @@ title: Información general de Adobe CX Enterprise Coworker
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 2c08a164e3f127eb01271b31e1150f1d815e5b27
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '1030'
 ht-degree: 0%
 ---
 # Información general de Compañero para equipos {#overview}
@@ -21,7 +21,7 @@ En este momento, todas las interacciones con la IA lo dirigirán hacia la [gener
 >
 >Coworker para equipos está disponible a través de una prueba gratuita hasta el 31 de diciembre de 2026. Durante la prueba, todos los activos y la actividad son específicos del usuario.
 
-1. Vaya a coworker-campaigns.experience.adobe.com.
+1. Vaya a coworker-teams.adobe.com.
 
 1. Si ya tienes una cuenta de Adobe, haz clic en **Iniciar sesión**. Si no lo hace, haga clic en **Únase a la versión de prueba gratuita** y cree una cuenta mediante el correo electrónico de su empresa.
 
@@ -35,7 +35,7 @@ En este momento, todas las interacciones con la IA lo dirigirán hacia la [gener
 
 1. (Opcional) Cargue una plantilla de correo electrónico de HTML en **Plantillas de correo electrónico** para que los equipos apliquen su diseño al generar contenido.
 
-   ![Pantalla de bienvenida para la versión de prueba de Coworker para equipos](./assets/overview-1.png){width="800" zoomable="yes"}
+   ![Pantalla de bienvenida para la versión de prueba de Coworker para equipos](./assets/overview-1.gif)
 
 Está listo para generar su primera campaña.
 
@@ -45,14 +45,49 @@ La interfaz de Colaborador para equipos está organizada en torno a una navegaci
 
 ![Pantalla de inicio](./assets/overview-2.gif)
 
-| Menú de navegación izquierdo | Objetivo |
-|---|---|
-| Nuevo chat | Inicie una nueva conversación para generar una campaña. |
-| Inicio | Su punto de partida: barra de mensajes, campañas recientes y plantillas de campaña listas para usar. |
-| Chats | Todas las conversaciones que ha iniciado y que aún no se han generado en un tablero de campañas. |
-| Campañas | Su inventario de todas las campañas en borrador y en directo. |
-| Tus cosas | Los kits de marca y las plantillas de correo electrónico (los recursos que utiliza el colaborador para los equipos para mantener todo dentro de la marca). |
-| Personalizar | Conectores (Marketo Engage en el inicio) y Habilidades (comportamientos personalizados que se pueden aplicar en todas las campañas). |
+<table>
+  <thead>
+    <tr>
+      <th>Menú de navegación izquierdo</th>
+      <th>Objetivo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nuevo chat</td>
+      <td>Inicie una nueva conversación para generar una campaña.</td>
+    </tr>
+    <tr>
+      <td>Inicio</td>
+      <td>Su punto de partida: barra de mensajes, campañas recientes y plantillas de campaña listas para usar.</td>
+    </tr>
+    <tr>
+      <td>Chats</td>
+      <td>Todas las conversaciones que ha iniciado y que aún no se han generado en un tablero de campañas.</td>
+    </tr>
+    <tr>
+      <td>Campañas</td>
+      <td>Su inventario de todas las campañas en borrador y en directo.</td>
+    </tr>
+    <tr>
+      <td>Listas de contactos</td>
+      <td>Administre sus listas de audiencia y supresión.</td>
+    </tr>
+    <tr>
+      <td>Datos</td>
+      <td>Vea las métricas de todas las campañas activas, rastreadas en un intervalo de fechas seleccionado.</td>
+    </tr>
+    <tr>
+      <td>Contexto</td>
+      <td>Haga clic en <i>Contexto</i> para mostrar su submenú:<br><br>
+      <li><b>Marcas</b>: administre y agregue kits de marca y establezca un valor predeterminado para su espacio de trabajo.</li>
+      <li><b>Plantillas de correo electrónico</b>: administre y cargue plantillas personalizadas de HTML e indique a sus compañeros cuándo utilizarlas.</li>
+      <li><b>Conectores</b>: integraciones externas como Databricks y Salesforce para incluir audiencias o contexto.</li>
+      <li><b>Habilidades</b>: instrucciones reutilizables que definen cómo el Compañero de trabajo crea y personaliza sus campañas.</li></td>
+    </tr>
+  </tbody>
+</table>
+
 
 >[!NOTE]
 >
@@ -111,7 +146,7 @@ El trabajo en equipo es un producto en desarrollo activo. Esto es lo que hay que
 
 ## Vídeo introductorio
 
->[!VIDEO](https://video.tv.adobe.com/v/3492810?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
 
 
 Las nuevas funciones se enviarán durante la versión de prueba. Los comentarios ayudan a determinar lo que viene después. Envíe comentarios a través del icono de comentarios del producto en el encabezado.
