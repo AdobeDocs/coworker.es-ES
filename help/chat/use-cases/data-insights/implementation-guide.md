@@ -1,7 +1,7 @@
 ---
 title: Planifique su implementación de Customer Journey Analytics o medios de streaming con su compañero
 description: Descubra cómo las habilidades de la guía de implementación de Coworker convierten una conversación de descubrimiento en un plan de implementación personalizado y ordenado con listas de comprobación exportables.
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
 source-wordcount: '1239'
 ht-degree: 1%
@@ -56,7 +56,7 @@ Antes de utilizar estas habilidades, tenga en cuenta las siguientes limitaciones
 
 1. Inicie sesión en Coworker.
 
-1. Seleccione [!UICONTROL **Nuevo chat**].
+1. Seleccione **[!UICONTROL Nuevo chat]**.
 
 1. En el campo de texto, describa la implementación o migración que desee planificar. Por ejemplo:
 

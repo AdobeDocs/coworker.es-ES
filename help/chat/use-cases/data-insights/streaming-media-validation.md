@@ -1,7 +1,7 @@
 ---
 title: Validación de la implementación de Streaming Media con Coworker
 description: Descubra cómo la aptitud de validación de medios de streaming de su compañero comprueba su configuración, sesiones y registros para confirmar que la implementación realiza un seguimiento correcto.
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
 source-wordcount: '1304'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Antes de utilizar esta aptitud, tenga en cuenta lo siguiente:
 
 1. Inicie sesión en Coworker.
 
-1. Seleccione [!UICONTROL **Nuevo chat**].
+1. Seleccione **[!UICONTROL Nuevo chat]**.
 
 1. En el campo de texto, describa lo que desea validar. Por ejemplo:
 

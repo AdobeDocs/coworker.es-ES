@@ -4,9 +4,9 @@ description: Use el chat de compañeros para crear canales, encontrar dónde aba
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '689'
 ht-degree: 2%
 ---
 
@@ -62,7 +62,7 @@ El compañero de trabajo emplea las siguientes habilidades en los casos de uso d
 * Especifique los segmentos, canales o dispositivos que desea incluir, excluir o comparar.
 * Mencione cualquier hipótesis que ya tenga, como un cambio reciente en el sitio, para que Coworker Chat pueda validarla o descartarla.
 * Pida los siguientes pasos recomendados si desea que Coworker Chat le sugiera preguntas de seguimiento.
-* Abra cualquier visualización en Analysis Workspace cuando desee tener un mayor control manual.
+* Abra cualquier visualización en Analysis Workspace cuando desee tener un mayor control manual. Ver [Analizar en Customer Journey Analytics](/help/chat/use-cases/data-insights/analytics-chat.md#analyze-in-customer-journey-analytics).
 
 ## Próximos pasos
 
