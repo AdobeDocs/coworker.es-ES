@@ -3,7 +3,7 @@
 hide: true
 
 # TITLE AND DESCRIPTION
-# Title: title case, 60 characters or fewer, no product name. Start with a verb that names the work, for example "Analyze Customer Journeys with Coworker Chat".
+# Title: title case, 60 characters or fewer. Start with a verb that names the work, for example "Analyze Customer Journeys with Coworker Chat".
 # Description: one or two sentences, about 150-160 characters. Start with "Use Coworker Chat to..." and name two or three things the reader can do.
 title: Verbo sobre el trabajo que realiza con el chat de compañeros
 description: Use el chat de Coworker para [primera cosa], [segunda cosa] y [tercera cosa]. [Segunda oración opcional que invita a la acción.]
@@ -13,9 +13,9 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 14c937d61b7cd41ed1455e72a211ea1f8c0b158a
+source-git-commit: 951c534c04e9d431b4db71e3d999685629821194
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '337'
 ht-degree: 4%
 ---
 <!--
@@ -72,6 +72,8 @@ Use el chat de Adobe CX Enterprise Coworker para [ lo que el lector puede hacer 
 **Mejor para:** [Rol uno, Rol dos]
 
 ## Requisitos previos {#prerequisites}
+
+[Elimine esta sección si no se aplican requisitos previos.]
 
 Para utilizar los casos de uso en este grupo, necesita lo siguiente:
 

@@ -4,9 +4,9 @@ title: Información general de Adobe CX Enterprise Coworker
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 5bc85387e83672fade431a5e8e801215429fa8c9
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '1027'
 ht-degree: 0%
 ---
 # Información general de Compañero para equipos {#overview}
@@ -21,7 +21,7 @@ En este momento, todas las interacciones con la IA lo dirigirán hacia la [gener
 >
 >Coworker para equipos está disponible a través de una prueba gratuita hasta el 31 de diciembre de 2026. Durante la prueba, todos los activos y la actividad son específicos del usuario.
 
-1. Vaya a coworker-campaigns.experience.adobe.com.
+1. Vaya a coworker-teams.adobe.com.
 
 1. Si ya tienes una cuenta de Adobe, haz clic en **Iniciar sesión**. Si no lo hace, haga clic en **Únase a la versión de prueba gratuita** y cree una cuenta mediante el correo electrónico de su empresa.
 
@@ -35,7 +35,7 @@ En este momento, todas las interacciones con la IA lo dirigirán hacia la [gener
 
 1. (Opcional) Cargue una plantilla de correo electrónico de HTML en **Plantillas de correo electrónico** para que los equipos apliquen su diseño al generar contenido.
 
-   ![Pantalla de bienvenida para la versión de prueba de Coworker para equipos](./assets/overview-1.png){width="800" zoomable="yes"}
+   ![Pantalla de bienvenida para la versión de prueba de Coworker para equipos](./assets/overview-1.gif)
 
 Está listo para generar su primera campaña.
 
@@ -45,14 +45,49 @@ La interfaz de Colaborador para equipos está organizada en torno a una navegaci
 
 ![Pantalla de inicio](./assets/overview-2.gif)
 
-| Menú de navegación izquierdo | Objetivo |
-|---|---|
-| Nuevo chat | Inicie una nueva conversación para generar una campaña. |
-| Inicio | Su punto de partida: barra de mensajes, campañas recientes y plantillas de campaña listas para usar. |
-| Chats | Todas las conversaciones que ha iniciado y que aún no se han generado en un tablero de campañas. |
-| Campañas | Su inventario de todas las campañas en borrador y en directo. |
-| Tus cosas | Los kits de marca y las plantillas de correo electrónico (los recursos que utiliza el colaborador para los equipos para mantener todo dentro de la marca). |
-| Personalizar | Conectores (Marketo Engage en el inicio) y Habilidades (comportamientos personalizados que se pueden aplicar en todas las campañas). |
+<table>
+  <thead>
+    <tr>
+      <th>Menú de navegación izquierdo</th>
+      <th>Objetivo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nuevo chat</td>
+      <td>Inicie una nueva conversación para generar una campaña.</td>
+    </tr>
+    <tr>
+      <td>Inicio</td>
+      <td>Su punto de partida: barra de mensajes, campañas recientes y plantillas de campaña listas para usar.</td>
+    </tr>
+    <tr>
+      <td>Chats</td>
+      <td>Todas las conversaciones que ha iniciado y que aún no se han generado en un tablero de campañas.</td>
+    </tr>
+    <tr>
+      <td>Campañas</td>
+      <td>Su inventario de todas las campañas en borrador y en directo.</td>
+    </tr>
+    <tr>
+      <td>Listas de contactos</td>
+      <td>Administre sus listas de audiencia y supresión.</td>
+    </tr>
+    <tr>
+      <td>Datos</td>
+      <td>Vea las métricas de todas las campañas activas, rastreadas en un intervalo de fechas seleccionado.</td>
+    </tr>
+    <tr>
+      <td>Contexto</td>
+      <td>Haga clic en <i>Contexto</i> para mostrar su submenú:<br><br>
+      <li><b>Marcas</b>: administre y agregue kits de marca y establezca un valor predeterminado para su espacio de trabajo.</li>
+      <li><b>Plantillas de correo electrónico</b>: administre y cargue plantillas personalizadas de HTML e indique a sus compañeros cuándo utilizarlas.</li>
+      <li><b>Conectores</b>: integraciones externas como Databricks y Salesforce para incluir audiencias o contexto.</li>
+      <li><b>Habilidades</b>: instrucciones reutilizables que definen cómo el Compañero de trabajo crea y personaliza sus campañas.</li></td>
+    </tr>
+  </tbody>
+</table>
+
 
 >[!NOTE]
 >
@@ -62,12 +97,12 @@ La interfaz de Colaborador para equipos está organizada en torno a una navegaci
 
 Coworker para equipos reúne cinco flujos de trabajo que generalmente abarcan cinco herramientas diferentes en una experiencia conversacional:
 
-- **Convierta un informe en un plan de campaña**. Envíe un mensaje o cargue un informe, y Coworker para equipos devolverá un plan estructurado de extremo a extremo.
+- **Convierta un informe en una estrategia de campaña**. Enviar un mensaje o cargar un archivo: Coworker para equipos devuelve una estrategia inicial para organizar la campaña.
 - **Crear y refinar audiencias**. Cargue un CSV o conecte los datos y, a continuación, refine el segmento en la conversación.
 - **Generar contenido sin marca**. El compañero de trabajo de los equipos escribe correos electrónicos que coinciden con la voz, las referencias y las plantillas de la marca.
 - **Diseñar recorridos de varios pasos**. Los compañeros de trabajo para equipos reúnen secuencias de nutrición, no solo envíos únicos.
 - **Enviar correos electrónicos de revisión**. Previsualice todos los mensajes de su bandeja de entrada antes del lanzamiento.
-- **Iniciar y analizar**. _(Próximamente)_ Envíe campañas y obtenga información sobre los mejores pasos siguientes sin dejar a su compañero de trabajo para los equipos.
+- **Iniciar y analizar**. Envíe campañas y obtenga información sobre los mejores pasos siguientes sin dejar a sus compañeros de trabajo por equipos.
 
 ## Cómo funciona la IA
 
@@ -75,7 +110,7 @@ Coworker para equipos sigue un bucle conversacional simple de varias vueltas:
 
 **Entrada**. Proporcione un objetivo de campaña, la audiencia (cargada o conectada) y un contexto de marca opcional.
 
-**Procesando**. El colaborador de los equipos de IA auténtica genera un plan de campaña, crea un recorrido y redacta contenido personalizado. Todo lo cual puede hacer actualizaciones a, conversacionalmente.
+**Procesando**. La inteligencia artificial aplicada a la función Coworker para equipos genera una estrategia de campaña, crea un recorrido y redacta contenido personalizado. Todo lo cual puede hacer actualizaciones a, conversacionalmente.
 
 **Salida**. Aparece un borrador de campaña en el tablero de campaña, listo para su revisión, iteración y posible lanzamiento.
 
@@ -91,7 +126,7 @@ Algunas cosas que los primeros usuarios han encontrado que marcan una diferencia
 
 - **Empiece con un caso de uso real específico**. &quot;Crear una serie de recuperación para clientes que no hayan hecho un pedido en 90 días&quot; es mejor que &quot;hacer una campaña&quot;. Consulte _Casos de uso_ para ver ejemplos específicos.
 - **Limpia tus datos de audiencia**. Los compañeros de trabajo de los equipos solo pueden personalizar, tal como permite su CSV. Excluya a los contactos que no deba enviar por correo electrónico antes de cargar.
-- **Invierte en la configuración de tu marca**. Coworker para equipos extrae detalles de la marca al registrarse. Una rápida revisión de **Tus cosas** > **Marcas** beneficia a todas las campañas que generes.
+- **Invierte en la configuración de tu marca**. Coworker para equipos extrae detalles de la marca al registrarse. Una rápida revisión de **Contexto** > **Marcas** beneficia a todas las campañas que genere.
 - **Enviar un correo electrónico de revisión**. Antes de iniciar, envíe una prueba y revísela en su propia bandeja de entrada.
 - **Iterar, no reiniciar**. Considere la salida Coworker para equipos como punto de partida. El camino más rápido hacia la grandiosidad son unas cuantas rondas de refinamiento, no una nueva petición.
 - **Exporte cuando necesite un rastro de papel**. Exporte correos electrónicos individuales como HTML o la campaña completa como documento de Word o PDF para que los revise el equipo.

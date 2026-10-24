@@ -11,9 +11,9 @@ jira: KT-22083
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1528'
 ht-degree: 0%
 ---
 # Validar datos con su compañero de trabajo al actualizar de Adobe Analytics a Customer Journey Analytics
@@ -32,7 +32,7 @@ Esta aptitud compara automáticamente:
 
 Después de realizar estas comparaciones, la aptitud genera perspectivas y recomendaciones impulsadas por IA que puede implementar para facilitar la actualización a Customer Journey Analytics.
 
-## Antes de empezar
+## Requisitos previos
 
 Para validar los datos como parte de la actualización, necesita lo siguiente:
 
@@ -48,7 +48,7 @@ No necesita saber cómo se ha diseñado la implementación. La aptitud detecta a
 
 1. Inicie sesión en Coworker.
 
-1. Seleccione [!UICONTROL **Nuevo chat**].
+1. Seleccione **[!UICONTROL Nuevo chat]**.
 
 1. En el campo de texto, solicite al agente que valide la actualización de Adobe Analytics a Customer Journey Analytics:
 

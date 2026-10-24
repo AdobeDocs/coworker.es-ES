@@ -4,7 +4,7 @@ title: Inicio y administración de una campaña
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 2%
@@ -92,14 +92,6 @@ Puede detener una campaña que esté enviando activamente (una campaña &quot;en
 >[!CAUTION]
 >
 >Detener una campaña es permanente. Los destinatarios dejan de avanzar por la campaña inmediatamente y la campaña no se puede reanudar ni reiniciar más tarde. Para volver a enviar, debe crear una nueva campaña e iniciarla.
-
-<!--
-
-### Prerequisites
-
-- [NEEDS INPUT - to confirm with engineer: does stopping a campaign require a specific role or permission, or can any user with campaign access do this?]
-
--->
 
 ### Cómo detener una campaña
 

@@ -3,7 +3,7 @@
 hide: true
 
 # TITLE AND DESCRIPTION
-# Title: title case, 60 characters or fewer, no product name.
+# Title: title case, 60 characters or fewer.
 # Description: one or two sentences, about 150-160 characters. Start with "Learn about..." for concepts or "Learn how to..." for tasks.
 title: Título de la página en caso de título
 description: Aprenda a [realizar la tarea] con Adobe CX Enterprise Coworker. [Segunda oración que invita a la acción.]
@@ -13,9 +13,9 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 1c6c045a70d7b6d00a88a32c39216c05478d8029
+source-git-commit: 951c534c04e9d431b4db71e3d999685629821194
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '304'
 ht-degree: 1%
 ---
 <!--
@@ -58,7 +58,7 @@ WRITING RULES THAT MATTER MOST HERE
 
 ## Antes de empezar {#before-you-begin}
 
-[Enumere lo que necesita el lector antes de empezar: permisos, licencias, acceso a una aplicación o zona protegida o una página relacionada para leer primero. Eliminar esta sección para páginas de concepto.]
+[Enumere lo que necesita el lector antes de empezar: permisos, licencias, acceso a una aplicación o zona protegida o una página relacionada para leer primero. Eliminar esta sección si no se aplican requisitos previos.]
 
 * [Requisito previo uno.]
 * [Requisito previo dos.]

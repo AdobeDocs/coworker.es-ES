@@ -5,10 +5,11 @@ user-guide-description: Obtenga información sobre Adobe CX Enterprise Coworker,
 description: Obtenga información sobre las herramientas de IA en CX Enterprise. Mejore su conocimiento del producto y obtenga perspectivas operativas mediante la IA en CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 9f9ec676986d190bdc104aff848c7d4289bb13a6
+nudge: true
+source-git-commit: 6022fafc0e0213cbc887f5b38267cb65fd8d4326
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 13%
+source-wordcount: '305'
+ht-degree: 12%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -42,6 +43,7 @@ ht-degree: 13%
         - [Explorar tendencias y causas básicas](./chat/use-cases/data-insights/root-cause-analysis.md)
       - Rendimiento de contenido {#content-performance}
         - [Información general](./chat/use-cases/data-insights/content-performance.md)
+        - [Hacer preguntas sobre el contenido](./chat/use-cases/data-insights/ask-content-questions.md)
       - Medición y atribución de marketing {#marketing-measurement-and-attribution}
         - [Información general](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - Incorporación de datos {#data-onboarding}
@@ -51,7 +53,8 @@ ht-degree: 13%
     - Públicos {#audiences}
       - [Evaluar el estado de la plataforma y crear audiencias](./chat/use-cases/audiences/create-audience-from-natural-language.md)
     - Recorridos {#journeys}
-      - [Creación de recorridos con lenguaje natural](./chat/use-cases/journeys/create-journey-from-natural-language.md)
+      - [Creación de un recorrido con lenguaje natural](./chat/use-cases/journeys/create-journey-from-natural-language.md)
+      - [Creación de un recorrido a partir de una imagen](./chat/use-cases/journeys/create-journey-from-image.md)
       - [Creación, simulación y análisis de recorridos entre canales](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
     - Lealtad {#loyalty}
       - [Creación de un desafío de lealtad y perspectivas de superficie](./chat/use-cases/journeys/create-loyalty-challenge.md)
@@ -63,6 +66,7 @@ ht-degree: 13%
     - Alertas {#alerts}
       - [Aptitudes de alerta al cliente](./chat/use-cases/customer-alerts/customer-alerts.md)
     - Visibilidad de la marca {#brand-visibility}
+      - [Creación y refinamiento de una página de aterrizaje de AEM](./chat/use-cases/brand-visibility/create-and-refine-aem-landing-page.md)
       - [Comprobación del cumplimiento de marca](./chat/use-cases/brand-visibility/brand-compliance.md)
       - [Crear páginas de AEM Sites](./chat/use-cases/brand-visibility/author-web-pages.md)
       - [AEM Assets integrados](./chat/use-cases/brand-visibility/onboard-aem-assets.md)
