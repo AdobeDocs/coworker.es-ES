@@ -4,9 +4,9 @@ description: Pregunte en Coworker Chat sobre su contenido en un lenguaje sencill
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
+source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
 workflow-type: tm+mt
-source-wordcount: '1008'
+source-wordcount: '1009'
 ht-degree: 2%
 ---
 
@@ -30,7 +30,7 @@ Para hacer preguntas sobre su contenido, necesita:
 
 * Chat de compañeros conectado a las vistas de datos de Customer Journey Analytics. Ver [Introducción al análisis de datos con Coworker Chat](/help/chat/use-cases/data-insights/analytics-chat.md).
 * Ver el acceso a las vistas de datos que desea analizar. El chat de compañeros hereda sus permisos de Customer Journey Analytics.
-* Vista de datos configurada para Content Analytics. Consulte [Configuración de Content Analytics](https://experienceleague.adobe.com/es/docs/analytics-platform/using/content-analytics/configuration/configuration) en la guía de Customer Journey Analytics.
+* Vista de datos configurada para Content Analytics. Consulte [Configuración de Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration) en la guía de Customer Journey Analytics.
 
 ## Formular una pregunta de contenido
 
@@ -52,7 +52,7 @@ Para hacer preguntas sobre su contenido, necesita:
 
 1. Revise los resultados.
 
-1. (Opcional) Haga preguntas de seguimiento en la misma conversación para profundizar o abra una visualización en Analysis Workspace para obtener más control manual. Ver [Analizar en Customer Journey Analytics](/help/chat/use-cases/data-insights/analytics-chat.md#analyze-in-customer-journey-analytics).
+1. (Opcional) Haga preguntas de seguimiento en la misma conversación para profundizar o abra una visualización en Analysis Workspace para obtener más control manual. Consulte [Abrir una visualización en Analysis Workspace](/help/chat/use-cases/data-insights/analytics-chat.md#open-a-visualization-in-analysis-workspace).
 
 ## Ejemplos de peticiones
 
@@ -93,11 +93,11 @@ La aptitud comprende cómo se estructuran los datos de Content Analytics. Por ej
 * **ID de experiencia:** Cuando pregunta por una página específica, la aptitud filtra por el ID de experiencia de contenido que identifica esa página.
 * **Atributos generados por IA:** Cada recurso y experiencia se describe mediante atributos como estilo fotográfico, colores, tono y estrategia de persuasión. La aptitud utiliza estos atributos para explicar por qué el contenido tiene un buen rendimiento, no solo qué contenido lo tiene bien.
 
-Para obtener la lista completa de componentes, consulte [Componentes de Content Analytics](https://experienceleague.adobe.com/es/docs/analytics-platform/using/content-analytics/report/components) en la guía de Customer Journey Analytics.
+Para obtener la lista completa de componentes, consulte [Componentes de Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/components) en la guía de Customer Journey Analytics.
 
 ### Atribución
 
-La aptitud elige el modelo de atribución que mejor se adapte a su pregunta. Por ejemplo, una pregunta sobre los clics en una imagen se responde de forma diferente a una pregunta sobre la cantidad de ingresos que contribuyó esa imagen. Para obtener más información, consulte [Modelos de atribución](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models) en la guía de Customer Journey Analytics.
+La aptitud elige el modelo de atribución que mejor se adapte a su pregunta. Por ejemplo, una pregunta sobre los clics en una imagen se responde de forma diferente a una pregunta sobre la cantidad de ingresos que contribuyó esa imagen. Para obtener más información, consulte [Modelos de atribución](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models) en la guía de Customer Journey Analytics.
 
 ### Análisis y flujos de trabajo comunes
 
