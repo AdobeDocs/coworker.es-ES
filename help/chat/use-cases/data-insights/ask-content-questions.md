@@ -4,9 +4,9 @@ description: Pregunte en Coworker Chat sobre su contenido en un lenguaje sencill
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
+source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
 workflow-type: tm+mt
-source-wordcount: '1008'
+source-wordcount: '1009'
 ht-degree: 2%
 ---
 
@@ -52,7 +52,7 @@ Para hacer preguntas sobre su contenido, necesita:
 
 1. Revise los resultados.
 
-1. (Opcional) Haga preguntas de seguimiento en la misma conversación para profundizar o abra una visualización en Analysis Workspace para obtener más control manual. Ver [Analizar en Customer Journey Analytics](/help/chat/use-cases/data-insights/analytics-chat.md#analyze-in-customer-journey-analytics).
+1. (Opcional) Haga preguntas de seguimiento en la misma conversación para profundizar o abra una visualización en Analysis Workspace para obtener más control manual. Consulte [Abrir una visualización en Analysis Workspace](/help/chat/use-cases/data-insights/analytics-chat.md#open-a-visualization-in-analysis-workspace).
 
 ## Ejemplos de peticiones
 
