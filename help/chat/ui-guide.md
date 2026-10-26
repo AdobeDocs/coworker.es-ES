@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d2526c349e6015d754e3379d7208e0e24fa23dd1
+source-git-commit: 6f3146fafcfd39c349f43f961e065b86ed304421
 workflow-type: tm+mt
-source-wordcount: '2061'
+source-wordcount: '2088'
 ht-degree: 3%
 ---
 # Introducción al chat con compañeros {#ui-guide}
@@ -34,7 +34,7 @@ La siguiente tabla muestra dónde está disponible cada experiencia.
 
 Inicie sesión en [!DNL Coworker] con sus credenciales de Adobe.
 
-1. [Inicia sesión](https://experienceleague.adobe.com/es/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) en CX Enterprise con tu Adobe ID.
+1. [Inicia sesión](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) en CX Enterprise con tu Adobe ID.
 
    Después de iniciar sesión, puede abrir [!DNL Coworker] desde el menú de la aplicación [!DNL CX Enterprise] o mediante un vínculo directo:
 
@@ -46,7 +46,7 @@ Inicie sesión en [!DNL Coworker] con sus credenciales de Adobe.
 
 ## Conozca los conceptos básicos de Coworker Chat
 
->[!VIDEO](https://video.tv.adobe.com/v/3498570?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Especifique las preferencias de Compañero {#preferences}
 
@@ -57,7 +57,7 @@ En la parte inferior izquierda de la interfaz, puede especificar las opciones y 
 | Configuración/opción | Úselo para lo siguiente |
 | --- | --- |
 | Nombre de cuenta y correo electrónico | Confirme la cuenta de Adobe con la que ha iniciado sesión. |
-| **[!UICONTROL Notificaciones]** (icono de campana) | Ver tus [notificaciones](https://experienceleague.adobe.com/es/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
+| **[!UICONTROL Notificaciones]** (icono de campana) | Ver tus [notificaciones](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
 | **[!UICONTROL Tema]** | Cambiar entre los temas Claro y Oscuro. |
 | **[!UICONTROL Configuración de la aplicación]** | Ver los detalles de la cuenta y la configuración de Workspace. |
 | **[!UICONTROL Preferencias]** | Abra su cuenta [preferencias](https://experienceleague.adobe.com/es/docs/core-services/interface/features/account-preferences). La flecha indica que la página se abre fuera de Compañero de trabajo. |
@@ -86,7 +86,7 @@ Desde el carril de navegación, las siguientes funciones le permiten chatear con
 | **[!UICONTROL Hogar]** | Vuelva al saludo, al cuadro de entrada y a las sugerencias. |
 | **[!UICONTROL Chats]** | Busca, fija, archiva o elimina conversaciones pasadas. |
 | **[!UICONTROL Artefactos]** | Abra los artefactos que Chat del compañero creó en sus conversaciones. |
-| **[!UICONTROL Contexto de experiencia]** | <!-- TODO: describe Experience Context --> |
+| **[!UICONTROL Contexto de experiencia]** | Conecte a sus aplicaciones de Adobe existentes (como Marketo Engage) y a otros sistemas empresariales para que puedan acceder y razonar sobre todos los datos relevantes de clientes y cuentas. |
 | **[!UICONTROL Personalizaciones]** | Administre habilidades, integraciones, mercados, complementos y memoria. |
 | **[!UICONTROL Recientes]** | Abra las conversaciones más recientes. Haz clic en **[!UICONTROL Ver todo]** para abrir la página de chats. |
 | **[!UICONTROL Anclado]** | Abre las conversaciones que has iniciado. Haz clic en **[!UICONTROL Ver todos]** para verlos en la página de Chats. |
