@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: fe2c27fd27bfebe17f31078cea769e6a1e4c71f1
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '1903'
+source-wordcount: '1902'
 ht-degree: 2%
 ---
 # Introducción al chat con compañeros {#ui-guide}
@@ -43,7 +43,7 @@ Para utilizar esta experiencia envolvente, inicie sesión con sus credenciales d
 
 ## Vídeo: Aspectos básicos de la interfaz de chat de [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498570?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Elija su organización
 
@@ -82,7 +82,7 @@ Utilice el carril de navegación para desplazarse entre las partes del producto 
 | **[!UICONTROL Nuevo chat]** | Iniciar una conversación. Chat del compañero guarda tu chat actual en tu historial. |
 | **[!UICONTROL Hogar]** | Vuelva al saludo, al cuadro de entrada y a las sugerencias. |
 | **[!UICONTROL Chats]** | Busca, fija, archiva o elimina conversaciones pasadas. |
-| **[!UICONTROL Configuraciones]** | Administre aptitudes, servidores MCP, mercados, complementos y memoria. |
+| **[!UICONTROL Personalizaciones]** | Administre habilidades, integraciones, mercados, complementos y memoria. |
 | **[!UICONTROL Anclado]** | Abre las conversaciones que has iniciado. Haz clic en **[!UICONTROL Ver todos]** para verlos en la página de Chats. |
 | **[!UICONTROL Recientes]** | Abra las conversaciones más recientes. Haz clic en **[!UICONTROL Ver todo]** para abrir la página de chats. |
 
@@ -229,7 +229,7 @@ Utilice el conmutador de vista para cambiar entre los diseños de cuadrícula y 
 
    ![El visor SKILL.md](./assets/ui-guide-14.png)
 
-### Conectar un servidor
+### Conectar un servidor {#server}
 
 Servidor: una integración conecta Coworker Chat con herramientas y servicios externos, como Adobe Journey Optimizer, Real-Time CDP, Target y Workfront. La pestaña **[!UICONTROL Personalizaciones]** > **[!UICONTROL Usuario]** > **[!UICONTROL Integraciones]** enumera sus servidores conectados y la cantidad de conexiones activas. Cada tarjeta muestra el nombre del servidor, su punto final y las etiquetas que describen lo que proporciona.
 
@@ -272,7 +272,7 @@ Un complemento agrupa habilidades y servidores para que pueda instalarlos y admi
 
 La memoria permite que Coworker Chat recuerde sus preferencias en todas las conversaciones, por lo que las respuestas siguen siendo relevantes con el tiempo. Use la ficha **[!UICONTROL Memoria]** para controlar lo que guarda.
 
-1. Haga clic en **[!UICONTROL Memoria]** en la página Configuraciones.
+1. Haga clic en **[!UICONTROL Memoria]** en la página Personalizaciones.
 1. Activar **[!UICONTROL Habilitar memoria]**. Desactívela para evitar que el chat de compañeros recuerde entre sesiones.
 1. En **[!UICONTROL Preferencias almacenadas]**, revise lo que el chat de compañeros guardó. Puede editar, eliminar o inspeccionar cada entrada y filtrar las entradas por categoría.
 1. Use **[!UICONTROL Historial de recuerdos guardados]** para ver una cronología de cambios en sus recuerdos.
