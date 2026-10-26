@@ -4,9 +4,9 @@ title: Información general de Adobe CX Enterprise Coworker para equipos
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6e7f80445232b5762eb93b82a604d8036c5a78e1
+source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
 workflow-type: tm+mt
-source-wordcount: '1082'
+source-wordcount: '1100'
 ht-degree: 0%
 ---
 # Información general de Adobe CX Enterprise Coworker para equipos {#overview}
@@ -144,6 +144,7 @@ El trabajo en equipo es un producto en desarrollo activo. Esto es lo que hay que
 - **Guía de datos**: no cargue datos confidenciales o regulados. Actualmente, Coworker para equipos no está destinado a industrias reguladas por la HIPAA.
 - **Cumplimiento**: Usted es responsable de seguir las regulaciones de correo electrónico (cancelar la suscripción de vínculos, políticas de privacidad, etc.).
 - **Límite de envíos**: Puede enviar hasta 5000 correos electrónicos por mes. Si necesita aumentar este límite, póngase en contacto con el equipo del producto a través del menú **Ayuda y comentarios** en la parte inferior izquierda de la pantalla.
+- **Subdominio gratuito**: La versión de prueba incluye un subdominio predeterminado para el espacio de trabajo, de modo que puede iniciar campañas más rápido.
 
 ![Menú de ayuda y comentarios](./assets/overview-3.png)
 
