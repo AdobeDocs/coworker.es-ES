@@ -6,10 +6,10 @@ description: Obtenga información sobre las herramientas de IA en CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: fd69d41fa38c993fce1f32815f5badfd4714a270
+source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 14%
+source-wordcount: '312'
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -90,7 +90,6 @@ ht-degree: 14%
   - Memoria {#memory}
     - [¿Qué es la memoria?](./customizations/memory/what-is-memory.md)
 - Compañero de trabajo para equipos {#coworker-for-teams}
-  - {hide-from-toc}[Nueva experiencia para equipos](./coworker-for-teams/new-teams-experience.md)
   - [Información general](./coworker-for-teams/overview.md)
   - [Creación de una campaña de correo electrónico](./coworker-for-teams/create-an-email-campaign.md)
   - [Inicio y administración de una campaña](./coworker-for-teams/launch-manage-campaign.md)
@@ -100,6 +99,7 @@ ht-degree: 14%
   - Conectores {#connectors}
     - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
+    - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
   - [Notas de la versión](./coworker-for-teams/release-notes.md)
 - Más recursos {#more-resources}
   - [Actualizaciones de la documentación](./more-resources/documentation-updates.md)
