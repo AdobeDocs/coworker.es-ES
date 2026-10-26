@@ -1,19 +1,23 @@
 ---
 title: Actualizaciones de documentación de CX Enterprise Coworker
-description: Consulte los nuevos artículos y vídeos añadidos a la documentación de CX Enterprise Coworker. Vuelva a consultar las últimas novedades.
+description: Consulte los artículos y vídeos nuevos y actualizados en la documentación de CX Enterprise Coworker. Vuelva a consultar las últimas novedades.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6ccaaf8cd5976c21119d800ada44101b11c65eb6
+source-git-commit: e4fbbf54c26a0443f0fab50d05428e793dbb5c88
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 1%
+source-wordcount: '229'
+ht-degree: 0%
 ---
 # Actualizaciones de la documentación {#documentation-updates}
 
-Utilice esta página para buscar contenido nuevo en la documentación de CX Enterprise Coworker. Las actualizaciones se enumeran por mes, empezando por el más reciente. Para ver los cambios de producto en Colaborador para equipos, consulte las [Notas de la versión de Colaborador para equipos](../coworker-for-teams/release-notes.md).
+Utilice esta página para buscar contenido nuevo y actualizado de forma sustancial en la documentación de CX Enterprise Coworker. Las actualizaciones se enumeran por mes, empezando por el más reciente. Para ver los cambios de producto en Colaborador para equipos, consulte las [Notas de la versión de Colaborador para equipos](../coworker-for-teams/release-notes.md).
 
 ## Octubre de 2026 {#oct-2026}
+
+**26 de octubre de 2026**
+
+* Actualizado: [Introducción al chat con compañeros](../chat/ui-guide.md). El artículo se reorganiza y se reescribe para que coincida con la interfaz actual. Ahora describe el menú de la cuenta y el carril de navegación, incluidos **Artefactos** y **Contexto de la experiencia**. También se explica cómo elegir una organización y una zona protegida, y cómo utilizar la barra de herramientas de entrada, las vistas de transcripción y el resumen de la actividad de respuesta. Se eliminan las capturas de pantalla obsoletas.
 
 **23 de octubre de 2026**
 

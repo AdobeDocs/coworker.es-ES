@@ -5,10 +5,10 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
+source-git-commit: d2526c349e6015d754e3379d7208e0e24fa23dd1
 workflow-type: tm+mt
-source-wordcount: '1902'
-ht-degree: 2%
+source-wordcount: '2061'
+ht-degree: 3%
 ---
 # Introducción al chat con compañeros {#ui-guide}
 
@@ -30,69 +30,74 @@ La siguiente tabla muestra dónde está disponible cada experiencia.
 | AEM | Disponible ahora | Disponible ahora |
 | Marketo Engage | Disponible ahora | Próximamente |
 
-## Abrir [!DNL Coworker] chat {#immersive}
+## Iniciar sesión en [!DNL Coworker] {#sign-in}
 
-Para utilizar esta experiencia envolvente, inicie sesión con sus credenciales de Adobe. Puede abrirlo desde un vínculo directo o desde CX Enterprise.
+Inicie sesión en [!DNL Coworker] con sus credenciales de Adobe.
 
-1. Vaya a [https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker).
-1. Inicie sesión con su Adobe ID.
-1. En [!DNL CX Enterprise], haga clic en el menú del selector de aplicaciones ![icono del menú de productos](./assets/apps-icon.png) y, a continuación, haga clic en **[!DNL Coworker]**.
-1. Para abrir el chat (la experiencia del producto), haz clic en **[!UICONTROL Chats]** ![Icono de Coworker](./assets/icon-coworker.png).
+1. [Inicia sesión](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) en CX Enterprise con tu Adobe ID.
 
-![Colaborador en el selector de aplicaciones de CX Enterprise](./assets/ui-guide-1.png)
+   Después de iniciar sesión, puede abrir [!DNL Coworker] desde el menú de la aplicación [!DNL CX Enterprise] o mediante un vínculo directo:
 
-## Vídeo: Aspectos básicos de la interfaz de chat de [!DNL Coworker]
+   * En [!DNL CX Enterprise], haga clic en el menú del selector de aplicaciones ![icono del menú de productos](./assets/apps-icon.png) y, a continuación, haga clic en **[!DNL Coworker]**.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498570?captions=spa&learn=on)
+   * Para usar un vínculo directo, ve a [https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker).
 
-## Elija su organización
+1. Para iniciar un chat, haz clic en **[!UICONTROL Nuevo chat]** en el carril de navegación.
 
-Su [organización](https://experienceleague.adobe.com/es/docs/core-services/interface/administration/organizations) y zona protegida determinan a qué datos, habilidades y herramientas conectadas puede llegar una conversación. Compruébelo antes de empezar. El contexto actual aparece en la parte inferior del carril de navegación izquierdo, bajo su nombre.
+## Conozca los conceptos básicos de Coworker Chat
 
-Para cambiar el contexto:
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
-1. Haga clic en su nombre en la parte inferior del carril de navegación para abrir el menú de cuenta.
-1. Haga clic en **[!UICONTROL Organización]** y elija la organización de IMS en la que desea trabajar.
+## Especifique las preferencias de Compañero {#preferences}
 
-   ![Menú de cuenta con el selector de organización abierto](./assets/ui-guide-2.png)
+En la parte inferior izquierda de la interfaz, puede especificar las opciones y preferencias que determinan a qué datos, habilidades y herramientas conectadas puede llegar una conversación de chat.
 
-1. Haga clic en **[!UICONTROL espacio aislado]** y elija el espacio aislado de AEP en el que quiere trabajar.
+![Organización](./assets/get-started-organizations.png)
 
-   ![Menú de cuenta con el selector de zona protegida abierto](./assets/ui-guide-3.png)
-
-El menú de cuenta también incluye las siguientes opciones:
-
-| Opción | Úselo para lo siguiente |
+| Configuración/opción | Úselo para lo siguiente |
 | --- | --- |
+| Nombre de cuenta y correo electrónico | Confirme la cuenta de Adobe con la que ha iniciado sesión. |
+| **[!UICONTROL Notificaciones]** (icono de campana) | Ver tus [notificaciones](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
 | **[!UICONTROL Tema]** | Cambiar entre los temas Claro y Oscuro. |
-| **[!UICONTROL Configuración]** | Ver los detalles de la cuenta y la configuración de Workspace. |
+| **[!UICONTROL Configuración de la aplicación]** | Ver los detalles de la cuenta y la configuración de Workspace. |
+| **[!UICONTROL Preferencias]** | Abra su cuenta [preferencias](https://experienceleague.adobe.com/es/docs/core-services/interface/features/account-preferences). La flecha indica que la página se abre fuera de Compañero de trabajo. |
+| **[!UICONTROL Organización]** | Elija la [organización](https://experienceleague.adobe.com/es/docs/core-services/interface/administration/organizations) de IMS en la que desea trabajar. El menú muestra la organización actual y una marca de verificación identifica la seleccionada en la lista. |
+| **[!UICONTROL espacio aislado]** | Elija la [zona protegida](https://experienceleague.adobe.com/es/docs/experience-platform/sandbox/home) de Experience Platform en la que quiere trabajar. El menú muestra la zona protegida actual y su tipo, por ejemplo **Prod**. |
 | **[!UICONTROL Aplicaciones CX]** | Vaya a otra aplicación de CX Enterprise conectada a su cuenta. |
 | **[!UICONTROL Cerrar sesión]** | Cierre la sesión de su cuenta de Adobe. |
 
-## Encuentra tu camino
+## Familiarícese con las funciones de Coworker {#interface-features}
 
-El espacio de trabajo tiene dos áreas: el carril de navegación a la izquierda y el lienzo de conversación que ocupa el resto de la ventana.
+El compañero tiene dos áreas principales: el carril de navegación a la izquierda y la ventana de chat que llena el resto de la pantalla. Para contraer el carril de navegación de modo que muestre solo los iconos, haga clic en el icono contraer situado junto al nombre del producto.
 
-![Pantalla principal](./assets/ui-guide-4.png)
+* Carril de navegación:
 
-Utilice el carril de navegación para desplazarse entre las partes del producto y volver al trabajo reciente.
+  ![Navegación izquierda de compañero](./assets/get-started-left-navigation.png)
+
+* Ventana de chat (mostrada aquí con la página **[!UICONTROL Chats]** abierta):
+
+  ![Chat del compañero](./assets/get-started-canvas.png)
+
+Desde el carril de navegación, las siguientes funciones le permiten chatear con sus compañeros y regresar a su trabajo reciente:
 
 | Opción | Úselo para lo siguiente |
 | --- | --- |
-| **[!UICONTROL Nuevo chat]** | Iniciar una conversación. Chat del compañero guarda tu chat actual en tu historial. |
+| **[!UICONTROL Nuevo chat]** | Iniciar una conversación. [!UICONTROL Chat del compañero] guarda tu chat actual en tu historial. |
 | **[!UICONTROL Hogar]** | Vuelva al saludo, al cuadro de entrada y a las sugerencias. |
 | **[!UICONTROL Chats]** | Busca, fija, archiva o elimina conversaciones pasadas. |
+| **[!UICONTROL Artefactos]** | Abra los artefactos que Chat del compañero creó en sus conversaciones. |
+| **[!UICONTROL Contexto de experiencia]** | <!-- TODO: describe Experience Context --> |
 | **[!UICONTROL Personalizaciones]** | Administre habilidades, integraciones, mercados, complementos y memoria. |
-| **[!UICONTROL Anclado]** | Abre las conversaciones que has iniciado. Haz clic en **[!UICONTROL Ver todos]** para verlos en la página de Chats. |
 | **[!UICONTROL Recientes]** | Abra las conversaciones más recientes. Haz clic en **[!UICONTROL Ver todo]** para abrir la página de chats. |
+| **[!UICONTROL Anclado]** | Abre las conversaciones que has iniciado. Haz clic en **[!UICONTROL Ver todos]** para verlos en la página de Chats. |
 
-## Envíe su primer mensaje
+## Pregunte cualquier cosa a Coworker {#message}
 
-La pantalla Inicio muestra un saludo, el cuadro de entrada ([!UICONTROL Chat]) y las indicaciones sugeridas en función de lo que el Chat del compañero puede hacer en su zona protegida. Puede empezar con una sugerencia o escribir su propio mensaje.
+En la página de inicio de Coworker, puede escribir su pregunta o seleccionar un mensaje sugerido, en función de lo que Coworker Chat puede hacer en su zona protegida.
 
-Para enviar un mensaje:
+Para hacer una pregunta a su compañero:
 
-1. Haga clic en **[!UICONTROL Inicio]** en el carril de navegación.
+1. [Abrir Compañero](#sign-in).
 1. Realice una de las siguientes acciones:
 
    * Seleccione un mensaje en **[!UICONTROL Sugerido para usted]**. El chat de compañeros lo añade al cuadro de entrada, donde puede editarlo.
@@ -115,9 +120,9 @@ La barra de herramientas situada debajo del cuadro de entrada controla lo que ad
 | --- | --- |
 | **[!UICONTROL +]** (Adjuntar) | Añada un archivo o un objeto de zona protegida al mensaje. |
 | **[!UICONTROL Modo de planificación]** | Revise un plan paso a paso antes de que Coworker Chat actúe. |
-| **[!UICONTROL Vista de transcripción]** | Elija la cantidad de actividad de Coworker Chat que ve. |
+| **[!UICONTROL Vista de transcripción]** (etiquetada con la vista actual, como **[!UICONTROL Normal]**) | Elija la cantidad de actividad de Coworker Chat que ve. |
 | **[!UICONTROL Micrófono]** | Dicte su mensaje. Vuelva a hacer clic para detener la grabación. |
-| **[!UICONTROL Enviar]** | Envíe su mensaje. Mientras el Chat del compañero responde, este control se convierte en **[!UICONTROL Detener]**, lo que interrumpe la respuesta. |
+| **[!UICONTROL Enviar]** (icono de flecha) | Envíe su mensaje. El control no estará disponible hasta que escriba un mensaje. Mientras el Chat del compañero responde, este control se convierte en **[!UICONTROL Detener]**, lo que interrumpe la respuesta. |
 
 ### Adjuntar un archivo u objeto
 
@@ -129,8 +134,6 @@ Adjunte un archivo u objeto cuando Coworker Chat necesite más información para
    * **[!UICONTROL Adjuntar archivo]**: Suba un archivo para que Coworker Chat lo lea y haga referencia.
    * **[!UICONTROL Agregar datos u objeto]**: Haga referencia a un objeto en su zona protegida, como un conjunto de datos o esquema, para que Coworker Chat funcione con sus datos activos.
 
-![Menú adjunto](./assets/ui-guide-5.png)
-
 ### Revise un plan antes de que Actúe el chat con compañeros de trabajo {#plan-mode}
 
 Utilice el modo de planificación para tareas complejas o tareas que cambien datos. Cuando el modo de planificación está activado, Coworker Chat propone un plan y espera su aprobación antes de que se lleve a cabo. Cuando el modo de planificación está desactivado, Coworker Chat inicia el trabajo de inmediato.
@@ -139,13 +142,11 @@ Utilice el modo de planificación para tareas complejas o tareas que cambien dat
 1. Envíe su mensaje.
 1. Revise el plan y apruébelo para continuar.
 
-![Modo de planificación activado en la barra de herramientas de entrada](./assets/ui-guide-6.png)
-
 ### Elegir una vista de transcripción
 
 La vista de transcripción controla la cantidad de razonamiento de Coworker Chat y la actividad de la herramienta que aparece en la conversación.
 
-1. Haga clic en **[!UICONTROL Vista de transcripción]** en la barra de herramientas de entrada.
+1. En la barra de herramientas de entrada, haga clic en el control de vista de transcripción. Muestra la vista actual, como **[!UICONTROL Normal]**.
 1. Haga clic en una vista:
 
    | Ver | Lo que ve |
@@ -154,17 +155,17 @@ La vista de transcripción controla la cantidad de razonamiento de Coworker Chat
    | **[!UICONTROL Enfoque]** | Principalmente la respuesta. El chat de compañeros oculta la mayoría de los pasos intermedios. |
    | **[!UICONTROL Detallado]** | Cada paso de reflexión, carga de aptitudes, lectura de archivos y consulta. |
 
-![Opciones de vista de transcripción](./assets/ui-guide-7.png)
-
 ## Revisar una respuesta
 
 El chat de compañeros muestra su trabajo tal cual, y devuelve una respuesta. Una respuesta puede incluir su razonamiento, un registro de las herramientas que utilizó, artefactos y un resumen.
 
-![Respuesta en curso](./assets/ui-guide-8.png)
+![Una conversación con una respuesta y el cuadro de entrada](./assets/get-started-message.png)
+
+Cuando una respuesta sea larga, haga clic en la flecha que aparece sobre la respuesta para saltar al final. Coworker Chat muestra el siguiente aviso debajo del cuadro de entrada: &quot;Las respuestas se generan mediante IA y pueden ser inexactas. Compruébelo antes de usar&quot;. Revise las respuestas antes de actuar en consecuencia.
 
 ### Siga la actividad
 
-Mientras que Chat de Coworker funciona, usted puede seguir y verificar lo que hace. Expanda cualquier entrada para ver más detalles.
+Mientras que Chat de Coworker funciona, usted puede seguir y verificar lo que hace. En la vista **[!UICONTROL Normal]**, aparece un resumen de una línea de su actividad encima de la respuesta, por ejemplo &quot;Cargado 3 habilidades, leer 1 archivo y 2 pasos más&quot;. Haga clic en el resumen para expandirlo y expanda cualquier entrada para ver más detalles. Las entradas incluyen:
 
 * **Pensado para**: Un bloque plegable con el razonamiento de Coworker Chat y cuánto tiempo tardó.
 * **Aptitud cargada**: La capacidad especializada que el Chat del compañero utilizó para la tarea.
@@ -182,8 +183,6 @@ El chat de compañeros muestra los resultados, como una tabla de audiencias, com
 
 Debajo de los artefactos, Coworker Chat explica qué significan los resultados, resalta hallazgos notables y sugiere acciones de seguimiento. Utilice estas sugerencias para continuar la conversación.
 
-![Una respuesta completada con una tabla de artefactos y un resumen](./assets/ui-guide-9.png)
-
 ### Valorar y copiar una respuesta
 
 Cada respuesta incluye controles que puede utilizar para proporcionar comentarios o reutilizar el contenido.
@@ -191,13 +190,9 @@ Cada respuesta incluye controles que puede utilizar para proporcionar comentario
 * Haga clic en **[!UICONTROL Pulgares arriba]** o **[!UICONTROL Pulgares abajo]** para evaluar la respuesta. Tu valoración ayuda a mejorar las respuestas futuras.
 * Haga clic en **[!UICONTROL Copiar]** y, a continuación, elija **[!UICONTROL Copiar como Markdown]** para mantener el formato o **[!UICONTROL Copiar como texto sin formato]** para quitarlo.
 
-![Menú de copia](./assets/ui-guide-10.png)
-
 ## Administrar los chats
 
 Tu historial de chat mantiene conversaciones pasadas para que puedas volver a ellas. Haga clic en **[!UICONTROL Chats]** en el carril de navegación para abrirlo. Las conversaciones se agrupan por fecha y cada fila muestra el título y el número de turnos.
-
-![La página de chats](./assets/ui-guide-11.png)
 
 En la página Chats puede:
 
@@ -216,26 +211,22 @@ Para fijar, cambiar el nombre, archivar o eliminar una conversación, haga clic 
 
 Las habilidades son capacidades especializadas que Coworker Chat utiliza automáticamente cuando se aplican. También puede empezar una aptitud escribiendo **/** en el chat. La ficha **[!UICONTROL Aptitudes]** enumera todas las aptitudes instaladas.
 
-![La ficha Aptitudes](./assets/ui-guide-12.png)
-
 1. En la ficha **[!UICONTROL Aptitudes]**, haga clic en **[!UICONTROL Agregar aptitudes]** para instalar aptitudes desde una nueva fuente.
 1. Escriba un nombre en **[!UICONTROL Buscar]** para encontrar una aptitud.
 Utilice el conmutador de vista para cambiar entre los diseños de cuadrícula y lista.
 1. Seleccione una aptitud para ver el complemento al que pertenece, cuándo lo utiliza Chat del compañero y los archivos que incluye.
 
-   ![Vista de detalles de aptitudes que muestra archivos auxiliares](./assets/ui-guide-13.png)
-
 1. (Opcional) Haga clic en **[!UICONTROL Ver aptitud.md]** para leer la definición completa de la aptitud o haga clic en **[!UICONTROL Quitar Source]** para desinstalar la aptitud.
-
-   ![El visor SKILL.md](./assets/ui-guide-14.png)
 
 ### Conectar un servidor {#server}
 
-Servidor: una integración conecta Coworker Chat con herramientas y servicios externos, como Adobe Journey Optimizer, Real-Time CDP, Target y Workfront. La pestaña **[!UICONTROL Personalizaciones]** > **[!UICONTROL Usuario]** > **[!UICONTROL Integraciones]** enumera sus servidores conectados y la cantidad de conexiones activas. Cada tarjeta muestra el nombre del servidor, su punto final y las etiquetas que describen lo que proporciona.
+Servidor: una integración conecta Coworker Chat con herramientas y servicios externos, como Adobe Journey Optimizer, Real-Time CDP, Target y Workfront.
 
 1. Vaya a **[!UICONTROL Personalizaciones]** > **[!UICONTROL Usuario]** > **[!UICONTROL Integraciones]**
 
    ![La ficha Servidores](./assets/get-started-customizations.png)
+
+   La ficha **[!UICONTROL Integraciones]** enumera los servidores conectados y la cantidad de conexiones activas. Cada tarjeta muestra el nombre del servidor, su punto final y las etiquetas que describen lo que proporciona.
 
 1. En Personalizaciones, haga clic en **[!UICONTROL Agregar servidor]**.
 
@@ -256,8 +247,6 @@ Servidor: una integración conecta Coworker Chat con herramientas y servicios ex
 
 Un Marketplace es un registro de complementos que puede examinar e instalar desde. En la ficha **[!UICONTROL Marketplaces]**, haga clic en **[!UICONTROL Agregar Marketplace]** para registrar una nueva. Use **[!UICONTROL Buscar]** o filtre por grupo para reducir la lista. Hay un mercado con un estado **Listo** disponible para la instalación.
 
-![La ficha Marketplaces](./assets/ui-guide-16.png)
-
 ### Administración de complementos
 
 Un complemento agrupa habilidades y servidores para que pueda instalarlos y administrarlos juntos. La pestaña **[!UICONTROL Plugins]** muestra los complementos instalados.
@@ -265,8 +254,6 @@ Un complemento agrupa habilidades y servidores para que pueda instalarlos y admi
 * Haga clic en **[!UICONTROL Examinar mercados]** para buscar nuevos complementos.
 * Filtre por mercado para ver de dónde proviene cada complemento.
 * Haz clic en **[!UICONTROL Desinstalar]** para quitar un complemento y todo lo que incluye.
-
-![La ficha Complementos](./assets/ui-guide-17.png)
 
 ### Administrar memoria
 
@@ -277,4 +264,3 @@ La memoria permite que Coworker Chat recuerde sus preferencias en todas las conv
 1. En **[!UICONTROL Preferencias almacenadas]**, revise lo que el chat de compañeros guardó. Puede editar, eliminar o inspeccionar cada entrada y filtrar las entradas por categoría.
 1. Use **[!UICONTROL Historial de recuerdos guardados]** para ver una cronología de cambios en sus recuerdos.
 
-![La ficha Memoria](./assets/ui-guide-18.png)
