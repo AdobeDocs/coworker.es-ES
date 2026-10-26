@@ -6,10 +6,10 @@ description: Obtenga información sobre las herramientas de IA en CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 6022fafc0e0213cbc887f5b38267cb65fd8d4326
+source-git-commit: 6ccaaf8cd5976c21119d800ada44101b11c65eb6
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 12%
+source-wordcount: '309'
+ht-degree: 13%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -99,3 +99,5 @@ ht-degree: 12%
     - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
   - [Notas de la versión](./coworker-for-teams/release-notes.md)
+- Más recursos {#more-resources}
+  - [Actualizaciones de la documentación](./more-resources/documentation-updates.md)
