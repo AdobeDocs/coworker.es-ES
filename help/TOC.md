@@ -6,10 +6,10 @@ description: Obtenga información sobre las herramientas de IA en CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 6ccaaf8cd5976c21119d800ada44101b11c65eb6
+source-git-commit: 43080128c8b3eeaa712334c3fff2fa89c157efea
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 13%
+source-wordcount: '312'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -65,6 +65,8 @@ ht-degree: 13%
       - [Aptitudes agénticas de herramientas de zona protegida](./chat/use-cases/sandbox-tooling/sandbox-tooling.md)
     - Alertas {#alerts}
       - [Aptitudes de alerta al cliente](./chat/use-cases/customer-alerts/customer-alerts.md)
+    - Notificaciones {#notifications}
+      - [Aptitudes de notificación](./chat/use-cases/notifications/notification-skills.md)
     - Visibilidad de la marca {#brand-visibility}
       - [Creación y refinamiento de una página de aterrizaje de AEM](./chat/use-cases/brand-visibility/create-and-refine-aem-landing-page.md)
       - [Comprobación del cumplimiento de marca](./chat/use-cases/brand-visibility/brand-compliance.md)
