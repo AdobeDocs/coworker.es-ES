@@ -1,13 +1,13 @@
 ---
-description: Aprenda a abrir Chat del compañero, establecer su organización y zona protegida, enviar su primer mensaje y personalizar habilidades, servidores MCP y memoria. Iniciar una conversación en minutos.
+description: Aprenda a abrir Chat del compañero, establecer su organización y su zona protegida, enviar su primer mensaje y personalizar habilidades, servidores de integración y memoria.
 title: Introducción al chat con compañeros
 jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b91e8dcdacf57bdbc4fb6cf7d6fe92920e7fbb6e
+source-git-commit: fe2c27fd27bfebe17f31078cea769e6a1e4c71f1
 workflow-type: tm+mt
-source-wordcount: '1765'
+source-wordcount: '1903'
 ht-degree: 2%
 ---
 # Introducción al chat con compañeros {#ui-guide}
@@ -43,7 +43,7 @@ Para utilizar esta experiencia envolvente, inicie sesión con sus credenciales d
 
 ## Vídeo: Aspectos básicos de la interfaz de chat de [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498570?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Elija su organización
 
@@ -229,13 +229,28 @@ Utilice el conmutador de vista para cambiar entre los diseños de cuadrícula y 
 
    ![El visor SKILL.md](./assets/ui-guide-14.png)
 
-### Conexión de servidores MCP
+### Conectar un servidor
 
-Los servidores de Protocolo de contexto de modelo (MCP, Model Context Protocol ) conectan el Chat del compañero con herramientas y servicios externos, como Adobe Journey Optimizer, Real-Time CDP, Target y Workfront. La ficha **[!UICONTROL Servidores MCP]** enumera los servidores conectados y el número de conexiones activas. Cada tarjeta muestra el nombre del servidor, su punto final y las etiquetas que describen lo que proporciona.
+Servidor: una integración conecta Coworker Chat con herramientas y servicios externos, como Adobe Journey Optimizer, Real-Time CDP, Target y Workfront. La pestaña **[!UICONTROL Personalizaciones]** > **[!UICONTROL Usuario]** > **[!UICONTROL Integraciones]** enumera sus servidores conectados y la cantidad de conexiones activas. Cada tarjeta muestra el nombre del servidor, su punto final y las etiquetas que describen lo que proporciona.
 
-Para conectar un servidor, haga clic en **[!UICONTROL Agregar servidor]** y siga las indicaciones.
+1. Vaya a **[!UICONTROL Personalizaciones]** > **[!UICONTROL Usuario]** > **[!UICONTROL Integraciones]**
 
-![Ficha Servidores MCP](./assets/ui-guide-15.png)
+   ![La ficha Servidores](./assets/get-started-customizations.png)
+
+1. En Personalizaciones, haga clic en **[!UICONTROL Agregar servidor]**.
+
+   ![Agregar integraciones](./assets/get-started-add-integrations.png)
+
+1. Complete las opciones y los campos siguientes:
+
+   * **[!UICONTROL Nombre del servidor]** (obligatorio): escriba un nombre que identifique el servidor en su lista de integraciones, por ejemplo `github` o `slack`.
+   * **[!UICONTROL URL o comando de Source]** (obligatorio): Escriba la dirección a la que se conecta Coworker Chat, por ejemplo `https://mcp.example.com/sse`.
+   * **[!UICONTROL Tipo de conexión]**: seleccione el protocolo que usa el servidor para comunicarse con el chat de Coworker, ya sea **[!UICONTROL SSE]** (eventos enviados por el servidor) o **[!UICONTROL HTTP]**. El valor predeterminado es **[!UICONTROL SSE]**.
+   * **[!UICONTROL Tiempo de espera de la herramienta (segundos)]**: establezca cuánto tiempo espera Coworker Chat a que una herramienta de este servidor responda antes de detener la solicitud. El valor predeterminado es de 60 segundos.
+   * **[!UICONTROL Autenticación]**: Seleccione cómo Coworker Chat prueba su identidad al servidor. El valor predeterminado es **[!UICONTROL None]**, que no envía credenciales. Seleccione otro método si el servidor requiere credenciales.
+   * **[!UICONTROL Encabezados]**: Haga clic en **[!UICONTROL Agregar encabezado]** para enviar encabezados HTTP adicionales, como una clave API, con cada solicitud al servidor. Esta opción es opcional.
+
+1. Haga clic en **[!UICONTROL Agregar]**.
 
 ### Agregar un mercado
 
@@ -245,7 +260,7 @@ Un Marketplace es un registro de complementos que puede examinar e instalar desd
 
 ### Administración de complementos
 
-Un complemento agrupa habilidades y servidores MCP para que pueda instalarlos y administrarlos juntos. La pestaña **[!UICONTROL Plugins]** muestra los complementos instalados.
+Un complemento agrupa habilidades y servidores para que pueda instalarlos y administrarlos juntos. La pestaña **[!UICONTROL Plugins]** muestra los complementos instalados.
 
 * Haga clic en **[!UICONTROL Examinar mercados]** para buscar nuevos complementos.
 * Filtre por mercado para ver de dónde proviene cada complemento.
