@@ -4,10 +4,10 @@ description: Utilice el chat de compañeros para encontrar lo que el contenido g
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
+source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 2%
+source-wordcount: '609'
+ht-degree: 1%
 ---
 
 # Resumen del rendimiento de contenido
@@ -22,21 +22,21 @@ El rendimiento del contenido es uno de los varios dominios de análisis en Cowor
 
 ## Requisitos previos
 
-<!-- FLAG: Confidence: High for the first two bullets (sourced from analytics-chat.md and the Skills and limitations table). High for the third bullet: attribute-level and asset analysis needs Content Analytics components, which are available only in data views that are configured for Content Analytics (report/report.md in analytics-platform.en). This applies whichever skill runs the analysis. It's a shared bullet rather than a table row because it applies to every use case on this page. The paid channel row ("Compare Meta ad creative to our web banners") also needs the Paid Media channel enabled in Content Analytics through an Experience Platform paid media source connector, such as Meta Ads or Google Ads. Comparing paid creative with on-site revenue needs custom tracking-key mapping, because enabling paid media doesn't connect paid media data to site orders or revenue (config/paid-media.md). Add an "Additional prerequisite" note on that row after the PM confirms. -->
+<!-- FLAG: Confidence: High for the first two bullets (sourced from analytics-chat.md and the Skills and limitations table). High for the third bullet: attribute-level and asset analysis needs Content Analytics components, which are available only in data views that are configured for Content Analytics (report/report.md in analytics-platform.en). This applies whichever skill runs the analysis. It's a shared bullet rather than a table row because it applies to every use case on this page. The SME confirmed (October 2026) that the skill doesn't support paid media yet, so the paid channel use case was rewritten for web and mobile. Support is planned, either in this skill or in a separate add-on skill (not decided). When it ships, consider restoring paid channels to that row with an "Additional prerequisite" note: paid media needs the Paid Media channel enabled in Content Analytics through an Experience Platform paid media source connector, such as Meta Ads or Google Ads, and comparing paid creative with on-site revenue needs custom tracking-key mapping (config/paid-media.md in analytics-platform.en). -->
 
 Para utilizar los casos de uso de esta página, necesita lo siguiente:
 
 * Chat de compañeros conectado a sus vistas de datos de Customer Journey Analytics o a sus grupos de informes de Adobe Analytics. Ver [Introducción al análisis de datos con Coworker Chat](/help/chat/use-cases/data-insights/analytics-chat.md).
 * Vea el acceso a las vistas de datos o a los grupos de informes que desee analizar. El chat de compañeros hereda sus permisos de Customer Journey Analytics o Adobe Analytics.
-* Vista de datos configurada para Content Analytics. Consulte [Configuración de Content Analytics](https://experienceleague.adobe.com/es/docs/analytics-platform/using/content-analytics/configuration/configuration) en la guía de Customer Journey Analytics.
+* Vista de datos configurada para Content Analytics. Consulte [Configuración de Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration) en la guía de Customer Journey Analytics.
 
 ## Casos de uso
 
 | Ejemplo de uso | Función |
 | --- | --- |
 | Encuentre lo que el contenido ganador tiene en común<p>![Encuentre lo que el contenido ganador tiene en común](assets/content-performance.png)</p> | Muestra qué imágenes y mensajería funcionan en el nivel de atributo, no solo qué archivos reciben clics.<p>**Mensajes de ejemplo:**</p><ul><li>&quot;¿Qué tienen en común nuestras imágenes con mejor rendimiento?&quot;</li><li>&quot;¿Qué atributos de contenido generan la mayor participación?&quot;</li></ul> |
-| Atribuir los ingresos al contenido que ven los clientes | Vincula la exposición de la imagen a los ingresos, las conversiones y la participación con la atribución algorítmica.<p>**Óptimo para:** Analista, usuario empresarial</p><p>**Mensajes de ejemplo:**</p><ul><li>&quot;¿Qué imágenes de héroe generaron la mayor cantidad de ingresos el trimestre pasado?&quot;</li><li>&quot;¿Cuántos ingresos están vinculados a este banner?&quot;</li></ul> |
-| Comparar contenido creativo entre canales pagados y propios | Muestra qué elementos visuales y temáticas ganan en los canales web, móviles y de pago en una sola vista.<p>**Mensajes de ejemplo:**</p><ul><li>&quot;¿Qué temas creativos ganan en pago y en nuestro sitio?&quot;</li><li>&quot;Comparar la creatividad publicitaria de Meta con nuestros banners web&quot;</li></ul> |
+| Atribuir los ingresos al contenido que ven los clientes | Vincula la exposición de la imagen a los ingresos, las conversiones y la participación con la atribución algorítmica.<p>**Óptimo para:** Analista, usuario empresarial</p><p>**Mensajes de ejemplo:**</p><ul><li>&quot;¿Qué imágenes generaron la mayor cantidad de ingresos el trimestre pasado?&quot;</li><li>&quot;¿Cuántos ingresos están vinculados a la imagen en https://www.example.com/images/spring-sale.jpg?&quot;</li></ul> |
+| Comparar contenido creativo entre dispositivos web y móviles | Muestra en una sola vista los elementos visuales y los temas que ganan en el sitio y en la aplicación móvil.<p>**Mensajes de ejemplo:**</p><ul><li>&quot;¿Qué temas creativos ganan en nuestra aplicación móvil y en nuestro sitio?&quot;</li><li>&quot;Comparar el rendimiento de las imágenes en nuestra aplicación móvil y en nuestro sitio&quot;</li></ul> |
 | Saber qué elementos visuales mueven a cada audiencia | Muestra qué imágenes funcionan para cada audiencia como guías para la personalización y los informes creativos.<p>**Mensajes de ejemplo:**</p><ul><li>&quot;¿Qué imágenes funcionan mejor en cada segmento?&quot;</li><li>&quot;¿Qué imágenes funcionan para los nuevos visitantes?&quot;</li></ul> |
 
 ## Aptitudes utilizadas
@@ -47,18 +47,19 @@ El compañero de trabajo emplea las siguientes habilidades en los casos de uso d
 
 | Habilidad | Se usa para |
 | --- | --- |
-| `analyze-content`, `cja` | Encuentra lo que el contenido ganador tiene en común<br>Atribuye los ingresos al contenido que ven los clientes<br>Compara los canales creativos entre los canales de pago y los propios<br>Sabe qué elementos visuales mueven a cada audiencia<p>Para obtener más información, consulte [Hacer preguntas sobre tu contenido](/help/chat/use-cases/data-insights/ask-content-questions.md).</p> |
+| `cja`,`analyze-content` <br/> (disponibilidad limitada) | Encuentra lo que el contenido ganador tiene en común<br>Atribuye los ingresos al contenido que ven los clientes<br>Compara los elementos creativos en la web y móviles<br>Sabe qué elementos visuales mueven a cada audiencia<p>Para obtener más información, consulte [Hacer preguntas sobre tu contenido](/help/chat/use-cases/data-insights/ask-content-questions.md).</p> |
 
 ## Sugerencias para obtener mejores resultados
 
-<!-- FLAG: Confidence: Medium. The first two bullets are adapted from the best practices in analytics-overview.md. The third bullet is inferred from the row descriptions. -->
+<!-- FLAG: Confidence: High for the first bullet (SME feedback, October 2026). Medium for the rest: the second and third bullets are adapted from the best practices in analytics-overview.md, and the fourth bullet is inferred from the row descriptions. -->
 
+* Cuando pregunte por una imagen específica, incluya su URL o ID de recurso. El compañero no puede identificar una imagen por su función en la página, como una imagen a pantalla completa o un titular.
 * Asigne un nombre a la métrica y el intervalo de fechas que desea analizar, como los ingresos del último trimestre.
 * Especifique los segmentos, audiencias o canales que desea comparar.
 * Pregunte por los atributos de contenido, como imágenes, temas o mensajes, en lugar de por archivos individuales cuando desee saber por qué el contenido tiene un buen rendimiento.
 
 ## Próximos pasos
 
-* Para saber cómo Coworker responde a preguntas sobre contenido, consulta [Hacer preguntas sobre tu contenido](/help/chat/use-cases/data-insights/ask-content-questions.md).
+* Para saber cómo Coworker responde preguntas sobre contenido, consulta [Hacer preguntas sobre tu contenido](/help/chat/use-cases/data-insights/ask-content-questions.md) (disponibilidad limitada).
 * Para obtener una descripción general del análisis de datos con Coworker Chat, incluidos los demás dominios de análisis y prácticas recomendadas, consulte [Analizar datos con Coworker Chat](/help/chat/use-cases/data-insights/analytics-overview.md).
 * Para configurar el chat de compañeros y ver un ejemplo que funcione, consulta [Análisis de datos con el chat de compañeros](/help/chat/use-cases/data-insights/analytics-chat.md).
