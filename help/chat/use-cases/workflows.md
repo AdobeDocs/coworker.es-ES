@@ -4,9 +4,9 @@ title: Flujos de trabajo de Coworker Chat
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b85f470f860795f9a3960f5a4e36d0584e2b6a81
+source-git-commit: 5acb9a62c94486e0487cc7805ebc9ef6e25e2079
 workflow-type: tm+mt
-source-wordcount: '8358'
+source-wordcount: '8465'
 ht-degree: 6%
 ---
 # Flujos de trabajo de Coworker Chat {#use-cases}
@@ -147,6 +147,7 @@ El chat de compañeros de trabajo le permite consultar, analizar y actuar en los
 | [Analizar la higiene del recorrido](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Audite el inventario de recorridos para encontrar recorridos con nombres que faltan o genéricos, borradores antiguos o recorridos activos, recorridos sobredimensionados, recorridos cerrados de larga data y nombres de acciones y eventos similares, con recomendaciones para limpiar y estabilizar la configuración | Análisis de recorrido | Adobe Journey Optimizer (AJO) | &quot;Auditar la configuración de mis recorridos&quot;. <br> &quot;¿Cuáles de mis recorridos son antiguos o necesitan ser limpiados?&quot; |
 | [Comparar versiones de recorrido](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Compare dos versiones de recorrido y revise una comparación estructurada de los cambios de nodo, conexión y propiedad de nivel de recorrido | `journey-analyze-version-comparison` | Adobe Journey Optimizer (AJO) | &quot;Comparar las versiones 2 y 3 de mi recorrido de bienvenida&quot; <br> &quot;¿Qué ha cambiado entre estas dos versiones del recorrido?&quot; |
 | [Rastrear perfiles mediante un recorrido](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#trace-journey-profile){target="_blank"} | Obtenga datos de ejecución de solo lectura y a nivel de perfil para un recorrido publicado: consulte cuántos perfiles han entrado en cada nodo y cómo se dividen entre ramas, encuentre qué perfiles han fallado y por qué, o siga la ruta nodo por nodo de un solo perfil a través del recorrido | Rastrear perfil de Recorrido | Adobe Journey Optimizer (AJO) | &quot;Rastrear perfiles a través de [Nombre de Recorrido].&quot; <br> &quot;¿Qué perfiles han dado error en [Nombre de Recorrido] en los últimos 7 días, en qué nodo y por qué?&quot; <br> &quot;Mostrarme la ruta del perfil [ID o correo electrónico] mediante [Nombre del Recorrido]&quot;. |
+| [Analizar la cronología de ejecución del recorrido](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-execution-timeline){target="_blank"} | Obtenga la cronología de extremo a extremo de un lote de recorridos de lectura de audiencia: consulte cuánto tiempo tardó, cuándo comenzaron y finalizaron las exportaciones de audiencias, la ejecución de recorridos y las entregas, y los niveles de perfil P95 y P99 para el tiempo de entrada, salida o ejecución | Cronología de ejecución de recorrido | Adobe Journey Optimizer (AJO) | &quot;¿Cuánto tiempo tardó en ejecutarse el recorrido de audiencia de lectura [Nombre de Recorrido]?&quot; <br> &quot;Mostrarme las escalas de tiempo de exportación de audiencias, ejecución de recorridos y entrega de [Nombre de Recorrido] por lote.&quot; <br> &quot;¿Qué lote de [nombre de Recorrido] tardó más y en qué fase se produjo el retraso?&quot; |
 
 **Información relacionada**
 

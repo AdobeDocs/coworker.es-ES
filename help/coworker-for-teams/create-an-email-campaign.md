@@ -4,9 +4,9 @@ title: Creación de una campaña de correo electrónico
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
+source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '935'
 ht-degree: 0%
 ---
 # Creación de una campaña de correo electrónico {#create-an-email-campaign}
@@ -80,15 +80,13 @@ Cuando tenga la solicitud lista, haga clic en **Generar campaña**. El compañer
 
 Las audiencias se cargan mediante CSV. Todas las audiencias son específicas para sus respectivas campañas (no se almacenan en ningún otro lugar del entorno en este momento).
 
-1. Después de enviar la solicitud, revise las tareas que ejecutará el colaborador y haga clic en **Generar**.
+1. Después de enviar el mensaje, el colaborador de los equipos (normalmente) genera una audiencia de muestra para usted. Si no es así, le solicita que importe una audiencia.
 
-1. En el panel _Conversión de campaña_ de la izquierda, haga clic en **Cargar CSV**.
-
-   ![](./assets/create-an-email-campaign-3.png)
+1. Importe su propia audiencia cargando un archivo CSV o trayendo datos de un conector disponible.
 
    >[!NOTE]
    >
-   >* La dirección de correo electrónico es un campo obligatorio, el nombre, la fecha de última compra y cualquier otro campo que se pueda utilizar para la personalización son recomendados.
+   >Aunque Coworker para equipos le permite continuar creando su campaña con una audiencia de muestra, debe agregar una audiencia real para iniciar la campaña.
 
 1. Importe el archivo CSV.
 
@@ -132,9 +130,9 @@ Antes de iniciar, envíese la campaña para que pueda revisarla en una bandeja d
 
 ![](./assets/create-an-email-campaign-6.png)
 
-## Paso 6: Pasos siguientes
+## Paso 6: Inicio de la campaña
 
-La funcionalidad de Launch (envío de la campaña de correo electrónico) estará disponible próximamente. Hasta entonces, puede revisar el contenido con su equipo y comenzar con su próxima campaña.
+Ya está listo para [iniciar su campaña](/help/coworker-for-teams/launch-manage-campaign.md#launch-a-campaign).
 
 ## Preguntas frecuentes
 

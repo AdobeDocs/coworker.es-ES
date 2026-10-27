@@ -19,9 +19,9 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7536fb875db4118f150cc1e83135c16ec4ac257c
+source-git-commit: a4755ee1df166cc6efd4ffddca90d395d9e8287c
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '117'
 ht-degree: 0%
 ---
 <!--
@@ -80,18 +80,3 @@ Add {transcript=true} after the closing parenthesis if a transcript is available
 
 [Opcional. Elimine esta sección si no es necesario configurar el vídeo. Mencione la versión de la interfaz que se muestra, la aplicación o zona protegida utilizada o un vídeo anterior que se verá primero.]
 
-## Capítulos {#chapters}
-
-[Opcional. Elimine esta sección para ver vídeos cortos. Mostrar cambios de tema con marcas de tiempo.]
-
-* 0:00 [Introducción]
-* 1:30 [Tema uno]
-* 3:00 [Tema dos]
-
-## Más ayuda sobre este tema {#more-help}
-
-[Vínculo a la página de documentación que tiene los pasos escritos. Esta sección es obligatoria. Use un texto de vínculo descriptivo y mantenga los elementos en paralelo.]
-
-* [Título de la página de documentación para los pasos escritos]
-* [Texto de vínculo que describe una página relacionada]
-* [Texto de vínculo que describe un vídeo relacionado]
