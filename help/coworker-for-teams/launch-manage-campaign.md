@@ -4,10 +4,10 @@ title: Inicio y administración de una campaña
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
+source-git-commit: a456bf55f7004304df7ad9ea6d6bc3410faffaba
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 2%
+source-wordcount: '683'
+ht-degree: 1%
 ---
 # Inicio y administración de una campaña {#launch-campaign}
 
@@ -31,11 +31,15 @@ Una vez creada la campaña, aprenda a iniciarla, programarla cuando se publique 
 
 1. Haga clic en **Iniciar campaña** cuando haya terminado.
 
->[!NOTE]
->
->- Una campaña no se puede iniciar con una audiencia de muestra (no real), con borradores de correo electrónico que no se hayan revisado o con una configuración de envío no configurada.
->
->- Si programa una campaña, aún puede editarla antes de su lanzamiento. No es necesario cambiar al modo de borrador.
+### Aspectos a tener en cuenta: lanzamiento
+
+- Una campaña no se puede iniciar con una audiencia de muestra (no real), con borradores de correo electrónico que no se hayan revisado o con una configuración de envío no configurada.
+
+- Si programa una campaña, aún puede editarla antes de su lanzamiento. No es necesario cambiar al modo de borrador.
+
+- Su prueba incluye 5000 envíos de correo electrónico al mes. El _impacto estimado del límite_ se muestra durante el lanzamiento para que puedas seguir la pista de cuántos correos electrónicos te quedan.
+
+- Cuando su campaña esté activa, los datos estarán disponibles en dos horas a través de la pestaña _Información_ en la parte superior del tablero de la campaña. Las perspectivas incluyen el número de envíos, aperturas, clics, devoluciones, cancelaciones de suscripción y errores, así como el rendimiento diario y el flujo de trabajo.
 
 ## Programar cuando se inicie una campaña {#schedule-when-a-campaign-launches}
 
@@ -80,7 +84,7 @@ La campaña debe estar lista para iniciarse (se ha completado toda la configurac
 | Día del mes | En qué día del mes se repite la campaña | Sí, para la frecuencia mensual |
 | Finalizar campaña | Nunca, o en una fecha de finalización específica | Sí, para recurrente |
 
-### Cosas que debe tener en cuenta
+### Cosas que hay que tener en cuenta: programación
 
 - Las campañas recurrentes se pueden configurar para que se ejecuten indefinidamente o hasta una fecha final específica. Las campañas únicas e inmediatas no tienen una opción de fecha de finalización, ya que se ejecutan una vez.
 - La programación no admite intervalos de repetición personalizados, como &quot;cada 2 semanas&quot; o &quot;cada 3 días&quot;. Tampoco admite una periodicidad mensual relativa, como &quot;el segundo lunes del mes&quot;.

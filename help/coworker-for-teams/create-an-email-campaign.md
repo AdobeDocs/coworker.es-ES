@@ -4,9 +4,9 @@ title: Creación de una campaña de correo electrónico
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
+source-git-commit: a456bf55f7004304df7ad9ea6d6bc3410faffaba
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '933'
 ht-degree: 0%
 ---
 # Creación de una campaña de correo electrónico {#create-an-email-campaign}
@@ -68,7 +68,7 @@ Ejemplo:
 
 ![Escribiendo en su propia solicitud](./assets/create-an-email-campaign-2.png)
 
-Cuando tenga la solicitud lista, haga clic en **Generar campaña**. El compañero de trabajo de los equipos:
+Cuando tenga preparado el mensaje, haga clic en el icono de flecha hacia arriba. El compañero de trabajo de los equipos:
 
 * Genere una estrategia de campaña estructurada.
 * Pregunte por la audiencia de destino, que también se utilizará para la personalización de contenido.
@@ -88,8 +88,6 @@ Las audiencias se cargan mediante CSV. Todas las audiencias son específicas par
    >
    >Aunque Coworker para equipos le permite continuar creando su campaña con una audiencia de muestra, debe agregar una audiencia real para iniciar la campaña.
 
-1. Importe el archivo CSV.
-
    >[!IMPORTANT]
    >
    >Excluya los contactos que no desee enviar por correo electrónico (usuarios sin suscribir, direcciones internas, cuentas de prueba) antes de cargarlos. Aunque habilitaremos progresivamente la funcionalidad para excluir usuarios específicos o añadir atributos durante el transcurso de la prueba, no está disponible inmediatamente a partir de la fecha de lanzamiento.
@@ -98,7 +96,7 @@ Las audiencias se cargan mediante CSV. Todas las audiencias son específicas par
 
 Para realizar cambios en el correo electrónico, desplácese hacia la derecha. En _Campaign Assets_, haga clic en **Abrir editor**.
 
-![](./assets/create-an-email-campaign-4.png)
+![](./assets/create-an-email-campaign-3.png)
 
 Existen dos formas de actualizar el contenido.
 
@@ -114,7 +112,7 @@ Existen dos formas de actualizar el contenido.
 
 También puede utilizar los botones de IA para refinar el Asunto o el Preencabezado.
 
-![](./assets/create-an-email-campaign-5.png)
+![](./assets/create-an-email-campaign-4.png)
 
 >[!TIP]
 >
@@ -128,7 +126,7 @@ Antes de iniciar, envíese la campaña para que pueda revisarla en una bandeja d
 >
 >En este momento, solo puede enviarse un correo electrónico de prueba, y solo uno a la vez.
 
-![](./assets/create-an-email-campaign-6.png)
+![](./assets/create-an-email-campaign-5.png)
 
 ## Paso 6: Inicio de la campaña
 
