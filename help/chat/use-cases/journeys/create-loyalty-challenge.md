@@ -10,13 +10,17 @@ jira: KT-22312
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 645cb0c837d9320c3a908b580b10397532900070
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '187'
 ht-degree: 1%
 ---
 
 # Adobe Journey Optimizer y compañeros de trabajo: cree un desafío de lealtad y perspectivas de superficie
+
+>[!AVAILABILITY]
+>
+>El complemento Lealtad y su aptitud para la administración de desafíos solo están disponibles si su organización tiene el derecho de Adobe Journey Optimizer Loyalty. Si necesita acceder, póngase en contacto con el equipo de su cuenta de Adobe para solicitar los derechos necesarios.
 
 En esta demostración, verá cómo se utiliza la función de fidelidad de Adobe Journey Optimizer (AJO) en Coworker para simplificar y acelerar la administración del programa de fidelidad.
  
