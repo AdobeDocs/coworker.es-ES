@@ -3,8 +3,8 @@ title: Implementación y administración de Analytics con Coworker Chat
 description: Planifique la implementación, realice un seguimiento de la misma en una lista de comprobación y valide los datos de Adobe Analytics, Customer Journey Analytics y Experience Platform con Coworker Chat.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: decc8d209d4c9c177c6329a30668f0bbb8bd2c00
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '1235'
 ht-degree: 0%

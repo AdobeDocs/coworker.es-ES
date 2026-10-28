@@ -9,8 +9,8 @@ last-substantial-update: 2026-08-26T00:00:00.000Z
 jira: KT-22377
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Las habilidades son libros de reproducción reutilizables que ayudan a Adobe CX 
  
 En este vídeo, aprenderá cómo funcionan las habilidades, cuándo utilizarlas y cómo ayudan a los equipos a escalar prácticas de experiencia del cliente repetibles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502326/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502322/?learn=on&enablevpops)
 
 Una aptitud proporciona:
 
@@ -45,7 +45,6 @@ Muchas organizaciones realizan los mismos tipos de tareas repetidamente, entre e
 
 Las habilidades ayudan a los equipos a capturar y reutilizar estas prácticas recomendadas sin volver a explicar manualmente el proceso cada vez.
  
-
 ## Aptitudes y administración de datos
 
 Las aptitudes no almacenan datos de clientes.

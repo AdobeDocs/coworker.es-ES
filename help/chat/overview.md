@@ -3,8 +3,8 @@ description: Conozca cómo el chat de Coworker utiliza una interfaz conversacion
 title: Información general de Adobe CX Enterprise Coworker Chat
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: d92dcaa94d6fe5577c11db62928f5c4c5e124ed5
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '721'
 ht-degree: 6%
@@ -66,4 +66,4 @@ Coworker Chat funciona con los componentes básicos de Coworker. Los siguientes 
 
 ## Vídeo introductorio
 
->[!VIDEO](https://video.tv.adobe.com/v/3495970?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}

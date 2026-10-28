@@ -3,8 +3,8 @@ description: Conecte su cuenta de HubSpot a Coworker para equipos que utilicen u
 title: Conectar con HubSpot
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Coworker para equipos le permite conectar su cuenta de HubSpot para extraer list
 >Para utilizar este conector, primero debe tener:
 >
 >* Una cuenta activa de HubSpot
->* Se ha creado una clave de servicio [1&rbrace; con los siguientes ámbitos agregados: `crm.objects.contacts.read`, `crm.objects.leads.read`, `crm.schemas.contacts.read`, `crm.lists.read`, `crm.export`](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key){target="_blank"}
+>* Se ha creado una clave de servicio [1} con los siguientes ámbitos agregados: `crm.objects.contacts.read`, `crm.objects.leads.read`, `crm.schemas.contacts.read`, `crm.lists.read`, `crm.export`](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key){target="_blank"}
 
 ## Cómo conectar
 

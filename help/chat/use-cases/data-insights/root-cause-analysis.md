@@ -10,8 +10,8 @@ last-substantial-update: 2026-08-10T00:00:00.000Z
 jira: KT-22082
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Para comprender por qué cambian las métricas a menudo es necesario navegar por
  
 Con el lenguaje natural, los analistas y los especialistas en marketing pueden hacer preguntas sobre sus datos, recibir resultados visualizados, identificar tendencias significativas y descubrir los factores que impulsan el rendimiento, todo ello dentro de una sola conversación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496855/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)

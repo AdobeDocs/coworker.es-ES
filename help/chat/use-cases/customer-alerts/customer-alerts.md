@@ -5,7 +5,7 @@ jira: KT-22913
 last-substantial-update: '2026-10-16T00:00:00.000Z'
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
+    internal-label: Coworker
   - id: edbd1a0e-46c8-49da-8c10-dba9ec80bba9
     internal-label: Experience Platform
 feature_v2:
@@ -21,7 +21,7 @@ level_v2:
     internal-label: Experienced
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 0a9cfeaf54221e004e0422766f8bd1bb4d078dea
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '1014'
 ht-degree: 4%
@@ -39,7 +39,7 @@ Use las habilidades de alerta del cliente en CX Coworker para convertir la activ
 
 Las habilidades de alerta del cliente le ayudan a pasar de las señales de alerta a perspectivas procesables sin revisar manualmente las vistas de alerta ni correlacionar la información en varias interfaces. Comience con una pregunta amplia acerca de la actividad de alertas recientes y, a continuación, utilice preguntas de seguimiento para identificar patrones de alerta recurrentes, analizar los objetos afectados y centrarse en las alertas que posee.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504719?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504716?learn=on)
 
 Para obtener información acerca de las alertas de cliente, consulte la [descripción general de las alertas de cliente](https://experienceleague.adobe.com/es/docs/experience-platform/observability/alerts/overview).
 

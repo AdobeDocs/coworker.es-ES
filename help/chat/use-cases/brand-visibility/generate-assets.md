@@ -9,8 +9,8 @@ last-substantial-update: 2026-09-01T00:00:00.000Z
 jira: KT-22502
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -24,4 +24,4 @@ Por ejemplo, para crear una publicación de café en Instagram, puede proporcion
 
 Los compañeros de trabajo también ofrecen flexibilidad para una mayor personalización. Puede modificar recursos, crear variaciones o adaptar el contenido a distintos formatos, como las historias de Instagram. Este enfoque le permite centrarse en sus objetivos mientras su compañero gestiona los detalles técnicos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502712/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502692/?learn=on&enablevpops)

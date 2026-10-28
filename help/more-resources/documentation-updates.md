@@ -3,8 +3,8 @@ title: Actualizaciones de documentación de CX Enterprise Coworker
 description: Consulte los artículos y vídeos nuevos y actualizados en la documentación de CX Enterprise Coworker. Vuelva a consultar las últimas novedades.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: decc8d209d4c9c177c6329a30668f0bbb8bd2c00
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%

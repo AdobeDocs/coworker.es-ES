@@ -3,8 +3,8 @@ title: Comparación de audiencias y segmentos de clientes con el chat de compañ
 description: Utilice el chat de compañeros para comparar grupos de clientes, encontrar oportunidades de crecimiento pasadas por alto, rastrear tendencias de audiencia y convertir perspectivas en audiencias que pueda crear.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '662'
 ht-degree: 2%

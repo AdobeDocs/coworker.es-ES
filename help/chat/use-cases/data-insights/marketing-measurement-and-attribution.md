@@ -3,8 +3,8 @@ title: Mida el impacto y la atribución de marketing con el chat de compañeros
 description: Utilice el chat de compañeros para medir el impacto incremental de cada canal, encontrar dónde se satura el gasto, crear escenarios de presupuesto hipotéticos y comprobar la calidad del modelo de marketing.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 2%
