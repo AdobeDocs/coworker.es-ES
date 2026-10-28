@@ -46,7 +46,7 @@ Inicie sesión en [!DNL Coworker] con sus credenciales de Adobe.
 
 ## Conozca los conceptos básicos de Coworker Chat
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498570?captions=spa&learn=on)
 
 ## Especifique las preferencias de Compañero {#preferences}
 

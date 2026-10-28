@@ -22,4 +22,4 @@ Descubra cómo CX Enterprise Coworker crea un recorrido en canales múltiples a 
 
 En este vídeo, vea cómo simular las rutas de ramificación del recorrido y analizar los diagnósticos para identificar los problemas de configuración.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504709?captions=spa&learn=on)
