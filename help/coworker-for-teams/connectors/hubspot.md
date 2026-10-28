@@ -4,7 +4,7 @@ title: Conectar con HubSpot
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+source-git-commit: 5394a34858c6480dec74f4fdf8b9a26e28bcac68
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -18,11 +18,11 @@ Adobe Coworker para equipos le permite conectar su cuenta de HubSpot para extrae
 >Para utilizar este conector, primero debe tener:
 >
 >* Una cuenta activa de HubSpot
->* Se ha creado una clave de servicio [1&rbrace; con los siguientes ámbitos agregados: `crm.objects.contacts.read`, `crm.objects.leads.read`, `crm.schemas.contacts.read`, `crm.lists.read`, `crm.export`](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key)
+>* Se ha creado una clave de servicio [1} con los siguientes ámbitos agregados: `crm.objects.contacts.read`, `crm.objects.leads.read`, `crm.schemas.contacts.read`, `crm.lists.read`, `crm.export`](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key){target="_blank"}
 
 ## Cómo conectar
 
-1. En la página principal de [Colaborador para equipos](https://coworker-campaigns.experience.adobe.com/), haga clic en **Contexto** y seleccione **Conectores**.
+1. En la página principal de [Colaborador para equipos](https://coworker-campaigns.experience.adobe.com/){target="_blank"}, haga clic en **Contexto** y seleccione **Conectores**.
 
    ![Menú personalizado expandido en la barra lateral con los conectores seleccionados](./assets/hubspot-1.png)
 
