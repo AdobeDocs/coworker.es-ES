@@ -4,9 +4,9 @@ title: Flujos de trabajo de Coworker Chat
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5a5642bf7d8b6f4d2aa14321fa9a06249440e998
+source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
 workflow-type: tm+mt
-source-wordcount: '8502'
+source-wordcount: '8510'
 ht-degree: 6%
 ---
 # Flujos de trabajo de Coworker Chat {#use-cases}
@@ -117,7 +117,7 @@ El chat de compañeros de trabajo le permite consultar, analizar y actuar en los
 | Previsión | Proyectar valores de métricas futuras en función de datos históricos de CJA o AA | `cja`, `aa` | Customer Journey Analytics (CJA), Adobe Analytics (AA) | &quot;Sesiones de pronóstico para los próximos 30 días&quot; <br> &quot;¿Estamos en camino de alcanzar nuestra meta de ingresos?&quot; |
 | [Análisis de causa raíz](data-insights/root-cause-analysis.md) | Investigue por qué ha cambiado una métrica: diagnosticar caídas, picos y anomalías | `cja-root-cause-analysis`, `aa-root-cause-analysis` | Customer Journey Analytics (CJA), Adobe Analytics (AA) | &quot;¿Por qué cayeron las conversiones la semana pasada?&quot; <br> &quot;¿Qué causó el pico de ingresos el 15 de enero?&quot; |
 | Resúmenes ejecutivos y resúmenes de KPI | Produzca resúmenes de rendimiento listos para las partes interesadas, recomendaciones prescriptivas y descripciones de diapositivas | `cja-executive-summary`, `cja-bacom-anomaly-tracker-v2`, `cja-cno-weekly-pulse`, `cja-reporting`, `cja`, `aa`, `dx-api` | Customer Journey Analytics (CJA), Adobe Analytics (AA) | &quot;Proporcionarme un resumen ejecutivo del mes pasado&quot; <br> &quot;Crear un esquema de presentación de diapositivas a partir de los datos de este trimestre&quot; |
-| [Análisis de contenido](data-insights/ask-content-questions.md) | Responda preguntas generales o específicas sobre el contenido mediante los datos de Content Analytics: qué contenido priorizar, qué atributos impulsan la participación y qué activos y experiencias generan ingresos | `analyze-content`, `cja` | Customer Journey Analytics (CJA) | &quot;¿Qué tipo de contenido debo priorizar?&quot; <br> &quot;¿Qué tienen en común nuestras imágenes con mejor rendimiento?&quot; |
+| [Análisis de contenido](data-insights/ask-content-questions.md) (disponibilidad limitada) | Responda preguntas generales o específicas sobre el contenido mediante los datos de Content Analytics: qué contenido priorizar, qué atributos impulsan la participación y qué activos y experiencias generan ingresos | `analyze-content`, `cja` | Customer Journey Analytics (CJA) | &quot;¿Qué tipo de contenido debo priorizar?&quot; <br> &quot;¿Qué tienen en común nuestras imágenes con mejor rendimiento?&quot; |
 | [AA ↔ validación de datos de CJA](data-insights/data-validation-aa-cja.md) | Compare, audite y concilie datos entre Adobe Analytics y Customer Journey Analytics, especialmente al actualizar de Adobe Analytics a Customer Journey Analytics | `aa-cja-validation`, `cja`, `aa`, `dx-api` | ADOBE ANALYTICS + CJA | &quot;Comparar mi grupo de informes AA con mi vista de datos de CJA&quot; <br> &quot;Validar vistas de página entre AA y CJA&quot; |
 | [Validar la calidad del campo y el conjunto de datos](data-insights/data-validation-aep.md) | Ejecute validación estadística y semántica en conjuntos de datos y campos de Experience Platform para detectar problemas de calidad de datos después de la implementación o de forma continua <!--TODO: confirm skill ID(s) with engineering before publishing--> | `data-validation` | Adobe Experience Platform | &quot;Validar el conjunto de datos Ejemplo de electrónica 1000&quot; <br> &quot;Validar el campo de correo electrónico en el conjunto de datos Customers_2024&quot; |
 | Serie temporal operativa y análisis causal | Consultar y analizar datos de series temporales históricas para audiencias, conjuntos de datos y recorridos con atribución causal | `operational-stats-causal-analysis` | Todas las solicitudes elegibles | &quot;Mostrarme las tendencias de tamaño de audiencia de los últimos 90 días&quot; <br> &quot;¿Por qué aumentó el recuento de filas del conjunto de datos el 3 de marzo?&quot; |

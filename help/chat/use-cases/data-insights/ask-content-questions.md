@@ -4,9 +4,9 @@ description: Pregunte en Coworker Chat sobre su contenido en un lenguaje sencill
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
+source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
 workflow-type: tm+mt
-source-wordcount: '1009'
+source-wordcount: '1076'
 ht-degree: 2%
 ---
 
@@ -14,7 +14,11 @@ ht-degree: 2%
 
 <!-- FLAG: Confirm with the PM: (1) availability (GA, beta, or experimental) and whether this page needs an AVAILABILITY note or `hide: true` until launch, and (2) any required Coworker entitlement. Content Analytics itself has no separate permission: users get access through data views that are configured for Content Analytics (Access control section of analytics-platform.en/help/content-analytics/config/configuration.md). -->
 
-Use el chat de Adobe CX Enterprise Coworker para obtener respuestas precisas sobre el contenido de Adobe Content Analytics. Haga una pregunta específica, como &quot;¿Qué imágenes de héroe generaron la mayor cantidad de ingresos el trimestre pasado?&quot;, o una pregunta general, como &quot;¿Qué tipo de contenido debo priorizar?&quot;. Coworker convierte su pregunta en un análisis sólido.
+>[!AVAILABILITY]
+>
+>La funcionalidad descrita en este artículo se encuentra en la fase de prueba limitada de la versión y es posible que aún no esté disponible en su entorno. Esta nota se eliminará cuando la funcionalidad esté disponible de forma general.
+
+Use el chat de Adobe CX Enterprise Coworker para obtener respuestas precisas sobre el contenido de Adobe Content Analytics. Haga una pregunta específica, como &quot;¿Qué imágenes generaron la mayor cantidad de ingresos el trimestre pasado?&quot;, o general, como &quot;¿Qué tipo de contenido debo priorizar?&quot;. Coworker convierte su pregunta en un análisis sólido.
 
 Su compañero comprende cómo se estructuran los datos de Content Analytics y aplica las reglas de creación de informes que haría un analista experimentado, de modo que los especialistas en marketing y otros usuarios comerciales obtienen resultados fiables sin una profunda experiencia en Content Analytics.
 
@@ -62,8 +66,8 @@ En la tabla siguiente se muestran ejemplos de peticiones de datos para diferente
 | --- | --- |
 | Amplio o exploratorio | <ul><li>&quot;¿Qué tipo de contenido debo priorizar?&quot;</li><li>&quot;¿Qué rendimiento tiene nuestro contenido?&quot;</li></ul> |
 | Nivel de atributo | <ul><li>&quot;¿Qué tienen en común nuestras imágenes con mejor rendimiento?&quot;</li><li>&quot;¿Qué atributos de contenido generan la mayor participación?&quot;</li></ul> |
-| Ingresos y conversiones | <ul><li>&quot;¿Qué imágenes de héroe generaron la mayor cantidad de ingresos el trimestre pasado?&quot;</li><li>&quot;¿Cuántos ingresos están vinculados a este banner?&quot;</li></ul> |
-| Canales y audiencias | <ul><li>&quot;¿Qué temas creativos ganan en pago y en nuestro sitio?&quot;</li><li>&quot;¿Qué imágenes funcionan para los nuevos visitantes?&quot;</li></ul> |
+| Ingresos y conversiones | <ul><li>&quot;¿Qué imágenes generaron la mayor cantidad de ingresos el trimestre pasado?&quot;</li><li>&quot;¿Cuántos ingresos están vinculados a la imagen en https://www.example.com/images/spring-sale.jpg?&quot;</li></ul> |
+| Canales y audiencias | <ul><li>&quot;¿Qué temas creativos ganan en nuestra aplicación móvil y en nuestro sitio?&quot;</li><li>&quot;¿Qué imágenes funcionan para los nuevos visitantes?&quot;</li></ul> |
 
 ## Respuesta de los compañeros a las preguntas de contenido
 
@@ -77,14 +81,14 @@ Si su pregunta no incluye ningún detalle, la aptitud aplica un valor predetermi
 
 ### Coincidencia de métricas para recursos y experiencias
 
-<!-- FLAG: The table covers web and mobile content. Paid media content uses separate summary metrics, such as Impressions, Clicks, and Spend with a reporting-level suffix (for example, Clicks | Asset Summary), that can't be combined with event metrics such as Asset Views (config/paid-media.md in analytics-platform.en). Confirm with the PM how the skill handles paid media, then add a row or note. -->
+<!-- FLAG: The SME confirmed (October 2026) that the skill doesn't support paid media yet. Support is planned, either in this skill or in a separate add-on skill (not decided). When it ships, add paid media here: paid media content uses separate summary metrics, such as Impressions, Clicks, and Spend with a reporting-level suffix (for example, Clicks | Asset Summary), that can't be combined with event metrics such as Asset Views (config/paid-media.md in analytics-platform.en). -->
 
 Content Analytics realiza un seguimiento de dos tipos de contenido: recursos y experiencias. Cada uno tiene sus propias métricas. La aptitud siempre vincula la métrica con el tipo de contenido que pregunta.
 
 | Tipo de contenido | Qué es | Métricas que utiliza la aptitud |
 | --- | --- | --- |
 | Recursos | Un fragmento individual de contenido, como una imagen | Vistas de recursos, Clics en recursos, Tasa de clics en recursos (CTR) |
-| Experiencias | Todo el texto de una página web o la combinación de texto, recursos y llamadas a la acción en una aplicación móvil | Vistas de experiencias, Clics en experiencias, Tasa de clics en experiencias (CTR) |
+| Experiencias | Contenedor de contenido que incluye texto y recursos, en una página web o en una aplicación móvil | Vistas de experiencias, Clics en experiencias, Tasa de clics en experiencias (CTR) |
 
 ### Arquitectura de datos de Content Analytics
 
@@ -105,7 +109,7 @@ La aptitud incluye instrucciones para análisis de contenido comunes, como:
 
 * Encuentre los atributos que tienen en común los recursos o experiencias de mayor rendimiento.
 * Vincular la exposición al contenido a conversiones e ingresos.
-* Comparación de contenido entre canales de medios web, móviles y de pago.
+* Comparación de contenido entre canales web y móviles.
 * Comparar qué contenido funciona para diferentes audiencias y segmentos.
 * Identificación del contenido que se utiliza en exceso o en exceso.
 
@@ -117,6 +121,7 @@ La aptitud selecciona visualizaciones que se ajustan a la pregunta y a los datos
 
 * Empieza en grande si no estás seguro de qué preguntar. Los compañeros de trabajo pueden convertir una pregunta general en un análisis centrado y puede refinar a partir de ahí.
 * Diga si se refiere a recursos individuales, como imágenes, o experiencias completas, como páginas, cuando sepa cuál desea.
+* Cuando pregunte por una imagen específica, incluya su URL o ID de recurso. El compañero no puede identificar una imagen por su función en la página, como una imagen a pantalla completa o un titular.
 * Asigne un nombre a la métrica y el intervalo de fechas que desea analizar, como los ingresos del último trimestre.
 * Especifique los segmentos, audiencias o canales que desea comparar.
 * Pregunte por los atributos de contenido, como imágenes, temas o mensajes, en lugar de por archivos individuales cuando desee saber por qué el contenido tiene un buen rendimiento.

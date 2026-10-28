@@ -6,15 +6,16 @@ description: Obtenga información sobre las herramientas de IA en CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
+source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 15%
+source-wordcount: '319'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
 
 - [Guía de compañeros](home.md)
+- [Adobe CX Enterprise Coworker para plataformas de IA](/help/ai-platforms.md)
 - Chat de compañeros {#chat}
   - [Acerca de Coworker Chat](./chat/overview.md)
   - [Introducción al chat con compañeros](./chat/ui-guide.md)

@@ -4,22 +4,26 @@ title: Conectar con Shopify
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+source-git-commit: 395e6f64210aedd90fa4f6655860cf4c9bf19f7b
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '160'
 ht-degree: 0%
 ---
 # Conectar con Shopify {#shopify}
 
-Adobe Coworker para equipos le permite conectar su Shopify a...........
+Adobe Coworker para equipos le permite conectar su cuenta de Shopify para atraer clientes y segmentos.
 
 >[!PREREQUISITES]
 >
 >Para utilizar este conector, primero debe tener:
+>
+>* Una cuenta activa de Shopify
+>* El siguiente permiso en Shopify: `read_customers`
+>* La URL de la tienda Shopify y el [token de acceso de la API de administración](https://shopify.dev/docs/apps/build/authentication-authorization) son útiles
 
 ## Cómo conectar
 
-1. En la página de inicio de [Colaborador para equipos](https://coworker-campaigns.experience.adobe.com/), haga clic en **Personalizar** y seleccione **Conectores**.
+1. En la página principal de [Colaborador para equipos](https://coworker-campaigns.experience.adobe.com/), haga clic en **Contexto** y seleccione **Conectores**.
 
    CAPTURA DE PANTALLA
 
@@ -39,7 +43,7 @@ Adobe Coworker para equipos le permite conectar su Shopify a...........
 
    CAPTURA DE PANTALLA
 
-Después de la conexión, Shopify aparece en la lista Conectores y...................
+Después de la conexión, Shopify aparece en la lista Conectores.
 
 **Para desconectar:**
 
