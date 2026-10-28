@@ -1,5 +1,5 @@
 ---
-title: Introducción Al Chat Con Compañeros En El Patio De Juegos
+title: Introducción al chat con compañeros en el patio de recreo
 description: Aprenda a utilizar el chat de compañeros en el patio de recreo para explorar cómo las indicaciones en lenguaje natural pueden ayudarle a aprender, investigar y perfeccionar su trabajo.
 hide: true
 autotag-review: '2026-09-02T16:21:52.199Z'
@@ -53,7 +53,7 @@ topic_v2:
     internal-label: Behavioral data
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '1671'
 ht-degree: 4%

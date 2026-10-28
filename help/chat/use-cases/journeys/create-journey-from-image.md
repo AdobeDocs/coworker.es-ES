@@ -1,5 +1,5 @@
 ---
-title: Creación de un recorrido a partir de una imagen
+title: Creación de un Recorrido a partir de una imagen
 description: Descubra cómo CX Enterprise Coworker convierte una imagen de diagrama de flujo, como una diapositiva de su equipo de marketing, en un recorrido listo para editar en Adobe Journey Optimizer (AJO).
 role: User
 level: Beginner
@@ -28,7 +28,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: da31900f-0b2e-4267-a5f8-69290b954752
     internal-label: Customer experience management
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -38,4 +38,4 @@ ht-degree: 0%
 
 Descubra cómo CX Enterprise Coworker convierte una imagen de diagrama de flujo, como una diapositiva de PowerPoint de su equipo de marketing, en un recorrido listo para editar en Adobe Journey Optimizer. Verá cómo Coworker extrae un mensaje de la imagen, le permite revisarlo y ajustarlo, solicita el evento de déclencheur y guarda el resultado como un borrador que coincide con el diseño original.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504868/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
