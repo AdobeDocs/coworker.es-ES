@@ -1,17 +1,17 @@
 ---
-description: Adobe Coworker para equipos le permite conectarse y consultar tablas de Unity Catalog en su espacio de trabajo de Databricks para crear y activar audiencias de campaña.
+description: Coworker para equipos le permite conectarse y consultar tablas del catálogo Unity en su espacio de trabajo de Databricks para crear y activar audiencias de campaña.
 title: Conectar con Databricks
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '273'
 ht-degree: 0%
 ---
 # Conectar con Databricks {#databricks}
 
-Adobe Coworker para equipos le permite conectarse y consultar tablas de Unity Catalog en su espacio de trabajo de Databricks para crear y activar audiencias de campaña.
+Coworker para equipos le permite conectarse y consultar tablas del catálogo Unity en su espacio de trabajo de Databricks para crear y activar audiencias de campaña.
 
 >[!PREREQUISITES]
 >

@@ -4,21 +4,21 @@ title: Conectar con HubSpot
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5394a34858c6480dec74f4fdf8b9a26e28bcac68
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '260'
 ht-degree: 0%
 ---
 # Conectar con HubSpot {#hubspot}
 
-Adobe Coworker para equipos le permite conectar su cuenta de HubSpot para extraer listas de contactos.
+Coworker para equipos le permite conectar su cuenta de HubSpot para extraer listas de contactos.
 
 >[!PREREQUISITES]
 >
 >Para utilizar este conector, primero debe tener:
 >
 >* Una cuenta activa de HubSpot
->* Se ha creado una clave de servicio [1&rbrace; con los siguientes ámbitos agregados: `crm.objects.contacts.read`, `crm.objects.leads.read`, `crm.schemas.contacts.read`, `crm.lists.read`, `crm.export`](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key){target="_blank"}
+>* Se ha creado una clave de servicio [1} con los siguientes ámbitos agregados: `crm.objects.contacts.read`, `crm.objects.leads.read`, `crm.schemas.contacts.read`, `crm.lists.read`, `crm.export`](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key){target="_blank"}
 
 ## Cómo conectar
 
