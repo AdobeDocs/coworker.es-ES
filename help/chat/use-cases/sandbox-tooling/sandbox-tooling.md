@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Utilice las habilidades de agente de herramientas de espacio aislado para mover los tipos de objetos admitidos entre entornos de Adobe Experience Platform, describiendo lo que desea lograr en lenguaje natural. Con Coworker, puede descubrir los metadatos necesarios, identificar automáticamente las dependencias, crear paquetes de migración y migrar objetos a través de una experiencia conversacional.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496711?captions=spa&learn=on)
 
 ## Requisitos previos {#prerequisites}
 
