@@ -18,7 +18,7 @@ Coworker para equipos le permite conectar su cuenta de HubSpot para extraer list
 >Para utilizar este conector, primero debe tener:
 >
 >* Una cuenta activa de HubSpot
->* Se ha creado una clave de servicio [1} con los siguientes ámbitos agregados: `crm.objects.contacts.read`, `crm.objects.leads.read`, `crm.schemas.contacts.read`, `crm.lists.read`, `crm.export`](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key){target="_blank"}
+>* Se ha creado una clave de servicio [1&rbrace; con los siguientes ámbitos agregados: `crm.objects.contacts.read`, `crm.objects.leads.read`, `crm.schemas.contacts.read`, `crm.lists.read`, `crm.export`](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key){target="_blank"}
 
 ## Cómo conectar
 
