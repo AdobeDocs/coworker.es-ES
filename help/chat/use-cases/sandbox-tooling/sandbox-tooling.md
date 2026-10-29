@@ -1,9 +1,9 @@
 ---
 title: Habilidades de agencia de herramientas para espacios aislados
 description: Aprenda a utilizar las habilidades de agente de herramientas de espacio aislado para replicar metadatos de objetos en entornos de espacio aislado.
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 8e60434a3ede23f916aa57667d1cec9186386e61
 workflow-type: tm+mt
-source-wordcount: '719'
+source-wordcount: '776'
 ht-degree: 1%
 ---
 
@@ -17,13 +17,9 @@ ht-degree: 1%
 >
 >**Administrar paquete**: Este permiso le permite usar Habilidades de agente de herramientas de espacio aislado para crear paquetes directamente en Compañero de trabajo.
 
->[!NOTE]
->
->Actualmente, puede utilizar las habilidades de agente de herramientas de zona protegida para descubrir, empaquetar y migrar objetos de esquema y audiencia. En futuras versiones se añadirá compatibilidad con tipos de objeto adicionales.
+Utilice las habilidades de agente de herramientas de espacio aislado para mover los tipos de objetos admitidos entre entornos de Adobe Experience Platform, describiendo lo que desea lograr en lenguaje natural. Con Coworker, puede descubrir los metadatos necesarios, identificar automáticamente las dependencias, crear paquetes de migración y migrar objetos a través de una experiencia conversacional.
 
-Utilice las habilidades de agente de herramientas de espacio aislado para mover metadatos de objetos, incluidos esquemas y audiencias, a entornos de Adobe Experience Platform. Para ello, describa lo que desea lograr en lenguaje natural. Con CX Coworker, puede descubrir los metadatos necesarios, identificar automáticamente las dependencias, crear paquetes de migración y migrar objetos a través de una experiencia conversacional.
-
->[!VIDEO](https://video.tv.adobe.com/v/3496711?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496706?learn=on)
 
 ## Requisitos previos {#prerequisites}
 
@@ -31,13 +27,13 @@ Antes de empezar, asegúrese de que dispone de lo siguiente:
 
 - Acceso a Adobe Experience Platform y a la organización y zona protegida adecuadas.
 - Acceso a los objetos que desea descubrir o migrar.
-- El complemento CXO de Adobe instalado en CX Coworker.
+- El complemento CXO de Adobe instalado en Coworker.
 
-Para obtener instrucciones sobre la instalación de complementos, consulte la [guía de la interfaz de usuario de Coworker](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
+Para obtener instrucciones sobre la instalación de complementos, consulte la [guía de la interfaz de usuario de Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
 
 ## Uso de habilidades de agente de herramientas de espacio aislado {#use-sandbox-tooling-agentic-skills}
 
-Interactúe con las habilidades agénticas de las herramientas de espacio aislado a través de CX Coworker usando lenguaje natural. Describa su objetivo con la mayor claridad posible. Las solicitudes específicas producen los mejores resultados, mientras que las solicitudes vagas o demasiado breves pueden devolver resultados de menor calidad o no invocar al agente.
+Interactúe con Sandbox Tooling Agentic Skills a través de Coworker usando lenguaje natural. Describa su objetivo con la mayor claridad posible. Las solicitudes específicas producen los mejores resultados, mientras que las solicitudes vagas o demasiado breves pueden devolver resultados de menor calidad o no invocar al agente.
 
 Para utilizar las habilidades de agente de herramientas de espacio aislado:
 
@@ -62,7 +58,7 @@ Para utilizar las habilidades de agente de herramientas de espacio aislado:
 
    ![Transferir página completa que muestra el estado de la solicitud.](./assets/sandbox-tooling/transfer-complete.png)
 
-Para obtener más información sobre el uso de CX Coworker, consulte la [Guía de la interfaz de usuario de Coworker](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
+Para obtener más información sobre cómo usar Coworker, consulte la [guía de la interfaz de usuario de Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
 
 ## Casos de uso admitidos {#supported-use-cases}
 
@@ -72,11 +68,23 @@ Explore formas comunes de utilizar las habilidades agénticas de la herramienta 
 
 Como administrador de zona protegida que administra varios entornos limitados de Adobe Experience Platform, puede migrar los metadatos de los objetos mediante solicitudes en lenguaje natural en lugar de navegar manualmente por la interfaz de usuario.
 
-Con CX Coworker, puede migrar metadatos de objetos, incluidos esquemas, audiencias y recursos de configuración relacionados, de una zona protegida a otra describiendo la migración en lenguaje natural. Las habilidades de agente de herramientas de zona protegida identifican y empaquetan automáticamente las dependencias requeridas, lo que garantiza una migración fiable.
+Con Coworker, puede migrar objetos de Adobe Experience Platform compatibles y sus metadatos asociados de una zona protegida a otra describiendo la migración en lenguaje natural. Las habilidades de agente de herramientas de zona protegida identifican automáticamente las dependencias, empaquetan los objetos necesarios y ayudan a garantizar una migración fiable entre entornos.
 
 Por ejemplo:
 
 - &quot;Mueva el esquema Platino de los miembros de fidelidad de Luma de la zona protegida actual a la zona protegida de producción&quot;.
+
+### Promocionar objetos en varias zonas protegidas (Beta)
+
+>[!NOTE]
+>
+>Actualmente, la administración de varios entornos limitados está en Beta y solo admite esquemas y conjuntos de datos.
+
+Como administrador de zona protegida, puede promocionar los objetos admitidos de una zona protegida de origen a varias zonas protegidas de destino en un solo flujo de trabajo. En lugar de importar un paquete en cada zona protegida individualmente, utilice Coworker para seleccionar zonas protegidas de destino, revisar los cambios propuestos e implementar configuraciones de forma coherente en todos los entornos. La administración de varias zonas protegidas resuelve automáticamente las dependencias y proporciona una vista previa de los cambios antes de que comience la promoción.
+
+Por ejemplo:
+
+- &quot;Promocionar el esquema de miembro socio a todos los entornos limitados regionales.&quot;
 
 ### Promocionar audiencias entre zonas protegidas
 
@@ -108,5 +116,5 @@ Utilice estas indicaciones cuando conozca el nombre de la audiencia.
 
 Después de leer esta guía, debe comprender cómo utilizar las habilidades de agente de herramientas de espacio aislado para descubrir, empaquetar y migrar objetos admitidos entre espacios aislados.
 
-Para obtener más información sobre las herramientas de zonas protegidas, consulte la [Guía de herramientas de zonas protegidas](https://experienceleague.adobe.com/es/docs/experience-platform/sandbox/ui/sandbox-tooling).
+Para obtener más información sobre las herramientas de zonas protegidas, consulte la [Guía de herramientas de zonas protegidas](https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/ui/sandbox-tooling).
 
