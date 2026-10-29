@@ -3,8 +3,8 @@ title: Analizar los Recorridos del cliente y la entrega con el chat de compañer
 description: Use el chat de compañeros para crear canales, encontrar dónde abandonan los clientes, diagnosticar caídas de conversión y comparar recorridos entre periodos en los datos de análisis.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 2%

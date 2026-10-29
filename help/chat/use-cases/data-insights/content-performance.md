@@ -3,8 +3,8 @@ title: Analizar el contenido y el rendimiento de Creative con el chat de compañ
 description: Utilice el chat de compañeros para encontrar lo que el contenido ganador tiene en común, atribuir ingresos a las imágenes que ven los clientes y comparar la creatividad en varios canales y audiencias.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 1%

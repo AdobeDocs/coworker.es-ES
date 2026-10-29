@@ -3,8 +3,8 @@ title: Información general sobre personalizaciones Adobe CX Enterprise Coworker
 description: Obtenga información sobre las personalizaciones de Adobe CX Enterprise Coworker, incluidas habilidades, integraciones, complementos y memoria, y cómo amplían y personalizan su experiencia.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '567'
 ht-degree: 28%

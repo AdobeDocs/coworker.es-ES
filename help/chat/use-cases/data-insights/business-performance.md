@@ -3,8 +3,8 @@ title: Analizar el rendimiento empresarial y los KPI con el chat de compañeros
 description: Utilice el chat de compañeros para explicar por qué se movieron las métricas, prever hacia dónde se dirigen, preparar revisiones de rendimiento y convertir los análisis repetidos en habilidades reutilizables.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 2%

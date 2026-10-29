@@ -6,10 +6,10 @@ description: Obtenga información sobre las herramientas de IA en CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 14%
+source-wordcount: '326'
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -30,6 +30,7 @@ ht-degree: 14%
         - [Planifique su implementación](./chat/use-cases/data-insights/implementation-guide.md)
         - [Generación de una lista de comprobación de implementación](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Validar datos de AA a CJA al actualizar](./chat/use-cases/data-insights/data-validation-aa-cja.md)
+        - [Migración de proyectos AA a CJA](./chat/use-cases/data-insights/migrate-projects-aa-cja.md)
         - [Validar implementación de medios de streaming](./chat/use-cases/data-insights/streaming-media-validation.md)
         - [Validar la calidad del conjunto de datos para informes de CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Validación de los datos de Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
@@ -98,9 +99,11 @@ ht-degree: 14%
   - [Impulso de las prácticas recomendadas](./coworker-for-teams/prompting-best-practices.md)
   - [Metadatos de C2PA](./coworker-for-teams/c2pa-metadata.md)
   - Conectores {#connectors}
-    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
+    - [Databricks](./coworker-for-teams/connectors/databricks.md)
     - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
+    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
+    - [Shopify](./coworker-for-teams/connectors/shopify.md)
   - [Notas de la versión](./coworker-for-teams/release-notes.md)
 - Más recursos {#more-resources}
   - [Actualizaciones de la documentación](./more-resources/documentation-updates.md)

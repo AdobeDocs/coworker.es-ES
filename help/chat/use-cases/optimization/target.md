@@ -1,5 +1,5 @@
 ---
-title: 'Target y compañeros de trabajo: Analice, diagnostique e inicie actividades de Adobe Target'
+title: 'Target y compañeros de trabajo: Analizar, diagnosticar e iniciar actividades de Adobe Target'
 description: Descubra cómo Coworker lleva la IA auténtica a Adobe Target, lo que le ayuda a analizar el rendimiento, diagnosticar problemas e iniciar actividades para su programa de optimización.
 feature: AI Tools
 role: User
@@ -11,8 +11,8 @@ jira: KT-22598
 nudge: true
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

@@ -1,5 +1,5 @@
 ---
-title: Crear páginas de AEM Sites con Coworker
+title: Crear páginas de AEM Sites con compañeros de trabajo
 description: Aprenda a crear páginas de AEM Sites con Adobe CX Enterprise Coworker añadiendo una nueva promoción creada a partir de un fragmento de contenido visual utilizando un lenguaje natural.
 version: Experience Manager as a Cloud Service
 role: Leader, User, Developer
@@ -13,7 +13,7 @@ product_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
