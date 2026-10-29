@@ -4,7 +4,9 @@ title: Metadatos de C2PA en Coworker para equipos
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+  - id: a17f56ef-32e3-5ef7-b044-4479a09ffbc1
+    internal-label: Coworker for teams
+source-git-commit: d786b58a4a88126d0875c504e1a8e5d6b39150e6
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 4%
@@ -38,6 +40,6 @@ El compañero de trabajo de los equipos conserva los metadatos de C2PA asociados
 
 ## Recursos adicionales {#resources}
 
-* [Transparencia de contenido de IA generativa](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency){target="_blank"}
-* [Directrices de usuario de IA generativa de Adobe Experience Cloud](https://www.adobe.com/es/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}
-* [Mecanismos de protección y limitaciones](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}
+* [Transparencia de contenido de IA generativa](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency){target="_blank"}
+* [Directrices de usuario de IA generativa de Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}
+* [Mecanismos de protección y limitaciones](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}
