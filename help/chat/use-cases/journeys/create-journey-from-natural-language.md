@@ -11,7 +11,7 @@ jira: KT-22081
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 1%
@@ -23,9 +23,9 @@ Tradicionalmente, la creación de recorridos de cliente requiere una amplia conf
  
 Al automatizar el proceso de configuración inicial, los equipos pueden dedicar menos tiempo a crear recorridos desde cero y más tiempo a refinar las experiencias de los clientes y los resultados empresariales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496879/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
 
 ## Consulte también
 
-- [Journey Agent](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la capacidad de IA subyacente que impulsa la creación de recorridos en el chat de Coworker.
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la capacidad de IA subyacente que impulsa la creación de recorridos en el chat de Coworker.
 - [Más flujos de trabajo de Coworker Chat](../workflows.md#journeys)

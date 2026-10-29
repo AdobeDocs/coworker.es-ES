@@ -10,7 +10,7 @@ jira: KT-22312
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 1%
@@ -26,10 +26,10 @@ En esta demostración, verá cómo se utiliza la función de fidelidad de Adobe 
  
 El vídeo muestra el complemento de fidelidad y su habilidad de administración de desafíos, una capacidad con tecnología de IA que ayuda a los especialistas en marketing a crear, editar y administrar los desafíos de fidelidad mediante un lenguaje natural en lugar de configurar manualmente cada configuración en la interfaz de usuario.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496541/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
 
 ## Consulte también
 
-- [Journey Agent](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent), para otras funcionalidades de IA de AJO disponibles a través de Coworker Chat, como la creación de recorridos, análisis y simulación.
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent), para otras funcionalidades de IA de AJO disponibles a través de Coworker Chat, como la creación de recorridos, análisis y simulación.
 - [Administración de retos de fidelización](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#loyalty-challenge-management){target="_blank"} en la documentación de Adobe Journey Optimizer.
 - [Más flujos de trabajo de Coworker Chat](../workflows.md#journeys)

@@ -11,7 +11,7 @@ jira: KT-22501
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -25,4 +25,4 @@ Por ejemplo, los compañeros de trabajo pueden revisar el contenido generado aut
 
 El colaborador no solo identifica los problemas, sino que también ofrece sugerencias útiles. Por ejemplo, si un pie de ilustración es demasiado genérico o carece de call to action, proporciona una versión revisada que cumple los estándares de su marca, junto con las etiquetas correspondientes. Este proceso optimiza la creación de contenido y garantiza el cumplimiento de la marca con un esfuerzo mínimo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502705/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502691/?learn=on&enablevpops)

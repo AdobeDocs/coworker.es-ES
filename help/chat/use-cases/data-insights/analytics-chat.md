@@ -4,7 +4,7 @@ description: Configure Adobe CX Enterprise Coworker Chat para analizar los datos
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '2182'
 ht-degree: 4%
@@ -335,7 +335,7 @@ Para abrir una visualización en un nuevo proyecto de Analysis Workspace:
 
 1. (Opcional) Comparta su proyecto de Workspace con quien desee.
 
-   Para obtener más información sobre Analysis Workspace, consulte [Información general de Analysis Workspace](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/home) en la documentación de Customer Journey Analytics o [Información general de Analysis Workspace](https://experienceleague.adobe.com/es/docs/analytics/analyze/analysis-workspace/home) en la documentación de Adobe Analytics.
+   Para obtener más información sobre Analysis Workspace, consulte [Información general de Analysis Workspace](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/home) en la documentación de Customer Journey Analytics o [Información general de Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home) en la documentación de Adobe Analytics.
 
 ## Próximos pasos
 
