@@ -4,14 +4,14 @@ description: Configure Adobe CX Enterprise Coworker Chat para analizar los datos
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
 workflow-type: tm+mt
-source-wordcount: '2182'
+source-wordcount: '2220'
 ht-degree: 4%
 ---
 # Introducción al análisis de datos con Coworker Chat
 
-Configure Adobe CX Enterprise Coworker Chat para analizar las vistas de datos de Customer Journey Analytics o los grupos de informes de Adobe Analytics y, a continuación, siga un ejemplo práctico. Para obtener una descripción general de lo que puede hacer con el chat con compañeros, incluidos casos de uso, habilidades y prácticas recomendadas, consulte [Analizar datos con el chat con compañeros](/help/chat/use-cases/data-insights/analytics-overview.md).
+Configure Adobe CX Enterprise Coworker Chat para analizar las vistas de datos de Customer Journey Analytics o los grupos de informes de Adobe Analytics y, a continuación, siga un ejemplo práctico. Para obtener una descripción general de lo que puede hacer con el chat con compañeros, incluidos casos de uso, habilidades y prácticas recomendadas, consulte [Analizar datos con el chat con compañeros](/help/chat/use-cases/data-insights/analytics-overview.md). Para usar Colaborador en un panel de chat en Customer Journey Analytics Analysis Workspace, consulta [Usar la experiencia del producto para Colaborador](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/coworker) en la guía de Customer Journey Analytics.
 
 Antes de empezar, conozca la interfaz de Chat del compañero y las opciones de personalización y, a continuación, asegúrese de que el compañero esté conectado a Customer Journey Analytics o Adobe Analytics y a las vistas de datos o grupos de informes relevantes.
 

@@ -4,9 +4,9 @@ description: Consulte los artículos y vídeos nuevos y actualizados en la docum
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '266'
 ht-degree: 0%
 ---
 # Actualizaciones de la documentación {#documentation-updates}
@@ -15,7 +15,9 @@ Utilice esta página para buscar contenido nuevo y actualizado de forma sustanci
 
 ## Octubre de 2026 {#oct-2026}
 
-<!-- FLAG: Update the date to the publish date of the migration article. Rollout and GA dates are TBD. -->
+**29 de octubre de 2026**
+
+* Actualizado: [Introducción al chat con compañeros](../chat/ui-guide.md). La tabla de disponibilidad ahora muestra que la experiencia del producto está disponible en Customer Journey Analytics.
 
 **28 de octubre de 2026**
 
