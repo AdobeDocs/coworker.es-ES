@@ -11,14 +11,14 @@ jira: KT-22080
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: e8af933a3be8a5a2a6a007c0bba8a0b2bc36bcb2
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 ---
 
 # Evalúe el estado de Experience Platform y cree audiencias a partir de un lenguaje natural con Coworker
 
-La auditoría de cómo se conectan las audiencias, los recorridos, los conjuntos de datos y los destinos suele ser un ejercicio manual y laborioso. En este vídeo, aprenderá cómo los colaboradores pueden obtener una vista operativa completa de su entorno de Adobe Experience Platform (AEP), compararlo con las prácticas recomendadas del sector y utilizar estos resultados para crear una nueva audiencia, todo ello en una sola conversación.
+La auditoría de cómo se conectan las audiencias, los recorridos, los conjuntos de datos y los destinos suele ser un ejercicio manual y laborioso. En este vídeo, aprenderá cómo los colaboradores pueden obtener una visión operativa completa de su entorno de Adobe Experience Platform, compararlo con las prácticas recomendadas del sector y utilizar estos resultados para crear una nueva audiencia, todo ello en una sola conversación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496870/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496848/?learn=on&enablevpops)
