@@ -5,10 +5,10 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
+source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
 workflow-type: tm+mt
-source-wordcount: '2088'
-ht-degree: 2%
+source-wordcount: '2094'
+ht-degree: 3%
 ---
 # Introducción al chat con compañeros {#ui-guide}
 
@@ -25,6 +25,7 @@ La siguiente tabla muestra dónde está disponible cada experiencia.
 | Real-Time CDP | Disponible ahora | Próximamente |
 | Adobe Journey Optimizer | Disponible ahora | Próximamente |
 | Customer Journey Analytics | Disponible ahora | Disponible ahora |
+| Adobe Analytics | Disponible ahora | Próximamente |
 | Workfront | Disponible ahora | Disponible ahora |
 | Target | Disponible ahora | Disponible ahora |
 | AEM | Disponible ahora | Disponible ahora |
@@ -34,7 +35,7 @@ La siguiente tabla muestra dónde está disponible cada experiencia.
 
 Inicie sesión en [!DNL Coworker] con sus credenciales de Adobe.
 
-1. [Inicia sesión](https://experienceleague.adobe.com/es/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) en CX Enterprise con tu Adobe ID.
+1. [Inicia sesión](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) en CX Enterprise con tu Adobe ID.
 
    Después de iniciar sesión, puede abrir [!DNL Coworker] desde el menú de la aplicación [!DNL CX Enterprise] o mediante un vínculo directo:
 
@@ -46,7 +47,7 @@ Inicie sesión en [!DNL Coworker] con sus credenciales de Adobe.
 
 ## Conozca los conceptos básicos de Coworker Chat
 
->[!VIDEO](https://video.tv.adobe.com/v/3498570?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Especifique las preferencias de Compañero {#preferences}
 
@@ -57,7 +58,7 @@ En la parte inferior izquierda de la interfaz, puede especificar las opciones y 
 | Configuración/opción | Úselo para lo siguiente |
 | --- | --- |
 | Nombre de cuenta y correo electrónico | Confirme la cuenta de Adobe con la que ha iniciado sesión. |
-| **[!UICONTROL Notificaciones]** (icono de campana) | Ver tus [notificaciones](https://experienceleague.adobe.com/es/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
+| **[!UICONTROL Notificaciones]** (icono de campana) | Ver tus [notificaciones](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
 | **[!UICONTROL Tema]** | Cambiar entre los temas Claro y Oscuro. |
 | **[!UICONTROL Configuración de la aplicación]** | Ver los detalles de la cuenta y la configuración de Workspace. |
 | **[!UICONTROL Preferencias]** | Abra su cuenta [preferencias](https://experienceleague.adobe.com/es/docs/core-services/interface/features/account-preferences). La flecha indica que la página se abre fuera de Compañero de trabajo. |

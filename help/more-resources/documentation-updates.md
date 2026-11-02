@@ -4,14 +4,20 @@ description: Consulte los artículos y vídeos nuevos y actualizados en la docum
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
+source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 0%
+source-wordcount: '295'
+ht-degree: 1%
 ---
 # Actualizaciones de la documentación {#documentation-updates}
 
 Utilice esta página para buscar contenido nuevo y actualizado de forma sustancial en la documentación de CX Enterprise Coworker. Las actualizaciones se enumeran por mes, empezando por el más reciente. Para ver los cambios de producto en Colaborador para equipos, consulte las [Notas de la versión de Colaborador para equipos](../coworker-for-teams/release-notes.md).
+
+## Noviembre de 2026 {#nov-2026}
+
+**2 de noviembre de 2026**
+
+* Actualizado: [descripción general de CX Enterprise Coworker](../home.md) y [Introducción al chat con compañeros](../chat/ui-guide.md). Adobe Analytics ahora aparece como una aplicación donde Chat del compañero está disponible.
 
 ## Octubre de 2026 {#oct-2026}
 
