@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Utilice CX Enterprise Coworker para crear un recorrido en canales múltiples a partir de un mensaje de texto sin formato y generar contenido de correo electrónico y SMS. En este vídeo, vea cómo simular rutas de ramificación y revisar diagnósticos para identificar problemas de configuración.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504709?captions=spa&learn=on)
