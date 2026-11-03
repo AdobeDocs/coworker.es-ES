@@ -6,9 +6,9 @@ description: Obtenga información sobre las herramientas de IA en CX Enterprise.
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 98a80334614960b3d700db7d85313c593c603e23
+source-git-commit: ee1ca012668a5800e6a653d64700f7a732a111b0
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '335'
 ht-degree: 14%
 ---
 
@@ -91,6 +91,7 @@ ht-degree: 14%
     - [Administración de complementos para su organización](./customizations/plugins/manage-plugins-for-your-org.md)
   - Conectores externos {#external-connectors}
     - {hide-from-toc}[Genio Databricks](./customizations/external-connectors/databricks-genie.md)
+    - {hide-from-toc}[Google Ads](./customizations/external-connectors/google-ads.md)
     - {hide-from-toc}[IA de Snowflake Cortex](./customizations/external-connectors/snowflake.md)
   - Memoria {#memory}
     - [¿Qué es la memoria?](./customizations/memory/what-is-memory.md)
