@@ -6,10 +6,10 @@ description: Obtenga información sobre las herramientas de IA en CX Enterprise.
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 34422092afceef569f2797f6f54d7fe133734e97
+source-git-commit: 98a80334614960b3d700db7d85313c593c603e23
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 15%
+source-wordcount: '333'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -89,6 +89,9 @@ ht-degree: 15%
   - Complementos {#plugins}
     - [¿Qué son los complementos?](./customizations/plugins/what-are-plugins.md)
     - [Administración de complementos para su organización](./customizations/plugins/manage-plugins-for-your-org.md)
+  - Conectores externos {#external-connectors}
+    - {hide-from-toc}[Genio Databricks](./customizations/external-connectors/databricks-genie.md)
+    - {hide-from-toc}[IA de Snowflake Cortex](./customizations/external-connectors/snowflake.md)
   - Memoria {#memory}
     - [¿Qué es la memoria?](./customizations/memory/what-is-memory.md)
 - Compañero de trabajo para equipos {#coworker-for-teams}
