@@ -25,5 +25,5 @@ Describa el recorrido que desea crear y su compañero lo redactará en Adobe Jou
 
 ## Consulte también
 
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la capacidad de IA subyacente que impulsa la creación de recorridos en el chat de Coworker.
+- [Journey Agent](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la capacidad de IA subyacente que impulsa la creación de recorridos en el chat de Coworker.
 - [Más flujos de trabajo de Coworker Chat](../workflows.md#journeys)
