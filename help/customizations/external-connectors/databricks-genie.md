@@ -8,9 +8,9 @@ product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 hide: true
-source-git-commit: 39953e05bb5c7fede783fa344bcc846eaaa9b933
+source-git-commit: 4f03df081c098fb1dc1044cb022663ce4d9b3d86
 workflow-type: tm+mt
-source-wordcount: '1577'
+source-wordcount: '1605'
 ht-degree: 1%
 ---
 
@@ -131,8 +131,6 @@ Cuando un administrador haya configurado el conector, ábralo desde su propia vi
 1. Encuentra la tarjeta **[!UICONTROL Databricks Genie]**. Si su organización no ha configurado el conector, la tarjeta muestra **[!UICONTROL No configurado]** y **[!UICONTROL No disponible aún. El administrador debe configurar esto.]** No hay ningún botón **[!UICONTROL Configurar]** para los miembros, así que pídale al administrador que [configure el conector](#configure-organization).
 
 1. Si su organización utiliza una entidad de seguridad de servicio, la tarjeta muestra **[!UICONTROL Disponible a través de su organización]**. No es necesario que inicie sesión. Para comprobar la conexión, abra los detalles del conector y seleccione **[!UICONTROL Probar conexión]**.
-
-   ![Página de conectores externos de usuario que muestra la tarjeta Databricks Genie con un estado Disponible a través de su organización y un botón de prueba.](./assets/databricks-genie/member-connectors.png){width="700" zoomable="yes"}
 
    Una prueba que se realizó correctamente muestra **[!UICONTROL Conexión correcta]** y la cantidad de herramientas disponibles.
 
