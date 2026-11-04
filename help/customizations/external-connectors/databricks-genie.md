@@ -8,9 +8,9 @@ product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 hide: true
-source-git-commit: d0099a2e082b15db77876039604d4d37e77255e2
+source-git-commit: 39953e05bb5c7fede783fa344bcc846eaaa9b933
 workflow-type: tm+mt
-source-wordcount: '1635'
+source-wordcount: '1577'
 ht-degree: 1%
 ---
 
@@ -66,8 +66,6 @@ Los administradores ponen el conector [!DNL Databricks Genie] a disposición de 
 
 1. Abra **[!UICONTROL Personalizaciones]**, seleccione **[!UICONTROL Organización]** y luego seleccione **[!UICONTROL Conectores externos]**. En la tarjeta **[!UICONTROL Databricks Genie]**, seleccione **[!UICONTROL Configurar]**.
 
-   ![Página de conectores externos de organización que muestra la tarjeta de Genie de Databricks con el estado No configurado.](./assets/databricks-genie/org-connectors.png){width="700" zoomable="yes"}
-
 1. En el cuadro de diálogo **[!UICONTROL Conectar genio de Databricks]**, escriba la URL de área de trabajo o la URL de MCP [!DNL Genie One] en **[!UICONTROL URL de servidor]**. El compañero guarda el origen en este formato:
 
    ```text
@@ -118,8 +116,6 @@ Los administradores ponen el conector [!DNL Databricks Genie] a disposición de 
 
 1. Revise **[!UICONTROL Acceso y permisos]** y, a continuación, seleccione **[!UICONTROL Guardar conexión]**. La tarjeta **[!UICONTROL Databricks Genie]** muestra **[!UICONTROL Configuración guardada]**.
 
-   ![Página de conectores externos de organización que muestra la tarjeta de Genie de Databricks con un estado de configuración guardada y un botón de configuración de vista.](./assets/databricks-genie/org-saved.png){width="700" zoomable="yes"}
-
    Seleccione **[!UICONTROL Ver configuración]** para revisar el espacio de trabajo, la autenticación, las herramientas habilitadas y el tiempo de espera de la herramienta. Luego selecciona **[!UICONTROL Probar]** para comprobar la conexión.
 
    ![Se guardaron detalles del conector de barras de datos que muestran el origen, la autenticación, la directiva de herramientas con cuatro herramientas permitidas, el tiempo de espera de la herramienta y la lista de herramientas.](./assets/databricks-genie/org-details.png){width="700" zoomable="yes"}
@@ -133,8 +129,6 @@ Cuando un administrador haya configurado el conector, ábralo desde su propia vi
 1. Abra **[!UICONTROL Personalizaciones]**, seleccione **[!UICONTROL Usuario]** y, a continuación, seleccione **[!UICONTROL Conectores externos]**.
 
 1. Encuentra la tarjeta **[!UICONTROL Databricks Genie]**. Si su organización no ha configurado el conector, la tarjeta muestra **[!UICONTROL No configurado]** y **[!UICONTROL No disponible aún. El administrador debe configurar esto.]** No hay ningún botón **[!UICONTROL Configurar]** para los miembros, así que pídale al administrador que [configure el conector](#configure-organization).
-
-   ![Página de conectores externos de usuario que muestra la tarjeta de Genie de Databricks con el estado No configurado y un mensaje que indica que el administrador debe configurarla.](./assets/databricks-genie/member-not-configured.png){width="700" zoomable="yes"}
 
 1. Si su organización utiliza una entidad de seguridad de servicio, la tarjeta muestra **[!UICONTROL Disponible a través de su organización]**. No es necesario que inicie sesión. Para comprobar la conexión, abra los detalles del conector y seleccione **[!UICONTROL Probar conexión]**.
 
