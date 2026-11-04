@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Cargue una imagen de diagrama de flujo, como una diapositiva de PowerPoint, en CX Enterprise Coworker. En este vídeo, vea cómo revisar el mensaje extraído de la imagen, especificar el evento de déclencheur y guardar un borrador de recorrido editable en Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504868/?captions=spa&learn=on&enablevpops)

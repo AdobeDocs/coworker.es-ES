@@ -23,7 +23,7 @@ ht-degree: 1%
 
 Describa el recorrido que desea crear y su compañero lo redactará en Adobe Journey Optimizer. En este vídeo, vea cómo el Compañero de trabajo configura los déclencheur, el tiempo, los canales y la lógica de decisión para que pueda centrarse en revisar y refinar el recorrido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496879/?captions=spa&learn=on&enablevpops)
 
 ## Consulte también
 
