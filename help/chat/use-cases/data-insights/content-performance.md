@@ -28,7 +28,7 @@ Para utilizar los casos de uso de esta página, necesita lo siguiente:
 
 * Chat de compañeros conectado a sus vistas de datos de Customer Journey Analytics o a sus grupos de informes de Adobe Analytics. Ver [Introducción al análisis de datos con Coworker Chat](/help/chat/use-cases/data-insights/analytics-chat.md).
 * Vea el acceso a las vistas de datos o a los grupos de informes que desee analizar. El chat de compañeros hereda sus permisos de Customer Journey Analytics o Adobe Analytics.
-* Vista de datos configurada para Content Analytics. Consulte [Configuración de Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration) en la guía de Customer Journey Analytics.
+* Vista de datos configurada para Content Analytics. Consulte [Configuración de Content Analytics](https://experienceleague.adobe.com/es/docs/analytics-platform/using/content-analytics/configuration/configuration) en la guía de Customer Journey Analytics.
 
 ## Casos de uso
 
