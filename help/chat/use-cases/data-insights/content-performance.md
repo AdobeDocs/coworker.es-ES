@@ -4,9 +4,9 @@ description: Utilice el chat de compañeros para encontrar lo que el contenido g
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '608'
 ht-degree: 1%
 ---
 
@@ -47,7 +47,7 @@ El compañero de trabajo emplea las siguientes habilidades en los casos de uso d
 
 | Habilidad | Se usa para |
 | --- | --- |
-| `cja`,`analyze-content` <br/> (disponibilidad limitada) | Encuentra lo que el contenido ganador tiene en común<br>Atribuye los ingresos al contenido que ven los clientes<br>Compara los elementos creativos en la web y móviles<br>Sabe qué elementos visuales mueven a cada audiencia<p>Para obtener más información, consulte [Hacer preguntas sobre tu contenido](/help/chat/use-cases/data-insights/ask-content-questions.md).</p> |
+| `cja`,`analyze-content` | Encuentra lo que el contenido ganador tiene en común<br>Atribuye los ingresos al contenido que ven los clientes<br>Compara los elementos creativos en la web y móviles<br>Sabe qué elementos visuales mueven a cada audiencia<p>Para obtener más información, consulte [Hacer preguntas sobre tu contenido](/help/chat/use-cases/data-insights/ask-content-questions.md).</p> |
 
 ## Sugerencias para obtener mejores resultados
 
@@ -60,6 +60,6 @@ El compañero de trabajo emplea las siguientes habilidades en los casos de uso d
 
 ## Próximos pasos
 
-* Para saber cómo Coworker responde preguntas sobre contenido, consulta [Hacer preguntas sobre tu contenido](/help/chat/use-cases/data-insights/ask-content-questions.md) (disponibilidad limitada).
+* Para saber cómo Coworker responde a preguntas sobre contenido, consulta [Hacer preguntas sobre tu contenido](/help/chat/use-cases/data-insights/ask-content-questions.md).
 * Para obtener una descripción general del análisis de datos con Coworker Chat, incluidos los demás dominios de análisis y prácticas recomendadas, consulte [Analizar datos con Coworker Chat](/help/chat/use-cases/data-insights/analytics-overview.md).
 * Para configurar el chat de compañeros y ver un ejemplo que funcione, consulta [Análisis de datos con el chat de compañeros](/help/chat/use-cases/data-insights/analytics-chat.md).
