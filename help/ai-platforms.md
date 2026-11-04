@@ -4,9 +4,9 @@ description: Obtenga información acerca de Adobe CX Enterprise Coworker para pl
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 386b8d2ef4c6f36577300b4bcfbf4c82a40292b3
+source-git-commit: b9c3e1915b1f3f182cc91452e60eea13b05f12fa
 workflow-type: tm+mt
-source-wordcount: '2028'
+source-wordcount: '2104'
 ht-degree: 1%
 ---
 
@@ -349,9 +349,10 @@ Después de configurar Coworker en una plataforma compatible, intente estas indi
 
 ## Limitaciones conocidas {#known-limitations}
 
-El compañero en las plataformas de IA no admite todos los patrones de integración.
+El colaborador en plataformas de IA no admite todas las funciones disponibles en la interfaz del colaborador.
 
-* No puede conectar a su compañero a su propio arnés magnético usando MCP.
+* No puede conectar a un compañero a un mazo agéntico personalizado fuera de las plataformas de IA admitidas que se enumeran en este documento. Para solicitar soporte para plataformas de IA adicionales o mazos agénticos a través de MCP, póngase en contacto con su representante de Adobe.
+* La aptitud para la generación de imágenes de Firefly no está disponible cuando se accede a Colaborador a través de Claude. La aptitud permanece disponible en la interfaz de Coworker y en otras plataformas de IA admitidas descritas en este documento. Para utilizar la aptitud de Firefly Image Generation, acceda a Coworker a través de la interfaz de Coworker u otra plataforma de IA compatible.
 
 ## Solución de problemas de compañeros en plataformas de IA {#troubleshoot}
 
