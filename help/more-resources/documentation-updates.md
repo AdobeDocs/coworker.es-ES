@@ -4,7 +4,7 @@ description: Consulte los artículos y vídeos nuevos y actualizados en la docum
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: e5fad76b20f2d10d32fc03131b4c18d220ed8e1e
+source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 1%
@@ -52,7 +52,7 @@ Utilice esta página para buscar contenido nuevo y actualizado de forma sustanci
 
 **16 de octubre de 2026**
 
-* Nuevo: [Crear, simular y analizar recorridos en canales múltiples](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
+* Nuevo: [Crear, simular y analizar recorridos en canales múltiples](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
 * Nuevo: [descripción general del análisis de Recorrido](../chat/use-cases/data-insights/journey-analysis.md)
 * Nuevo: [Resumen del análisis de audiencias y segmentos](../chat/use-cases/data-insights/audience-and-segment-analysis.md)
 * Nuevo: [Resumen del rendimiento empresarial](../chat/use-cases/data-insights/business-performance.md)
