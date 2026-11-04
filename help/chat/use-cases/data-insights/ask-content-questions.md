@@ -4,19 +4,15 @@ description: Pregunte en Coworker Chat sobre su contenido en un lenguaje sencill
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '1042'
 ht-degree: 2%
 ---
 
 # Haga preguntas sobre su contenido
 
-<!-- FLAG: Confirm with the PM: (1) availability (GA, beta, or experimental) and whether this page needs an AVAILABILITY note or `hide: true` until launch, and (2) any required Coworker entitlement. Content Analytics itself has no separate permission: users get access through data views that are configured for Content Analytics (Access control section of analytics-platform.en/help/content-analytics/config/configuration.md). -->
-
->[!AVAILABILITY]
->
->La funcionalidad descrita en este artículo se encuentra en la fase de prueba limitada de la versión y es posible que aún no esté disponible en su entorno. Esta nota se eliminará cuando la funcionalidad esté disponible de forma general.
+<!-- FLAG: Confirm with the PM any required Coworker entitlement. Content Analytics itself has no separate permission: users get access through data views that are configured for Content Analytics (Access control section of analytics-platform.en/help/content-analytics/config/configuration.md). -->
 
 Use el chat de Adobe CX Enterprise Coworker para obtener respuestas precisas sobre el contenido de Adobe Content Analytics. Haga una pregunta específica, como &quot;¿Qué imágenes generaron la mayor cantidad de ingresos el trimestre pasado?&quot;, o general, como &quot;¿Qué tipo de contenido debo priorizar?&quot;. Coworker convierte su pregunta en un análisis sólido.
 
@@ -34,7 +30,7 @@ Para hacer preguntas sobre su contenido, necesita:
 
 * Chat de compañeros conectado a las vistas de datos de Customer Journey Analytics. Ver [Introducción al análisis de datos con Coworker Chat](/help/chat/use-cases/data-insights/analytics-chat.md).
 * Ver el acceso a las vistas de datos que desea analizar. El chat de compañeros hereda sus permisos de Customer Journey Analytics.
-* Vista de datos configurada para Content Analytics. Consulte [Configuración de Content Analytics](https://experienceleague.adobe.com/es/docs/analytics-platform/using/content-analytics/configuration/configuration) en la guía de Customer Journey Analytics.
+* Vista de datos configurada para Content Analytics. Consulte [Configuración de Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration) en la guía de Customer Journey Analytics.
 
 ## Formular una pregunta de contenido
 
@@ -97,11 +93,11 @@ La aptitud comprende cómo se estructuran los datos de Content Analytics. Por ej
 * **ID de experiencia:** Cuando pregunta por una página específica, la aptitud filtra por el ID de experiencia de contenido que identifica esa página.
 * **Atributos generados por IA:** Cada recurso y experiencia se describe mediante atributos como estilo fotográfico, colores, tono y estrategia de persuasión. La aptitud utiliza estos atributos para explicar por qué el contenido tiene un buen rendimiento, no solo qué contenido lo tiene bien.
 
-Para obtener la lista completa de componentes, consulte [Componentes de Content Analytics](https://experienceleague.adobe.com/es/docs/analytics-platform/using/content-analytics/report/components) en la guía de Customer Journey Analytics.
+Para obtener la lista completa de componentes, consulte [Componentes de Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/components) en la guía de Customer Journey Analytics.
 
 ### Atribución
 
-La aptitud elige el modelo de atribución que mejor se adapte a su pregunta. Por ejemplo, una pregunta sobre los clics en una imagen se responde de forma diferente a una pregunta sobre la cantidad de ingresos que contribuyó esa imagen. Para obtener más información, consulte [Modelos de atribución](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models) en la guía de Customer Journey Analytics.
+La aptitud elige el modelo de atribución que mejor se adapte a su pregunta. Por ejemplo, una pregunta sobre los clics en una imagen se responde de forma diferente a una pregunta sobre la cantidad de ingresos que contribuyó esa imagen. Para obtener más información, consulte [Modelos de atribución](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models) en la guía de Customer Journey Analytics.
 
 ### Análisis y flujos de trabajo comunes
 
