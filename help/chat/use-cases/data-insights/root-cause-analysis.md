@@ -53,7 +53,7 @@ Sus compañeros pueden investigar por qué ha cambiado una métrica en un grupo 
 
 Antes de empezar:
 
-1. **Tener acceso al chat de compañeros y conectar con Adobe Analytics.** En Compañero de trabajo, vaya a **Personalizaciones > Integraciones** y confirme que la integración de `aa-mcp` está en la lista y conectada. Si no está disponible, pídale al administrador que compruebe la configuración de su organización. Consulte [Introducción al análisis de datos con Coworker Chat](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/analytics-chat) para obtener instrucciones de configuración.
+1. **Tener acceso al chat de compañeros y conectar con Adobe Analytics.** En Compañero de trabajo, vaya a **Personalizaciones > Integraciones** y confirme que la integración de `aa-mcp` está en la lista y conectada. Si no está disponible, pídale al administrador que compruebe la configuración de su organización. Consulte [Introducción al análisis de datos con Coworker Chat](https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/data-insights/analytics-chat) para obtener instrucciones de configuración.
 1. **Tenga acceso de visualización al grupo de informes de Adobe Analytics que desee analizar.** El compañero hereda los permisos de Adobe Analytics y solo puede utilizar los grupos de informes y los componentes disponibles en Analysis Workspace.
 1. **Elija el grupo de informes que contiene los datos relevantes.** Si puede acceder a varios grupos de informes, asigne un nombre al grupo de informes que desee que utilice su compañero.
 1. **Identifique el cambio que desea que se investigue.** Especifique la métrica y el período de tiempo. Para un análisis más centrado, incluya un periodo de comparación, dimensiones o segmentos relevantes y cualquier hipótesis que desee que pruebe su compañero.
@@ -68,5 +68,5 @@ Reemplace el texto entre corchetes con nombres de componentes y períodos de tie
 
 ## Recursos relacionados
 
-* [Analizar datos con Adobe CX Enterprise Coworker Chat](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/analytics-overview)
-* [Introducción al análisis de datos con Coworker Chat](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/analytics-chat)
+* [Analizar datos con Adobe CX Enterprise Coworker Chat](https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/data-insights/analytics-overview)
+* [Introducción al análisis de datos con Coworker Chat](https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/data-insights/analytics-chat)
