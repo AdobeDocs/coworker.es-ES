@@ -6,9 +6,9 @@ description: Obtenga información sobre las herramientas de IA en CX Enterprise.
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 41216c2254d4c98f05c608f02bc6da31da3dd3c6
+source-git-commit: b7d069b0ebd8fb68e3ffae62cc57d4b91dd248f5
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '359'
 ht-degree: 13%
 ---
 
@@ -59,6 +59,7 @@ ht-degree: 13%
       - [Creación de un recorrido con lenguaje natural](./chat/use-cases/journeys/create-journey-from-natural-language.md)
       - [Creación de un recorrido a partir de una imagen](./chat/use-cases/journeys/create-journey-from-image.md)
       - [Simulación de un recorrido mediante Coworker](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
+      - [Acelerar la participación del cliente](./chat/use-cases/journeys/accelerate-personalized-customer-engagement.md)
       - [Comparar versiones de recorrido mediante Coworker](./chat/use-cases/journeys/journey-version-comparison.md)
       - [Creación, simulación y análisis de recorridos entre canales](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
     - Lealtad {#loyalty}
