@@ -25,7 +25,7 @@ Use el chat de Adobe CX Enterprise Coworker para investigar por qué ha cambiado
 
 El siguiente vídeo muestra cómo Coworker combina la IA conversacional con Customer Journey Analytics. Aprenda a hacer preguntas en lenguaje natural, visualizar resultados, identificar tendencias significativas y descubrir factores que impulsan el rendimiento sin crear consultas manuales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496855/?captions=spa&learn=on&enablevpops)
 
 ### Requisitos previos
 
