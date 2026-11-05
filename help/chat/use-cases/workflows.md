@@ -4,7 +4,7 @@ title: Flujos de trabajo de chat
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
+source-git-commit: 41216c2254d4c98f05c608f02bc6da31da3dd3c6
 workflow-type: tm+mt
 source-wordcount: '8820'
 ht-degree: 6%
@@ -123,7 +123,7 @@ El chat de compañeros de trabajo le permite consultar, analizar y actuar en los
 | [AA ↔ validación de datos de CJA](data-insights/data-validation-aa-cja.md) | Compare, audite y concilie datos entre Adobe Analytics y Customer Journey Analytics, especialmente al actualizar de Adobe Analytics a Customer Journey Analytics | `aa-cja-validation`, `cja`, `aa`, `dx-api` | ADOBE ANALYTICS + CJA | &quot;Comparar mi grupo de informes AA con mi vista de datos de CJA&quot; <br> &quot;Validar vistas de página entre AA y CJA&quot; |
 | [Migrar proyectos AA a CJA](data-insights/migrate-projects-aa-cja.md) (disponibilidad limitada) | Valide, asigne y migre proyectos de Adobe Analytics y sus componentes asociados a Customer Journey Analytics y, a continuación, compruebe el estado de migración <!-- FLAG: No dedicated skill yet; the tools run through the aa-mcp integration. Update the Skills column when a skill is released. --> | Ninguno <br/>(utiliza la integración `aa-mcp`) | ADOBE ANALYTICS + CJA | &quot;Deseo migrar componentes de AA a CJA&quot; <br> &quot;¿Qué dimensiones y métricas de mi grupo de informes no están asignadas a mi vista de datos?&quot; |
 | [Validar la calidad del campo y el conjunto de datos](data-insights/data-validation-aep.md) | Ejecute validación estadística y semántica en conjuntos de datos y campos de Experience Platform para detectar problemas de calidad de datos después de la implementación o de forma continua <!--TODO: confirm skill ID(s) with engineering before publishing--> | `data-validation` | Adobe Experience Platform | &quot;Validar el conjunto de datos Ejemplo de electrónica 1000&quot; <br> &quot;Validar el campo de correo electrónico en el conjunto de datos Customers_2024&quot; |
-| Serie temporal operativa y análisis causal | Consultar y analizar datos de series temporales históricas para audiencias, conjuntos de datos y recorridos con atribución causal | `operational-stats-causal-analysis` | Todas las solicitudes elegibles | &quot;Mostrarme las tendencias de tamaño de audiencia de los últimos 90 días&quot; <br> &quot;¿Por qué aumentó el recuento de filas del conjunto de datos el 3 de marzo?&quot; |
+| [Serie temporal operativa y análisis causal](audiences/why-your-audience-size-changed.md) | Consultar y analizar datos de series temporales históricas para audiencias, conjuntos de datos y recorridos con atribución causal | `operational-stats-causal-analysis` | Todas las solicitudes elegibles | &quot;Mostrarme las tendencias de tamaño de audiencia de los últimos 90 días&quot; <br> &quot;¿Por qué aumentó el recuento de filas del conjunto de datos el 3 de marzo?&quot; |
 | Crear habilidades personalizadas de CJA | Convierta los patrones analíticos en habilidades reutilizables y repetibles que persisten entre sesiones | `cja-skill-creator` | Customer Journey Analytics (CJA) | &quot;Convierta este análisis de ingresos semanal en una aptitud reutilizable&quot; <br> &quot;Guarde esto como una aptitud para los informes mensuales de funnel&quot; |
 
 ## Públicos
