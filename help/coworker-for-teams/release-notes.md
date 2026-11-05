@@ -6,16 +6,86 @@ product_v2:
     internal-label: Coworker
   - id: a17f56ef-32e3-5ef7-b044-4479a09ffbc1
     internal-label: Coworker for teams
-source-git-commit: d786b58a4a88126d0875c504e1a8e5d6b39150e6
+source-git-commit: 0246505e521b780295f17b3964ec2f0a57fc41fd
 workflow-type: tm+mt
-source-wordcount: '4474'
+source-wordcount: '4892'
 ht-degree: 0%
 ---
 # Notas de la versión de Adobe CX Enterprise Coworker para equipos {#release-notes}
 
 Las versiones de Coworker para equipos funcionan con un modelo de entrega continua que permite un enfoque más escalable y gradual de la implementación de funcionalidades.
 
+## Noviembre de 2026 {#nov-2026}
+
+**Fecha de la versión: 3 de noviembre de 2026**
+
+* Cree campañas sin salir de la conversación para visitar el tablero
+* Revise los resultados de la campaña juntos a medida que estén disponibles
+* Localice contenido nuevo y actualizado sin perder su lugar
+* Mantener mensajes y archivos adjuntos no enviados al visitar el tablero de campañas
+* Las vistas previas de campañas anteriores conservan el contenido que revisó originalmente
+* Vista previa de correos electrónicos en diseños de escritorio y móviles antes de enviar
+* Cambiar variantes de correo electrónico con pestañas más claras y previsualizaciones de imagen
+* Cambiar las variantes de correo electrónico mantiene su lugar en la página
+* Edición de correos electrónicos anchos sin perder el acceso a los controles de formato
+* Los esquemas de edición de correo electrónico y los controladores de tamaño permanecen alineados
+* Los campos de correo electrónico sin cambiar ya no almacenan en déclencheur los ahorros innecesarios
+* Los borradores de correo electrónico mantienen las ediciones más recientes cuando terminan los guardados anteriores
+* Eliminar correos electrónicos de campaña no utilizados sin eliminar su contenido guardado
+* Ver qué borradores de correo electrónico no están en el flujo de trabajo
+* Los documentos de campaña descargados conservan las vistas previas de correo electrónico y los vínculos de campaña de trabajo
+* Elige fechas directamente cuando tu conversación te las pida
+* Las respuestas a la conversación permanecen vinculadas a la solicitud pendiente correcta
+* Las solicitudes de archivo solo aceptan los tipos de archivos adjuntos que necesitan
+* Administrar contactos suprimidos individualmente o importarlos desde CSV
+* Descargar la lista de supresión completa independientemente de los filtros activos
+* Buscar audiencias de campaña guardadas a través de sus listas de contactos vinculadas
+* Examine las ideas de campañas con mayor comodidad en pantallas más pequeñas
+* Los resultados de búsqueda vacíos son distintos de las colecciones de campañas vacías
+* Vuelva a intentar cargar las plantillas sin perder los controles de búsqueda
+* Las direcciones de sitio web de marca no válidas se explican junto al campo
+* Las ilustraciones de carga de CSV permanecen visibles junto con las demás
+* La ampliación de los horarios de lanzamiento deja más espacio para los controles cercanos
+* Abra artículos de ayuda en su idioma preferido, si es compatible
+* El progreso y los resultados de la conexión son más claros al vincular cuentas
+* Vuelva de forma segura a la campaña después de conectar una cuenta
+* Las cuentas personales ya no muestran controles de administración de equipos no disponibles
+* Cambiar espacios de trabajo sin errores de acceso incorrectos
+* La creación de Workspace explica cuándo se requiere el acceso de administrador de la organización
+* Si está disponible, revise y edite el perfil comercial guardado
+* El perfil empresarial guarda y detecta los cambios conflictivos antes de reemplazarlos
+* La navegación del perfil empresarial sigue la sección elegida sin parpadeos
+* Cuando esté disponible, conecte LinkedIn y elija su identidad de publicación
+* Previsualizar borradores de publicaciones sociales en conversaciones y tableros de campañas
+* Las variantes de publicaciones sociales se ajustan más cómodamente a paneles de conversación estrechos
+* Leer los nombres de cuentas sociales de forma coherente en las previsualizaciones de campañas
+* Editar imágenes sociales con Adobe Express si es compatible
+* Launch comprueba que coinciden los canales de correo electrónico y sociales que utiliza
+* Ver cuándo es necesario volver a conectar las cuentas sociales antes del lanzamiento
+* Ver los resultados sociales por separado de los informes de campaña de correo electrónico
+
 ## Octubre de 2026 {#oct-2026}
+
+**Fecha de la versión: 26 de octubre de 2026**
+
+* Conecte Facebook e Instagram a través de los flujos de inicio de sesión del explorador
+* Añada y reemplace logotipos de marca al configurar su marca
+* Las previsualizaciones del logotipo de marca se muestran de forma fiable durante la configuración
+* Revise las consultas de audiencia de data warehouse directamente desde las tarjetas de audiencia
+* Reanudar la incorporación automáticamente después de que su cuenta se active
+* Las conversaciones cuyo nombre ha cambiado mantienen sus títulos y vínculos sincronizados
+* Contraer la navegación de la conversación sin perder etiquetas de acción útiles
+* Desplazar el contenido del correo electrónico ancho sin ampliar el espacio de trabajo circundante
+* Las plantillas duplicadas reciben nombres claros y numerados en su idioma
+* Los controles de programación y las fechas de las campañas siguen sus preferencias de idioma
+* Los documentos de campaña descargados utilizan encabezados y etiquetas localizados
+* Los porcentajes de compatibilidad de correo electrónico siguen el formato de número local
+* Las fechas de creación de la marca siguen su idioma y región preferidos
+* Los controles del editor de correo electrónico y las etiquetas de plantilla utilizan texto localizado
+* Los campos de conexión requeridos explican los errores de validación en el idioma
+* Los distintivos predeterminados y los controles de edición de logotipos permanecen legibles
+* Los vínculos de Campañas antiguas y Essentials llevan a Colaborador para equipos
+* La acción de cierre de sesión es más clara durante la configuración de la prueba
 
 **Fecha de la versión: 21 de octubre de 2026**
 
@@ -313,8 +383,6 @@ Las versiones de Coworker para equipos funcionan con un modelo de entrega contin
 * Dominios y remitentes tiene un asistente de configuración guiada para verificar dominios y agregar remitentes
 * Los borradores de campañas ahora le piden que finalice la configuración de correo electrónico y canal antes de enviar
 * La validación de dominios y remitentes detecta más problemas, incluidos los casos extremos de registros DNS
-* El menú de perfil se ha trasladado a la barra lateral para acceder más rápido
-* Los documentos de Source PDF ahora se muestran como una píldora en los detalles del kit de la marca
 * Varias mejoras de rendimiento y fiabilidad en
 
 **Fecha de la versión: 26 de junio de 2026**
@@ -324,7 +392,6 @@ Las versiones de Coworker para equipos funcionan con un modelo de entrega contin
 * Las sugerencias contextuales aparecen en el tablero de campañas para guiarle por los pasos siguientes
 * La incorporación de nuevos usuarios utiliza los datos de marca reales para personalizar la experiencia de configuración
 * El selector de color de la marca maneja los códigos hexadecimales cortos y se abre en una ventana emergente ordenada
-* Los parámetros de UTM y el límite de mensajes ahora se pueden configurar desde Configuración de aplicación
 * Los vínculos de ayuda ahora abren el contenido más reciente directamente en Experience League
 * Varias mejoras de rendimiento y fiabilidad en
 
@@ -355,8 +422,6 @@ Las versiones de Coworker para equipos funcionan con un modelo de entrega contin
 * Examine y restaure las versiones anteriores del correo electrónico con un panel del historial de versiones nuevas
 * Edite los colores de marca con un selector de primera hexagonal y edite en línea en la página de marca
 * La biblioteca de marcas carga más marcas automáticamente al desplazarse
-* El menú de perfil se ha trasladado a la barra lateral para acceder más rápido
-* Los documentos de Source PDF ahora se muestran como una píldora en los detalles del kit de la marca
 * Varias mejoras de rendimiento y fiabilidad en
 
 **Fecha de la versión: 12 de junio de 2026**
@@ -370,9 +435,6 @@ Las versiones de Coworker para equipos funcionan con un modelo de entrega contin
 * Las respuestas de chat fuera de ámbito sugieren qué preguntar a continuación con mensajes de un solo clic
 * Las exportaciones de Campaign PDF muestran los iconos, la marca del producto y una etiqueta de marca de forma fiable
 * Hable con un experto y los flujos de actualización cargan los detalles de la prueba de forma más fiable
-* La escritura de etiquetas de estilo se expande para mostrar texto completo y un vínculo a la página de marca
-* Inicie una marca desde el estado vacío de la biblioteca con categorías útiles
-* Inicie sesión de nuevo sin problemas cuando caduque la sesión
 * La aplicación ahora se encuentra en coworker-campaigns.adobe.com con la misma experiencia
 * La suscripción de prueba le lleva al siguiente paso correcto después de crear su cuenta
 * Varias mejoras de rendimiento y fiabilidad en
@@ -385,8 +447,6 @@ Las versiones de Coworker para equipos funcionan con un modelo de entrega contin
 * Las importaciones de audiencia CSV ya no muestran una lista duplicada en la tarjeta de audiencia
 * El elemento Chats de la barra lateral se resalta al iniciar una nueva conversación
 * El encabezado de la aplicación ahora solo muestra el asunto del correo electrónico (o &quot;Borrador&quot;) al editar un correo electrónico, lo que elimina el prefijo numérico &quot;N de correo electrónico&quot; para un título más ordenado
-* El menú de perfil se ha trasladado a la barra lateral para acceder más rápido
-* Los documentos de Source PDF ahora se muestran como una píldora en los detalles del kit de la marca
 * Varias mejoras de rendimiento y fiabilidad en
 
 **Fecha de la versión: 10 de junio de 2026**
@@ -400,7 +460,6 @@ Las versiones de Coworker para equipos funcionan con un modelo de entrega contin
 * Vuelva a intentar guardar cuando el editor de correo electrónico encuentre un error temporal
 * Reemplace las imágenes de correo electrónico por dimensiones de tamaño y Adobe Express correctas
 * Cargar listas de audiencias desde CSV con un cuadro de diálogo de importación más claro en el chat
-* La escritura de etiquetas de estilo se expande para mostrar texto completo y un vínculo a la página de marca
 * Inicie una marca desde el estado vacío de la biblioteca con categorías útiles
 * Inicie sesión de nuevo sin problemas cuando caduque la sesión
 * Varias mejoras de rendimiento y fiabilidad en
@@ -511,7 +570,6 @@ Las versiones de Coworker para equipos funcionan con un modelo de entrega contin
 * El encabezado de la aplicación ahora solo muestra el asunto del correo electrónico (o &quot;Borrador&quot;) al editar un correo electrónico, lo que elimina el prefijo numérico &quot;N de correo electrónico&quot; para un título más ordenado
 * El menú de perfil se ha trasladado a la barra lateral para acceder más rápido
 * Los documentos de Source PDF ahora se muestran como una píldora en los detalles del kit de la marca
-* El menú de perfil se ha trasladado a la barra lateral para acceder más rápido
 * Varias mejoras de rendimiento y fiabilidad en
 
 **Fecha de publicación: 18 de abril de 2026**
