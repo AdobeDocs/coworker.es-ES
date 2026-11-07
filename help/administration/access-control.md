@@ -19,7 +19,7 @@ Utilice el control de acceso de Adobe CX Enterprise Coworker para administrar qu
 
 >[!NOTE]
 >
->Su organización debe estar habilitada para que sus compañeros utilicen esta función. Para obtener más información, consulte la [Descripción general del chat de compañeros](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview).
+>Su organización debe estar habilitada para que sus compañeros utilicen esta función. Para obtener más información, consulte la [Descripción general del chat de compañeros](https://experienceleague.adobe.com/es/docs/coworker/content/chat/overview).
 
 ## Cómo se determina el acceso {#how-access-is-determined}
 
