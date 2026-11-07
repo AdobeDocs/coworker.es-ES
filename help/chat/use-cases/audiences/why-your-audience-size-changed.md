@@ -30,7 +30,7 @@ Aprenda cómo [!DNL CX Enterprise Coworker] puede ayudar a investigar cambios in
 
 En este vídeo, verá cómo utilizar indicadores en lenguaje sencillo en Coworker para investigar un aumento inesperado de una audiencia de Adobe Experience Platform antes del inicio de una campaña. El tutorial muestra cómo el análisis causal puede conectar los cambios de tamaño de audiencia con datos operativos, descartar cambios de configuración y mostrar explicaciones probables sin esperar una investigación de ingeniería.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507342/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3507346/?captions=spa&learn=on&enablevpops)
 
 Aprenderá a hacer lo siguiente:
 
