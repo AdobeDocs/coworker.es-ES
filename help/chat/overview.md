@@ -56,4 +56,4 @@ Las siguientes aplicaciones de CX Enterprise son compatibles con Coworker Chat:
 
 ## Vídeo introductorio
 
->[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495970?captions=spa&learn=on){transcript=true}
