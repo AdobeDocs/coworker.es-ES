@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 96c54754b978ac1be0fc5bb0741e9ed073017953
+source-git-commit: 11db1488d950f39ccb8c8019f644e54e1f3b8fa6
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '522'
 ht-degree: 0%
 ---
 # Control de acceso para el compañero {#access-control}
@@ -19,7 +19,7 @@ Utilice el control de acceso de Adobe CX Enterprise Coworker para administrar qu
 
 >[!NOTE]
 >
->Su organización debe estar habilitada para que sus compañeros utilicen esta función. Para obtener más información, consulte la [Descripción general del chat de compañeros](https://experienceleague.adobe.com/es/docs/coworker/content/chat/overview).
+>Su organización debe estar habilitada para que sus compañeros utilicen esta función. Para obtener más información, consulte la [Descripción general del chat de compañeros](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview).
 
 ## Cómo se determina el acceso {#how-access-is-determined}
 
@@ -34,11 +34,11 @@ El acceso de los compañeros de trabajo se controla mediante una configuración 
 
 ## Añadir administradores de compañeros {#add-coworker-admins}
 
-Un administrador de compañeros es un usuario al que se le asignó el rol **[!UICONTROL Administrador de productos]** para [!DNL Adobe Experience Platform] en [!DNL Adobe Admin Console].
+Un administrador de compañeros es un usuario asignado al **[!UICONTROL Administrador de productos]** o al **[!UICONTROL Administrador de sistemas]** para [!DNL Adobe Experience Platform] en [!DNL Adobe Admin Console].
 
 Utilice este vídeo para aprender a añadir administradores de Coworker.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507044?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507041?learn=on){transcript=true}
 
 ## Administrar el acceso de usuario {#manage-user-access}
 
@@ -55,7 +55,7 @@ Utilice este vídeo para aprender a añadir administradores de Coworker.
 
    Utilice este vídeo para aprender a administrar los usuarios de Coworker.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507154?captions=spa&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
 4. En Compañero de trabajo, use **[!UICONTROL Usuarios]** para administrar el acceso de individuos o **[!UICONTROL Grupos de usuarios]** para administrar el acceso de Compañero de trabajo para grupos de usuarios. Se aplica una configuración de grupo de usuarios a sus miembros.
 
