@@ -38,7 +38,7 @@ Un administrador de compañeros es un usuario asignado al **[!UICONTROL Administ
 
 Utilice este vídeo para aprender a añadir administradores de Coworker.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507041?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507044?captions=spa&learn=on){transcript=true}
 
 ## Administrar el acceso de usuario {#manage-user-access}
 
@@ -55,7 +55,7 @@ Utilice este vídeo para aprender a añadir administradores de Coworker.
 
    Utilice este vídeo para aprender a administrar los usuarios de Coworker.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507154?captions=spa&learn=on){transcript=true}
 
 4. En Compañero de trabajo, use **[!UICONTROL Usuarios]** para administrar el acceso de individuos o **[!UICONTROL Grupos de usuarios]** para administrar el acceso de Compañero de trabajo para grupos de usuarios. Se aplica una configuración de grupo de usuarios a sus miembros.
 
