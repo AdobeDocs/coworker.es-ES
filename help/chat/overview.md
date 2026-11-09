@@ -4,10 +4,10 @@ title: Información general de Adobe CX Enterprise Coworker Chat
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
 workflow-type: tm+mt
-source-wordcount: '721'
-ht-degree: 6%
+source-wordcount: '546'
+ht-degree: 8%
 ---
 # Acerca de Coworker Chat {#overview}
 
@@ -27,7 +27,7 @@ Para empezar, consulte [Introducción al chat con compañeros](ui-guide.md).
 
 ## Una evolución de AI Assistant
 
-El chat de compañeros es el siguiente paso después de [AI Assistant](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui) y Adobe Experience Platform Agent Orchestrator. Todo lo que puede hacer en AI Assistant hoy en día, incluidos los conocimientos del producto y las perspectivas operativas y de datos, sigue estando disponible. El chat de compañeros agrega los [componentes básicos](#building-blocks) que permiten que una conversación complete el trabajo, no solo responda preguntas.
+El chat de compañeros es el siguiente paso después de [AI Assistant](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui) y Adobe Experience Platform Agent Orchestrator. Todo lo que puede hacer en AI Assistant hoy en día, incluidos los conocimientos del producto y las perspectivas operativas y de datos, sigue estando disponible. El chat de compañeros de trabajo usa los [componentes básicos de compañeros de trabajo](/help/home.md#building-blocks) que se han compartido para completar el trabajo a través de la conversación, no solo para responder preguntas.
 
 ## La experiencia de chat
 
@@ -53,16 +53,6 @@ Las siguientes aplicaciones de CX Enterprise son compatibles con Coworker Chat:
 * _Real-Time CDP B2B edition (próximamente)_
 * _Adobe Journey Optimizer B2B Edition (próximamente)_
 * _Customer Journey Analytics B2B edition (próximamente)_
-
-## Bloques de creación
-
-Coworker Chat funciona con los componentes básicos de Coworker. Los siguientes componentes básicos ya están disponibles.
-
-* **Arnés de empresa:** el motor que convierte tu objetivo en trabajo completado. Ejecuta un bucle continuo de autocorrección (motivo, selección de una aptitud, ejecución, validación, repetición), recuperándose de errores y trabajando en paralelo hasta que se realiza el trabajo, no solo se intenta.
-* **Habilidades:** libros de reproducción reutilizables, en Markdown simple, para hacer bien cada tarea. El chat de compañeros se envía con habilidades para las tareas de experiencia del cliente más comunes hoy en día y el objetivo es cubrir el trabajo en todas las aplicaciones de Adobe CX Enterprise a lo largo del tiempo.
-* Conectores **MCP:** controla el acceso para actuar en Adobe y sistemas de terceros, con conectores listos para usar y la opción de usar los suyos propios.
-* **Control:** puertas de aprobación, permisos heredados de su organización de Adobe, comprobaciones que se ejecutan antes de que se ejecute una acción y un registro de auditoría completo.
-* **Memoria:** Coworker Chat aprende tus preferencias, decisiones y correcciones en todas las sesiones, desde las reglas de toda la organización hasta tus preferencias personales, para que se agudice cuanto más trabajas con él.
 
 ## Vídeo introductorio
 
