@@ -6,9 +6,9 @@ description: Obtenga información sobre las herramientas de IA en CX Enterprise.
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 3c5387c838bedf96b9f3a3c826b39b6f3414c229
+source-git-commit: 5377963a32db6b195349a198c4158ffb99eaeeec
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '367'
 ht-degree: 13%
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 13%
 - [Adobe CX Enterprise Coworker para plataformas de IA](/help/ai-platforms.md)
 - Administración {#administration}
   - [Control de acceso para el compañero](./administration/access-control.md)
+  - [Auditar eventos de compañeros](./administration/audit.md)
 - Chat de compañeros {#chat}
   - [Acerca de Coworker Chat](./chat/overview.md)
   - [Introducción al chat con compañeros](./chat/ui-guide.md)
