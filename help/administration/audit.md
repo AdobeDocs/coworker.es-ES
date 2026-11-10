@@ -22,4 +22,4 @@ Obtenga información sobre cómo auditar eventos en Adobe CX Enterprise Coworker
 >Su organización debe estar habilitada para que sus compañeros utilicen esta función. La auditoría estará disponible de forma progresiva y es posible que no esté habilitada para todas las organizaciones de compañeros en el momento del lanzamiento. Para obtener más información, consulte la [Descripción general del chat de compañeros](https://experienceleague.adobe.com/es/docs/coworker/content/chat/overview).
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3507041?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507044?captions=spa&learn=on){transcript=true}
