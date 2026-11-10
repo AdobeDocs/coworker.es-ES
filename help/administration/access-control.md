@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: a14bd350d7259294368acdcb08549ea6e084f1c1
+source-git-commit: 756748b585685de6cd0544a46014bc44a4cddc63
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '520'
 ht-degree: 0%
 ---
 # Control de acceso para el compañero {#access-control}
@@ -19,7 +19,7 @@ Utilice el control de acceso de Adobe CX Enterprise Coworker para administrar qu
 
 >[!NOTE]
 >
->Su organización debe estar habilitada para que sus compañeros utilicen esta función. El control de acceso estará disponible de forma progresiva y es posible que no esté habilitado para todas las organizaciones de compañeros en el momento del lanzamiento. Para obtener más información, consulte la [Descripción general del chat de compañeros](https://experienceleague.adobe.com/es/docs/coworker/content/chat/overview).
+>El control de acceso se está desplegando progresivamente a todos los clientes con acceso de Colaborador. Es posible que todavía no vea [!UICONTROL Control de acceso] en su organización. Para obtener más información, consulte la [Descripción general del chat de compañeros](/help/chat/overview.md).
 
 ## Cómo se determina el acceso {#how-access-is-determined}
 
@@ -51,7 +51,7 @@ Un administrador de compañeros es un usuario asignado como **[!UICONTROL Admini
 
    Utilice este vídeo para aprender a administrar los usuarios de Coworker.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507154?captions=spa&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
 4. En Compañero de trabajo, use **[!UICONTROL Usuarios]** para administrar el acceso de individuos o **[!UICONTROL Grupos de usuarios]** para administrar el acceso de Compañero de trabajo para grupos de usuarios. Se aplica una configuración de grupo de usuarios a sus miembros.
 
