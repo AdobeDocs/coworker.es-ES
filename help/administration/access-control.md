@@ -8,18 +8,20 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 756748b585685de6cd0544a46014bc44a4cddc63
+source-git-commit: d9dae093a2a6366154366a9da320f07a891114f2
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '535'
 ht-degree: 0%
 ---
 # Control de acceso para el compañero {#access-control}
 
 Utilice el control de acceso de Adobe CX Enterprise Coworker para administrar quién puede utilizar Coworker y qué capacidades pueden utilizar.
 
+El control de acceso se aplica a los compañeros de trabajo tanto en el carril derecho como en la experiencia de pantalla completa.
+
 >[!NOTE]
 >
->El control de acceso se está desplegando progresivamente a todos los clientes con acceso de Colaborador. Es posible que todavía no vea [!UICONTROL Control de acceso] en su organización. Para obtener más información, consulte la [Descripción general del chat de compañeros](/help/chat/overview.md).
+>El control de acceso se está desplegando progresivamente a todos los clientes con acceso de Colaborador. Es posible que todavía no vea [!UICONTROL Control de acceso] en su organización. Para obtener más información, vea [Obtener ayuda con el acceso](#get-help-with-access).
 
 ## Cómo se determina el acceso {#how-access-is-determined}
 
