@@ -59,7 +59,7 @@ Use [!UICONTROL Control de acceso] en Coworker para administrar el acceso de ind
 
    Utilice este vídeo para aprender a administrar los usuarios de Coworker.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507154?captions=spa&learn=on){transcript=true}
 
 1. Seleccione **[!UICONTROL Usuarios]** para administrar el acceso individual o **[!UICONTROL Grupos de usuarios]** para administrar el acceso de grupo. Se aplica una configuración de grupo de usuarios a sus miembros.
 
