@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: d9dae093a2a6366154366a9da320f07a891114f2
+source-git-commit: ef8141ff251a2900b9f10b77942e1c9097cba59f
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '562'
 ht-degree: 0%
 ---
 # Control de acceso para el compañero {#access-control}
@@ -40,22 +40,28 @@ Un administrador de compañeros es un usuario asignado como **[!UICONTROL Admini
 
 ## Administrar el acceso de usuario {#manage-user-access}
 
+Use [!UICONTROL Control de acceso] en Coworker para administrar el acceso de individuos o grupos de usuarios.
+
+>[!NOTE]
+>
+>Seleccione hasta 100 usuarios o grupos de usuarios por acción masiva. Al exportar usuarios, la exportación incluye solo los usuarios cargados.
+
 1. Abra la experiencia Colaborador. Para obtener instrucciones, consulta [Iniciar sesión en Compañero](/help/chat/ui-guide.md#sign-in).
-2. Abra el menú de perfil y seleccione **[!UICONTROL Configuración de administración]**.
+1. Abra el menú de perfil y seleccione **[!UICONTROL Configuración de administración]**.
 
    ![Inicio de compañero con el control de menú de perfil resaltado.](./assets/access-control/coworker-home.png)
 
    ![Menú de perfil de compañero con la configuración de administración resaltada.](./assets/access-control/admin-settings.png)
 
-3. Seleccione **[!UICONTROL Control de acceso]**.
+1. Seleccione **[!UICONTROL Control de acceso]**.
 
    ![Configuración de administración con la tarjeta de control de acceso resaltada.](./assets/access-control/access-control.png)
 
    Utilice este vídeo para aprender a administrar los usuarios de Coworker.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507154?captions=spa&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
-4. En Compañero de trabajo, use **[!UICONTROL Usuarios]** para administrar el acceso de individuos o **[!UICONTROL Grupos de usuarios]** para administrar el acceso de Compañero de trabajo para grupos de usuarios. Se aplica una configuración de grupo de usuarios a sus miembros.
+1. Seleccione **[!UICONTROL Usuarios]** para administrar el acceso individual o **[!UICONTROL Grupos de usuarios]** para administrar el acceso de grupo. Se aplica una configuración de grupo de usuarios a sus miembros.
 
    Los grupos de usuarios de compañeros de trabajo son independientes de [!DNL Adobe Admin Console] grupos. La sincronización de grupos de usuarios de [!DNL Adobe Admin Console] con el Compañero de trabajo está disponible próximamente.
 
