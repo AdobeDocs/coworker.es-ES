@@ -4,7 +4,7 @@ description: Obtenga información sobre Adobe CX Enterprise Coworker, un compañ
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
+source-git-commit: abb341180786a0d250db4313ad1719a1947151ca
 workflow-type: tm+mt
 source-wordcount: '1367'
 ht-degree: 14%
@@ -14,6 +14,8 @@ ht-degree: 14%
 [!DNL Coworker] es un compañero con tecnología de IA que reimagina la naturaleza del trabajo para organizaciones, equipos e individuos. Automatiza la experiencia del cliente y los flujos de trabajo de marketing para que las organizaciones puedan centrarse en lograr los objetivos comerciales y mejorar los resultados en lugar de coordinar las tareas. Como motor auténtico, Coworker adopta un enfoque innovador en la automatización de los procesos empresariales. Mejora el rendimiento y la precisión del modelo de IA al unir el contexto empresarial, los datos, la inteligencia, la colaboración y la ejecución de habilidades agénticas, con la gobernanza y la supervisión humana integradas.
 
 Coworker está diseñado para organizaciones que ejecutan flujos de trabajo de experiencia del cliente complejos y multifuncionales. Agrupa chat con compañeros y proyectos de compañeros, lo que permite a los profesionales pasar de una sola tarea a un flujo de trabajo completo de varios equipos dentro de la experiencia de compañeros. La gobernanza, las aprobaciones y la supervisión humana están integradas desde el principio. Más información sobre [Adobe for Business](https://business.adobe.com/es/products/cx-enterprise-coworker.html).
+
+<div id="recs-overview-body-1"></div>
 
 ## Bloques de creación {#building-blocks}
 
@@ -162,6 +164,13 @@ CARDS
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 ### Únete a Experience League LIVE
 
