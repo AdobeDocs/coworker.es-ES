@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo configurar Adobe Asset Sourcing Portal para AEM Assets con Coworker y proporcionar acceso al portal con alcance de proveedores. Asigne campos de metadatos personalizados en Adobe Experience Manager Assets y sincronice los metadatos automáticamente a medida que ingiere recursos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508276/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508279/?captions=spa&learn=on&enablevpops)
