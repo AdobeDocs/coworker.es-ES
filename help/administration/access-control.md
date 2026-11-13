@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: ef8141ff251a2900b9f10b77942e1c9097cba59f
+source-git-commit: d3438a28430c6c845cea881e28ab8e22a636edbb
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '571'
 ht-degree: 0%
 ---
 # Control de acceso para el compañero {#access-control}
@@ -25,7 +25,7 @@ El control de acceso se aplica a los compañeros de trabajo tanto en el carril d
 
 ## Cómo se determina el acceso {#how-access-is-determined}
 
-El acceso de los compañeros de trabajo se controla mediante una configuración que abarca toda la organización y las invalidaciones opcionales de usuarios o grupos. La configuración de toda la organización habilita o deshabilita el acceso de Colaborador para los usuarios de su organización. El acceso está habilitado para todos de forma predeterminada.
+El acceso de los compañeros de trabajo se controla mediante una configuración que abarca toda la organización y las invalidaciones opcionales de usuarios o grupos. La configuración de toda la organización habilita o deshabilita el acceso de Colaborador para los usuarios de su organización. El acceso puede estar habilitado o deshabilitado de forma predeterminada para su organización.
 
 | Configuración | Cómo afecta al acceso |
 | --- | --- |
@@ -65,7 +65,7 @@ Use [!UICONTROL Control de acceso] en Coworker para administrar el acceso de ind
 
    Los grupos de usuarios de compañeros de trabajo son independientes de [!DNL Adobe Admin Console] grupos. La sincronización de grupos de usuarios de [!DNL Adobe Admin Console] con el Compañero de trabajo está disponible próximamente.
 
-   La lista Usuarios incluye a los usuarios de su organización. El acceso de compañeros de trabajo está habilitado para estos usuarios de forma predeterminada.
+   La lista Usuarios incluye a los usuarios de su organización. Su acceso depende de la configuración predeterminada de su organización y de las anulaciones de usuarios o grupos.
 
    * **Habilitado:** El usuario o grupo de usuarios está activo.
    * **Deshabilitado:** El usuario o grupo de usuarios está inactivo.
