@@ -4,9 +4,9 @@ title: Flujos de trabajo de chat
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0d2b1c7e146114fac57a894ce1b61727456d263f
+source-git-commit: e8010a31192b717a762510d189f3a8a344b3e2fe
 workflow-type: tm+mt
-source-wordcount: '9190'
+source-wordcount: '9318'
 ht-degree: 6%
 ---
 # Flujos de trabajo de Coworker Chat {#use-cases}
@@ -212,6 +212,18 @@ El chat de compañeros de trabajo le permite consultar, analizar y actuar en los
 **Información relacionada**
 
 * [Compañero de trabajo para la toma de decisiones](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"} proporciona instrucciones detalladas, casos de uso y prácticas recomendadas para la toma de decisiones en Adobe Journey Optimizer.
+
+## Administrador de procesos
+
+>[!AVAILABILITY]
+>
+>El Administrador de procesos está en **beta**. Para obtener más información sobre Process Manager, lea la [descripción general de Process Manager](https://experienceleague.adobe.com/es/docs/experience-platform/process-manager/home).
+
+| Flujo de trabajo | Descripción | Habilidades | Aplicación | Indicadores de ejemplo |
+| --- | --- | --- | --- | --- |
+| Generador de Process Manager | Diseñar, crear, actualizar, cambiar el nombre y eliminar procesos en Process Manager. Enumerar los tipos de tareas disponibles para el Administrador de procesos. | `process-manager-builder` | Administrador de procesos | &quot;Enumerar todos los procesos disponibles para su uso en el Administrador de procesos.&quot; |
+| Operador de ejecución de Process Manager | Iniciar una ejecución, comprobar el estado y el historial de las ejecuciones, averiguar por qué ha fallado una ejecución, volver a ejecutar una ejecución existente, cancelar una ejecución en curso. | `process-manager-run-operator` | Administrador de procesos | &quot;Compruebe el historial de ejecuciones en el proceso de muestra&quot;. |
+| Planificador de Process Manager | Crear, cambiar, pausar, reanudar, enumerar y quitar programaciones de Process Manager | `process-manager-scheduler` | Administrador de procesos | &quot;Enumerar las programaciones del proceso de muestra&quot;. |
 
 ## Canales
 
