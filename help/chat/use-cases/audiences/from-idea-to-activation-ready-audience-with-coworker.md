@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Aprenda a utilizar Coworker para convertir una solicitud en un idioma sin formato en una audiencia de marketing dirigida. Responda preguntas aclaratorias para perfeccionar la audiencia y, a continuación, pida a sus compañeros que lo creen directamente en la plataforma, listo para su activación en todos los destinos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508216/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508219/?captions=spa&learn=on&enablevpops)
