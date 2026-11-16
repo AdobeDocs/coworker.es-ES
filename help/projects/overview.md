@@ -82,6 +82,6 @@ Utilice Proyectos de compañeros para coordinar los flujos de trabajo en torno a
 
 Obtenga información acerca de los proyectos de compañeros de trabajo en este vídeo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508234?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508238?captions=spa&learn=on){transcript=true}
 
 
