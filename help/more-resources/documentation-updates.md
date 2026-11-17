@@ -4,10 +4,10 @@ description: Consulte los artículos y vídeos nuevos y actualizados en la docum
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
+source-git-commit: c29ae8ac2b69dd3d5e52529875a9224cb697ebee
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 0%
+source-wordcount: '539'
+ht-degree: 1%
 ---
 # Actualizaciones de la documentación {#documentation-updates}
 
@@ -15,8 +15,27 @@ Utilice esta página para buscar contenido nuevo y actualizado de forma sustanci
 
 ## Noviembre de 2026 {#nov-2026}
 
+**16 de noviembre de 2026**
+
+* Nuevo: [Acerca de los proyectos de compañeros](../projects/overview.md). Proyectos de compañeros de trabajo tiene disponibilidad limitada.
+* Se Ha Actualizado: [Acerca Del Chat De Compañeros](../chat/overview.md). La lista de aplicaciones compatibles ahora incluye Customer Journey Analytics B2B edition, Content Analytics y Marketing Campaign Analytics. El artículo también vincula a Proyectos de compañeros de trabajo.
+
+**13 de noviembre de 2026**
+
+* Nuevo: [Crear un portal de abastecimiento de recursos con el compañero](../chat/use-cases/brand-visibility/set-up-asset-sourcing-portal.md)
+* Actualizado: [Control de acceso para el compañero](../administration/access-control.md). El artículo ahora establece el límite para acciones masivas (hasta 100 usuarios o grupos de usuarios) y aclara la configuración predeterminada de acceso de Coworker.
+
+**12 de noviembre de 2026**
+
+* Actualizado: [Flujos de trabajo de chat de compañeros](../chat/use-cases/workflows.md). El artículo ahora enumera las habilidades de Process Manager para crear, ejecutar y programar procesos. Process Manager está en versión beta.
+
+**11 de noviembre de 2026**
+
+* Nuevo: [De idea a audiencia lista para la activación](../chat/use-cases/audiences/from-idea-to-activation-ready-audience-with-coworker.md)
+
 **10 de noviembre de 2026**
 
+* Nuevo: [Auditar eventos de compañeros](../administration/audit.md)
 * Actualizado: [Introducción al chat con compañeros](../chat/ui-guide.md). La tabla de disponibilidad ahora enumera Customer Journey Analytics B2B edition, Content Analytics y Marketing Campaign Analytics. La experiencia envolvente está disponible para los tres. La experiencia del producto está disponible en Customer Journey Analytics B2B edition y Content Analytics y llegará pronto a Marketing Campaign Analytics.
 
 **4 de noviembre de 2026**
