@@ -6,10 +6,10 @@ description: Obtenga información sobre las herramientas de IA en CX Enterprise.
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
+source-git-commit: e80cad8019c00fdf6bf101f113e9bbef780d5923
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 12%
+source-wordcount: '389'
+ht-degree: 20%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -61,13 +61,13 @@ ht-degree: 12%
       - [¿Por qué ha aumentado o disminuido mi audiencia?](./chat/use-cases/audiences/why-your-audience-size-changed.md)
     - Recorridos {#journeys}
       - [Creación de un recorrido con lenguaje natural](./chat/use-cases/journeys/create-journey-from-natural-language.md)
-      - [Creación de un recorrido a partir de una imagen](./chat/use-cases/journeys/create-journey-from-image.md)
-      - [Simulación de un recorrido mediante Coworker](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
+      - [Crear un recorrido a partir de una imagen](./chat/use-cases/journeys/create-journey-from-image.md)
+      - [Simular un recorrido mediante Coworker](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
       - [Acelerar la participación del cliente](./chat/use-cases/journeys/accelerate-personalized-customer-engagement.md)
-      - [Comparar versiones de recorrido mediante Coworker](./chat/use-cases/journeys/journey-version-comparison.md)
-      - [Creación, simulación y análisis de recorridos entre canales](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
+      - [Comparar versiones de recorridos con Coworker](./chat/use-cases/journeys/journey-version-comparison.md)
+      - [Crear, simular y analizar recorridos en canales múltiples](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
     - Lealtad {#loyalty}
-      - [Creación de un desafío de lealtad y perspectivas de superficie](./chat/use-cases/journeys/create-loyalty-challenge.md)
+      - [Crear un reto de lealtad y obtener información](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - Optimización {#optimization}
       - [Iniciar actividades de Target](./chat/use-cases/optimization/target.md)
       - [Acelerar la experimentación](./chat/use-cases/optimization/accelerate-experimentation.md)
@@ -97,6 +97,7 @@ ht-degree: 12%
     - [Administrar e iterar en aptitudes](./customizations/skills/manage-and-iterate-on-skills.md)
   - Integraciones {#integrations}
     - [¿Qué son las integraciones?](./customizations/integrations/understanding-integrations-in-coworker.md)
+    - [Activación de la primera integración](./customizations/integrations/enable-your-first-integration.md)
   - Complementos {#plugins}
     - [¿Qué son los complementos?](./customizations/plugins/what-are-plugins.md)
     - [Administración de complementos para su organización](./customizations/plugins/manage-plugins-for-your-org.md)
