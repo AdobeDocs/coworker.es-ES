@@ -2,14 +2,33 @@
 title: Migración de proyectos de Adobe Analytics a Customer Journey Analytics
 description: Utilice a sus colaboradores para validar, asignar y migrar proyectos de Adobe Analytics Workspace y sus componentes a Customer Journey Analytics y, a continuación, compruebe el estado de la migración.
 feature: AI Tools
-role: Admin
+role: Admin, User
 level: Intermediate
+doc-type: Feature Video
+duration: '00:05:41'
+last-substantial-update: 2026-11-20T00:00:00.000Z
+jira: KT-23118
+autotag-review: '2026-11-20T18:24:50.351Z'
+TQID: 'https://experienceleague.adobe.com/FmcRExwh-Qjt5tqi4iKwX0B1m8KoIfRXQHRTI4gH6vE'
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+source-git-commit: 4c82db341547bf3009009a3fea4a88e294ce6c24
 workflow-type: tm+mt
-source-wordcount: '1785'
+source-wordcount: '1795'
 ht-degree: 1%
 ---
 
@@ -27,9 +46,13 @@ El compañero comprueba que las dimensiones y métricas del proyecto están asig
 >
 >La funcionalidad descrita en este artículo se encuentra en la fase de prueba limitada de la versión y es posible que aún no esté disponible en su entorno. Esta nota se eliminará cuando la funcionalidad esté disponible de forma general.
 
+## Comience con un plan paso a paso de AA a CJA
+
+>[!VIDEO](https://video.tv.adobe.com/v/3508619/?learn=on&enablevpops)
+
 >[!IMPORTANT]
 >
->Antes de migrar cualquier proyecto, lea [Prepararse para migrar componentes y proyectos de Adobe Analytics a Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration) en la documentación de Adobe Analytics. Explica cómo prepararse para una migración, qué se incluye, qué elementos causan errores y cómo afectan las asignaciones a toda la organización. Esta información se aplica a las migraciones en Coworker.
+>Antes de migrar cualquier proyecto, lea [Prepararse para migrar componentes y proyectos de Adobe Analytics a Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration) en la documentación de Adobe Analytics. Explica cómo prepararse para una migración, qué se incluye, qué elementos causan errores y cómo afectan las asignaciones a toda la organización. Esta información se aplica a las migraciones en Coworker.
 
 ## Diferencias con la migración en la interfaz de usuario de Adobe Analytics
 
@@ -54,7 +77,7 @@ Para migrar proyectos con Coworker, necesita:
 
 * Derechos de administrador de Adobe Analytics o el permiso [!UICONTROL **Migración de componentes**] en Admin Console. No es necesario que sea un administrador.
 
-* Los [requisitos previos](https://experienceleague.adobe.com/es/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#prerequisites) para la migración de componentes en la documentación de Adobe Analytics.
+* Los [requisitos previos](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#prerequisites) para la migración de componentes en la documentación de Adobe Analytics.
 
 * Proyecto que utiliza grupos de informes base. No se pueden migrar los grupos de informes virtuales.<!-- FLAG: Sourced from Coworker's response in the UI. The Adobe Analytics component migration docs don't mention virtual report suites. Confirm, and consider adding it to those docs. -->
 
@@ -62,7 +85,7 @@ Para migrar proyectos con Coworker, necesita:
 
 <!-- FLAG: Confidence: Medium. The recommendation to review mappings before the first migration from a report suite is inferred from the Adobe Analytics guidance to decide mappings as an organization; Coworker also validates mappings during each migration. Confirm with Scott. -->
 
-Considere la posibilidad de revisar cómo se asignan las dimensiones y métricas de un grupo de informes antes de la primera migración desde ese grupo de informes. Las asignaciones se aplican a todos los proyectos que migra su organización, por lo que la configuración en primer lugar ayuda a los proyectos posteriores a aprobar la validación. Para obtener instrucciones sobre cómo elegir asignaciones, consulte [Decida como organización cómo asignará los componentes](https://experienceleague.adobe.com/es/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#decide-as-an-organization-how-you-will-map-components) en la documentación de Adobe Analytics.
+Considere la posibilidad de revisar cómo se asignan las dimensiones y métricas de un grupo de informes antes de la primera migración desde ese grupo de informes. Las asignaciones se aplican a todos los proyectos que migra su organización, por lo que la configuración en primer lugar ayuda a los proyectos posteriores a aprobar la validación. Para obtener instrucciones sobre cómo elegir asignaciones, consulte [Decida como organización cómo asignará los componentes](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#decide-as-an-organization-how-you-will-map-components) en la documentación de Adobe Analytics.
 
 Para revisar las asignaciones, seleccione [!UICONTROL **Revisar asignaciones solamente**] en la ficha [!UICONTROL **Ámbito**] o pregunte directamente al Compañero de trabajo:
 
@@ -157,13 +180,13 @@ El compañero valida el proyecto con la vista de datos seleccionada y, a continu
 * **Métrica:** Ocurrencias se convierte en eventos
 * **Dimension:** La hora permanece Hora
 
-Para ver los componentes y elementos de proyecto que se migran, consulte [Comprender lo que se incluye en una migración](https://experienceleague.adobe.com/es/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-what-is-included-in-a-migration) en la documentación de Adobe Analytics.
+Para ver los componentes y elementos de proyecto que se migran, consulte [Comprender lo que se incluye en una migración](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-what-is-included-in-a-migration) en la documentación de Adobe Analytics.
 
 Si la validación no pasa:
 
 * **Dimensiones o métricas que no se pueden asignar automáticamente:** El compañero sugiere una dimensión o métrica en la vista de datos para asignar cada una de ellas a, actualiza la asignación y, a continuación, valida de nuevo el proyecto. También puede indicarle a su Compañero de trabajo a qué dimensión o métrica asignarla, por ejemplo, &quot;Asignar vistas de página a web.webPageDetails.pageViews.value&quot;.
 
-* **Elementos no compatibles:** Quite cualquier elemento no compatible del proyecto en Adobe Analytics. Por ejemplo, asegúrese de que cada panel utilice un grupo de informes base en lugar de un grupo de informes virtuales. A continuación, pida a sus compañeros que comprueben de nuevo el proyecto. Para obtener la lista de elementos no compatibles, consulte [Comprender los elementos no compatibles que causan errores](https://experienceleague.adobe.com/es/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-unsupported-elements-that-cause-errors) en la documentación de Adobe Analytics.
+* **Elementos no compatibles:** Quite cualquier elemento no compatible del proyecto en Adobe Analytics. Por ejemplo, asegúrese de que cada panel utilice un grupo de informes base en lugar de un grupo de informes virtuales. A continuación, pida a sus compañeros que comprueben de nuevo el proyecto. Para obtener la lista de elementos no compatibles, consulte [Comprender los elementos no compatibles que causan errores](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-unsupported-elements-that-cause-errors) en la documentación de Adobe Analytics.
 
 Para comprobar las asignaciones de todo un grupo de informes antes de migrar, consulte [Revisar las asignaciones de los grupos de informes antes de migrar](#review-report-suite-mappings-before-you-migrate).
 
@@ -196,11 +219,11 @@ Las migraciones se ejecutan en segundo plano, por lo que es posible que el nuevo
    | En cola | La migración está esperando para iniciarse. |
    | Iniciado | La migración está en curso. |
    | Completado | La migración ha finalizado. El compañero proporciona un resumen de lo que se ha migrado, incluido el nombre del proyecto y la vista de datos. |
-   | Error | Error en la migración. Puede volver a intentar la migración. Consulte [Reintentar una migración fallida](https://experienceleague.adobe.com/es/docs/analytics/admin/admin-tools/component-migration/component-migration#retry-a-failed-migration) en la documentación de Adobe Analytics. |
+   | Error | Error en la migración. Puede volver a intentar la migración. Consulte [Reintentar una migración fallida](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/component-migration#retry-a-failed-migration) en la documentación de Adobe Analytics. |
 
 1. Cuando finalice la migración, abra el nuevo proyecto desde la lista de proyectos en Customer Journey Analytics Workspace.
 
-1. (Opcional) Transfiera la propiedad del proyecto a cualquier usuario de Customer Journey Analytics. Para obtener más información, consulte [Transferir recursos](https://experienceleague.adobe.com/es/docs/analytics-platform/using/tools/asset-transfer/transfer-assets).
+1. (Opcional) Transfiera la propiedad del proyecto a cualquier usuario de Customer Journey Analytics. Para obtener más información, consulte [Transferir recursos](https://experienceleague.adobe.com/en/docs/analytics-platform/using/tools/asset-transfer/transfer-assets).
 
 Una vez finalizada la migración, los compañeros pueden sugerir otro proyecto para migrar.
 
@@ -211,5 +234,5 @@ Una vez finalizada la migración, los compañeros pueden sugerir otro proyecto p
 
 ## Próximos pasos
 
-* Para migrar proyectos en la interfaz de usuario de Adobe Analytics, consulte [Migrar componentes y proyectos de Adobe Analytics a Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/analytics/admin/admin-tools/component-migration/component-migration) en la documentación de Adobe Analytics.
+* Para migrar proyectos en la interfaz de usuario de Adobe Analytics, consulte [Migrar componentes y proyectos de Adobe Analytics a Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/component-migration) en la documentación de Adobe Analytics.
 * Para los demás casos de uso de implementación y administración, consulte [Descripción general de la implementación y administración inteligentes](/help/chat/use-cases/data-insights/data-governance-and-validation.md).
