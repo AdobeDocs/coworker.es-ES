@@ -59,7 +59,7 @@ Use [!UICONTROL Control de acceso] en Coworker para administrar el acceso de ind
 
    Utilice este vídeo para aprender a administrar los usuarios de Coworker.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507154?captions=spa&learn=on){transcript=true}
 
 1. En **[!UICONTROL Establecer acceso predeterminado]**, active o desactive el acceso para su organización:
 
