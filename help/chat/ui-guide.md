@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
+source-git-commit: 1fd895142c5f222c3a5f47e30390d2cf9072fad1
 workflow-type: tm+mt
-source-wordcount: '2116'
+source-wordcount: '2131'
 ht-degree: 3%
 ---
 # Introducción al chat con compañeros {#ui-guide}
@@ -24,6 +24,7 @@ La siguiente tabla muestra dónde está disponible cada experiencia.
 |---|---|---|
 | Real-Time CDP | Disponible ahora | Próximamente |
 | Adobe Journey Optimizer | Disponible ahora | Próximamente |
+| Adobe Journey Optimizer B2B Edition | Disponible ahora | Próximamente |
 | Customer Journey Analytics | Disponible ahora | Disponible ahora |
 | Customer Journey Analytics B2B edition | Disponible ahora | Disponible ahora |
 | Content Analytics | Disponible ahora | Disponible ahora |
@@ -33,12 +34,13 @@ La siguiente tabla muestra dónde está disponible cada experiencia.
 | Target | Disponible ahora | Disponible ahora |
 | AEM | Disponible ahora | Disponible ahora |
 | Marketo Engage | Disponible ahora | Próximamente |
+| Marketo Optimizer | Disponible ahora | Disponible ahora |
 
 ## Iniciar sesión en [!DNL Coworker] {#sign-in}
 
 Inicie sesión en [!DNL Coworker] con sus credenciales de Adobe.
 
-1. [Inicia sesión](https://experienceleague.adobe.com/es/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) en CX Enterprise con tu Adobe ID.
+1. [Inicia sesión](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) en CX Enterprise con tu Adobe ID.
 
    Después de iniciar sesión, puede abrir [!DNL Coworker] desde el menú de la aplicación [!DNL CX Enterprise] o mediante un vínculo directo:
 

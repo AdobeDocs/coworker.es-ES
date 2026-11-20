@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: d3438a28430c6c845cea881e28ab8e22a636edbb
+source-git-commit: 386a24a7a52efce2e36f8391b55fd044e4f44a71
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '622'
 ht-degree: 0%
 ---
 # Control de acceso para el compañero {#access-control}
@@ -25,7 +25,7 @@ El control de acceso se aplica a los compañeros de trabajo tanto en el carril d
 
 ## Cómo se determina el acceso {#how-access-is-determined}
 
-El acceso de los compañeros de trabajo se controla mediante una configuración que abarca toda la organización y las invalidaciones opcionales de usuarios o grupos. La configuración de toda la organización habilita o deshabilita el acceso de Colaborador para los usuarios de su organización. El acceso puede estar habilitado o deshabilitado de forma predeterminada para su organización.
+Como administrador de Compañeros, use [!UICONTROL Establecer acceso predeterminado] para activar o desactivar el acceso de Compañeros para toda la organización. También puede configurar las invalidaciones de acceso para usuarios o grupos de usuarios específicos. El acceso puede estar habilitado o deshabilitado de forma predeterminada para su organización.
 
 | Configuración | Cómo afecta al acceso |
 | --- | --- |
@@ -61,6 +61,13 @@ Use [!UICONTROL Control de acceso] en Coworker para administrar el acceso de ind
 
    >[!VIDEO](https://video.tv.adobe.com/v/3507154?captions=spa&learn=on){transcript=true}
 
+1. En **[!UICONTROL Establecer acceso predeterminado]**, active o desactive el acceso para su organización:
+
+   * **Activado:** Habilite el acceso de Compañero de trabajo para todos los miembros de su organización, sujeto a las invalidaciones de usuarios o grupos.
+   * **Desactivado:** Deshabilita el acceso de Compañero de trabajo para todos los miembros de tu organización, a menos que permitas invalidaciones de usuarios o grupos.
+
+   Para conceder acceso a usuarios o grupos específicos mientras el acceso a la organización está desactivado, active **[!UICONTROL Permitir invalidaciones]**. Seleccione **[!UICONTROL Agregar invalidación]** para agregar los usuarios o grupos que deben tener acceso.
+
 1. Seleccione **[!UICONTROL Usuarios]** para administrar el acceso individual o **[!UICONTROL Grupos de usuarios]** para administrar el acceso de grupo. Se aplica una configuración de grupo de usuarios a sus miembros.
 
    Los grupos de usuarios de compañeros de trabajo son independientes de [!DNL Adobe Admin Console] grupos. La sincronización de grupos de usuarios de [!DNL Adobe Admin Console] con el Compañero de trabajo está disponible próximamente.
@@ -69,8 +76,6 @@ Use [!UICONTROL Control de acceso] en Coworker para administrar el acceso de ind
 
    * **Habilitado:** El usuario o grupo de usuarios está activo.
    * **Deshabilitado:** El usuario o grupo de usuarios está inactivo.
-
-   Cuando se deshabilite el acceso para todos, active **[!UICONTROL Permitir invalidaciones]** y seleccione **[!UICONTROL Agregar invalidación]** para agregar usuarios o grupos que aún deben tener acceso.
 
 ## Permisos en aplicaciones CX Enterprise compatibles con Coworker {#permissions-in-compatible-applications}
 
