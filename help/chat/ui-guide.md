@@ -63,7 +63,7 @@ En la parte inferior izquierda de la interfaz, puede especificar las opciones y 
 | Configuración/opción | Úselo para lo siguiente |
 | --- | --- |
 | Nombre de cuenta y correo electrónico | Confirme la cuenta de Adobe con la que ha iniciado sesión. |
-| **[!UICONTROL Notificaciones]** (icono de campana) | Ver tus [notificaciones](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
+| **[!UICONTROL Notificaciones]** (icono de campana) | Ver tus [notificaciones](https://experienceleague.adobe.com/es/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
 | **[!UICONTROL Tema]** | Cambiar entre los temas Claro y Oscuro. |
 | **[!UICONTROL Configuración de la aplicación]** | Ver los detalles de la cuenta y la configuración de Workspace. |
 | **[!UICONTROL Preferencias]** | Abra su cuenta [preferencias](https://experienceleague.adobe.com/es/docs/core-services/interface/features/account-preferences). La flecha indica que la página se abre fuera de Compañero de trabajo. |
