@@ -17,7 +17,7 @@ ht-degree: 8%
 
 Aprenda a utilizar Coworker para comparar versiones de un recorrido de Adobe Journey Optimizer. Explore comparaciones visuales y resúmenes detallados para identificar cambios en las actividades, ramas y propiedades del recorrido, y realice un seguimiento de cuándo se realizaron actualizaciones específicas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507163/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3507249/?captions=spa&learn=on&enablevpops)
 
 ## Consulte también
 
