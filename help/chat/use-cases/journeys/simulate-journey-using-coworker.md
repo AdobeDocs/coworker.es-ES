@@ -34,6 +34,6 @@ Use Coworker para simular un recorrido de Adobe Journey Optimizer con perfiles y
 
 ## Consulte también
 
-- [Colaborador para recorridos: simulación de Recorridos](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"}, con casos de uso clave y limitaciones de la simulación de recorridos con Colaborador.
-- [Aptitudes de colaborador para Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, una descripción general de las aptitudes de colaborador en Journey Optimizer.
+- [Colaborador para recorridos: simulación de Recorridos](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"}, con casos de uso clave y limitaciones de la simulación de recorridos con Colaborador.
+- [Aptitudes de colaborador para Journey Optimizer](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, una descripción general de las aptitudes de colaborador en Journey Optimizer.
 - [Más flujos de trabajo de Coworker Chat](../workflows.md#journeys)

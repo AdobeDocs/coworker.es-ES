@@ -27,7 +27,7 @@ Describa el recorrido que desea crear y su compañero lo redactará en Adobe Jou
 
 ## Consulte también
 
-- [Compañero de trabajo para recorridos: creación de Recorrido](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, con casos de uso clave, prácticas recomendadas de solicitud y habilidades fuera del ámbito para crear recorridos en Adobe Journey Optimizer.
-- [Aptitudes de colaborador para Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, una descripción general de las aptitudes de colaborador en Journey Optimizer.
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la capacidad de IA subyacente que impulsa la creación de recorridos en el chat de Coworker.
+- [Compañero de trabajo para recorridos: creación de Recorrido](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, con casos de uso clave, prácticas recomendadas de solicitud y habilidades fuera del ámbito para crear recorridos en Adobe Journey Optimizer.
+- [Aptitudes de colaborador para Journey Optimizer](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, una descripción general de las aptitudes de colaborador en Journey Optimizer.
+- [Journey Agent](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la capacidad de IA subyacente que impulsa la creación de recorridos en el chat de Coworker.
 - [Más flujos de trabajo de Coworker Chat](../workflows.md#journeys)
