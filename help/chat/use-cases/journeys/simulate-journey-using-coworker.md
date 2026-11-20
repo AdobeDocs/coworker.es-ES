@@ -20,10 +20,10 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
+source-git-commit: cf3c531cc5daacec7b917cad472fe95b08f31b9a
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 1%
 ---
 
 # Simulación de un recorrido de Adobe Journey Optimizer mediante Coworker
@@ -31,3 +31,9 @@ ht-degree: 0%
 Use Coworker para simular un recorrido de Adobe Journey Optimizer con perfiles y eventos de prueba generados automáticamente. En este vídeo aprenderá a probar las rutas de recorrido, recibir mensajes de prueba y revisar la cobertura de las rutas y los resultados de simulación antes de publicar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3507034?captions=spa&learn=on)
+
+## Consulte también
+
+- [Colaborador para recorridos: simulación de Recorridos](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"}, con casos de uso clave y limitaciones de la simulación de recorridos con Colaborador.
+- [Aptitudes de colaborador para Journey Optimizer](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, una descripción general de las aptitudes de colaborador en Journey Optimizer.
+- [Más flujos de trabajo de Coworker Chat](../workflows.md#journeys)

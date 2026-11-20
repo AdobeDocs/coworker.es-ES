@@ -23,14 +23,20 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: da31900f-0b2e-4267-a5f8-69290b954752
     internal-label: Customer experience management
-source-git-commit: b5b8b4188aaa1c81c63a2b089c5dd12b408dbcda
+source-git-commit: cf3c531cc5daacec7b917cad472fe95b08f31b9a
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '142'
+ht-degree: 5%
 ---
 
-# Creación de un recorrido a partir de una imagen
+# Crear un recorrido a partir de una imagen
 
 Cargue una imagen de diagrama de flujo, como una diapositiva de PowerPoint, en CX Enterprise Coworker. En este vídeo, vea cómo revisar el mensaje extraído de la imagen, especificar el evento de déclencheur y guardar un borrador de recorrido editable en Adobe Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504868/?captions=spa&learn=on&enablevpops)
+
+## Consulte también
+
+- [Compañero de trabajo para recorridos: creación de Recorrido](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, con casos de uso clave, prácticas recomendadas de solicitud y habilidades fuera del ámbito para crear recorridos en Adobe Journey Optimizer.
+- [Aptitudes de colaborador para Journey Optimizer](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, una descripción general de las aptitudes de colaborador en Journey Optimizer.
+- [Más flujos de trabajo de Coworker Chat](../workflows.md#journeys)
