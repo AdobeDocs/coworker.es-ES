@@ -40,7 +40,7 @@ La siguiente tabla muestra dónde está disponible cada experiencia.
 
 Inicie sesión en [!DNL Coworker] con sus credenciales de Adobe.
 
-1. [Inicia sesión](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) en CX Enterprise con tu Adobe ID.
+1. [Inicia sesión](https://experienceleague.adobe.com/es/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) en CX Enterprise con tu Adobe ID.
 
    Después de iniciar sesión, puede abrir [!DNL Coworker] desde el menú de la aplicación [!DNL CX Enterprise] o mediante un vínculo directo:
 
